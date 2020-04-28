@@ -15,3 +15,20 @@
 * [Scraping & Crawling](data-processing/scraping-and-crawling.md)
 * [Regular Expression](data-processing/regular-expression.md)
 
+## Distrubuted Processing
+
+* [Hadoop](distrubuted-processing/hadoop.md)
+* [Spark](distrubuted-processing/spark.md)
+* [▹AWS EMR & Glue](distrubuted-processing/aws-emr-and-glue.md)
+
+## Relational DB
+
+* [SQL](relational-db/sql.md)
+* [MySQL](relational-db/mysql.md)
+* [PostgreSQL](relational-db/postgresql.md)
+* [AWS Aurora](relational-db/aws-aurora.md)
+
+## NoSQL DB
+
+* [MongoDB](nosql-db/mongodb.md)
+

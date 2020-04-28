@@ -52,9 +52,8 @@
 
 ## Pandas 대체 라이브러리
 
-참고 : [Database-like ops benchmark](https://h2oai.github.io/db-benchmark/)
-
-> single machine에서 다양한 라이브러리로 groupby, join 연산 수행 시 성능 비교
+참고 : [Database-like ops benchmark](https://h2oai.github.io/db-benchmark/)  
+  -  _single machine에서 다양한 라이브러리로 groupby, join 연산 수행 시 성능 비교_
 
 #### Dask
 
