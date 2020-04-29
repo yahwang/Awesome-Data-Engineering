@@ -1,4 +1,4 @@
-# ▹AWS EMR & Glue
+# ▹ AWS EMR & Glue
 
 ## Glue
 

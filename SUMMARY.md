@@ -19,7 +19,7 @@
 
 * [Hadoop](distrubuted-processing/hadoop.md)
 * [Spark](distrubuted-processing/spark.md)
-* [▹AWS EMR & Glue](distrubuted-processing/aws-emr-and-glue.md)
+* [▹ AWS EMR & Glue](distrubuted-processing/aws-emr-and-glue.md)
 
 ## Relational DB
 
@@ -31,4 +31,9 @@
 ## NoSQL DB
 
 * [MongoDB](nosql-db/mongodb.md)
+
+## SQL Query Engine
+
+* [Amazon Athena](sql-query-engine/amazon-athena.md)
+* [Google BigQuery](sql-query-engine/google-bigquery.md)
 

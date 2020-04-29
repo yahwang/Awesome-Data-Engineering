@@ -35,6 +35,8 @@ BUSINESS INTELLIGENCE와 DATA SCIENCE를 돕기 위해 Data Pipeline을 구축�
 
 ## Data Pipeline 예
 
+Data Engineering Tools 소개 [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
+
 ![&#xCD9C;&#xCC98; : towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5](https://miro.medium.com/max/1260/1*cvQDKx13Peirep-NKaPtSQ.png)
 
 #### **serverless architecture of data pipeline**
