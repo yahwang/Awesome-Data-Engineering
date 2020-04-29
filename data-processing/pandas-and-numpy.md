@@ -13,7 +13,7 @@
 
 ## _P_andas 최적화 관련
 
-🖥 [뚱뚱하고 굼뜬 판다스\(Pandas\)를 위한 효과적인 다이어트 전략](https://www.youtube.com/watch?v=0Vm9Yi_ig58&t=2s) - by 오성우 \(PyCon 2019\)
+📺 [뚱뚱하고 굼뜬 판다스\(Pandas\)를 위한 효과적인 다이어트 전략](https://www.youtube.com/watch?v=0Vm9Yi_ig58&t=2s) - by 오성우 \(PyCon 2019\)
 
 * [How to reduce memory usage in Pandas](https://www.mikulskibartosz.name/how-to-reduce-memory-usage-in-pandas/)  
   -  _Numeric 데이터 타입 변경으로 메모리를 최적화하는 코드 \(영상에서 언급\)_

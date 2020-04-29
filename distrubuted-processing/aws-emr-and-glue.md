@@ -2,7 +2,7 @@
 
 ## Glue
 
-🖥 [효율적인 빅데이터 분석 및 처리를 위한 Glue, EMR 활용](https://www.youtube.com/watch?v=aavblrrk4Fo) - by AWS
+📺 [효율적인 빅데이터 분석 및 처리를 위한 Glue, EMR 활용](https://www.youtube.com/watch?v=aavblrrk4Fo) - by AWS
 
 [Implementing ETL job using AWS Glue](https://techmagie.wordpress.com/2019/07/29/implementing-etl-job-using-aws-glue/)
 
@@ -12,7 +12,7 @@
 
 [AWS Glue: Lesson learned…](https://medium.com/@techatcore/aws-glue-lesson-learned-437d73f3e988)
 
-🎞 [우리는 왜 glue를 버렸나?](https://www.slideshare.net/Thomas_Hyun_Park/20200206-glue) - by 메쉬 코리아
+📊 [우리는 왜 glue를 버렸나?](https://www.slideshare.net/Thomas_Hyun_Park/20200206-glue) - by 메쉬 코리아
 
 ## EMR \(Spark\)
 

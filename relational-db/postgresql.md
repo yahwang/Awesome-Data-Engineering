@@ -1,6 +1,6 @@
 # PostgreSQL
 
-🖥 [Why PostgreSQL is Becoming a Migration Target in Large Enterprises 1](https://www.youtube.com/watch?v=RHRhQMw1Ne8&list=WL&index=2&t=0s) - by Percona
+📺 [Why PostgreSQL is Becoming a Migration Target in Large Enterprises 1](https://www.youtube.com/watch?v=RHRhQMw1Ne8&list=WL&index=2&t=0s) - by Percona
 
 ## Setting
 

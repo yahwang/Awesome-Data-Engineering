@@ -37,3 +37,11 @@
 * [Amazon Athena](sql-query-engine/amazon-athena.md)
 * [Google BigQuery](sql-query-engine/google-bigquery.md)
 
+## Workflow Management
+
+* [Airflow](workflow-management/airflow.md)
+
+## Streaming
+
+* [Kafka](streaming/kafka.md)
+
