@@ -2,6 +2,7 @@
 
 * [Introduction to Data Engineer](README.md)
 * [블로그, 영상 및 도서](undefined-1.md)
+* [연습용 데이터](undefined.md)
 
 ## Data Engineering 개념
 
@@ -9,9 +10,18 @@
 * [Data Warehouse](data-engineering/data-warehouse.md)
 * [Data Infra 구축 자료](data-engineering/data-infra.md)
 
+## Language
+
+* [Python](language/python.md)
+
+## Linux <a id="linux-1"></a>
+
+* [Linux \(Ubuntu 기준\)](linux-1/linux-ubuntu.md)
+
 ## Data Processing
 
 * [Pandas & Numpy](data-processing/pandas-and-numpy.md)
+* [Beyond Pandas](data-processing/beyond-pandas.md)
 * [Scraping & Crawling](data-processing/scraping-and-crawling.md)
 * [Regular Expression](data-processing/regular-expression.md)
 
@@ -23,7 +33,7 @@
 
 ## Relational DB
 
-* [SQL](relational-db/sql.md)
+* [SQL Query](relational-db/sql.md)
 * [MySQL](relational-db/mysql.md)
 * [PostgreSQL](relational-db/postgresql.md)
 * [AWS Aurora](relational-db/aws-aurora.md)
@@ -40,8 +50,20 @@
 ## Workflow Management
 
 * [Airflow](workflow-management/airflow.md)
+* [dbt \(for DW\)](workflow-management/dbt-for-dw.md)
+
+## VISUALIZATION
+
+* [Superset](visualization/superset.md)
+* [기타](visualization/undefined.md)
 
 ## Streaming
 
 * [Kafka](streaming/kafka.md)
+
+## DevOps
+
+* [Docker](devops/docker.md)
+* [Kubernetes](devops/kubernetes.md)
+* [ELK](elk.md)
 

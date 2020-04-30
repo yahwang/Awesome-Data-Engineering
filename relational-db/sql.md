@@ -1,4 +1,4 @@
-# SQL
+# SQL Query
 
 [데이터분석, 먹고 들어가기 위한 SQL 공부법](https://brunch.co.kr/@minu-log/5) - by 김민우님
 

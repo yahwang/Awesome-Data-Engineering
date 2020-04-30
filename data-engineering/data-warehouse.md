@@ -17,7 +17,7 @@
 [Slowly Changing Dimension ? What’s That ?](https://medium.com/@atriadplt/slowly-changing-dimension-whats-that-8ebf7cfef113)  
   -  _SCD\(Slowly Changing Dimension\)에 대한 이해 \( historical data를 어떻게 다룰 것인가 \)_
 
-* 🖥 [Slowly Changing Dimensions For Data Engineers](https://www.youtube.com/watch?v=1FZ7et0pN4c) - by Ben R
+* 📺 [Slowly Changing Dimensions For Data Engineers](https://www.youtube.com/watch?v=1FZ7et0pN4c) - by Ben R
 
 [Managing Dimensions - Slowly and Rapidly Changing Dimension](https://towardsdatascience.com/building-a-modern-batch-data-warehouse-without-updates-7819bfa3c1ee#beba)  
   -  _dimension 테이블을 snapshot으로 관리하는 방법 \(e.g. user 테이블\)_
