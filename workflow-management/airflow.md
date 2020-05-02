@@ -15,6 +15,8 @@
 
 ## Setting
 
+[Apache Airflow: Dask Executor](https://medium.com/@bpleines5qa/apache-airflow-dask-executor-17eea5d26a8b)
+
 [How to deploy Apache Airflow with Celery on AWS](https://towardsdatascience.com/how-to-deploy-apache-airflow-with-celery-on-aws-ce2518dbf631)  
   -  _ECS\(fargate\)를 활용하여 구축_
 

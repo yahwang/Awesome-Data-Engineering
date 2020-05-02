@@ -17,6 +17,10 @@ description: Pandas를 보완 혹은 대체하는 역할
 [Are you still using Pandas for big data?](https://towardsdatascience.com/are-you-still-using-pandas-for-big-data-12788018ba1a)  
   -  pandas로 다루기 힘든 큰 데이터에는 Dask를 함께 활용
 
+[A Data Scientist’s Intro to Parallel Computing With _Dask_](https://towardsdatascience.com/a-data-scientists-intro-to-parallel-computing-with-dask-4c1b4a464579)
+
+[DASK Scheduler Dashboard: Understanding resource and task allocation in Local Machines](https://medium.com/@kartikbhanot/dask-scheduler-dashboard-understanding-resource-and-task-allocation-in-local-machines-bc5aa60eca6e)
+
 ## Vaex
 
 > 문자열 처리에 특히 뛰어남

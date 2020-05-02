@@ -21,9 +21,15 @@
 
 [데이터 엔지니어가 알아야 할 최소한의 수학](https://www.youtube.com/watch?v=d6ScsU6y3fs) - in DEVGROUND JUNIOR 2019
 
+Data Engineering Tools 소개 [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - by igorbarinov
+
+![&#xCD9C;&#xCC98; : https://medium.com/gusto-engineering/what-is-data-engineering-65515c1df9af](https://miro.medium.com/max/1260/1*oGjeteGw-mg5Ki8-d7S7YA.png)
+
 ![Intro\_2](.gitbook/assets/intro_2.jpg)
 
 ![&#xCD9C;&#xCC98; : https://www.youtube.com/watch?v=24qT\_lshLDk&amp;t=359s \(~ 11:00\) by NHN FORWARD](.gitbook/assets/intro_1.jpg)
+
+![&#xCD9C;&#xCC98; : https://medium.com/gusto-engineering/what-is-data-engineering-65515c1df9af](https://miro.medium.com/max/1260/1*oGjeteGw-mg5Ki8-d7S7YA.png)
 
 ## Data Engineer가 하는 일
 
@@ -34,8 +40,6 @@ BUSINESS INTELLIGENCE와 DATA SCIENCE를 돕기 위해 Data Pipeline을 구축�
 ![&#xCD9C;&#xCC98; : https://medium.com/gusto-engineering/what-is-data-engineering-65515c1df9af](https://miro.medium.com/max/1260/1*oGjeteGw-mg5Ki8-d7S7YA.png)
 
 ## Data Pipeline 예
-
-Data Engineering Tools 소개 [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
 
 ![&#xCD9C;&#xCC98; : towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5](https://miro.medium.com/max/1260/1*cvQDKx13Peirep-NKaPtSQ.png)
 
