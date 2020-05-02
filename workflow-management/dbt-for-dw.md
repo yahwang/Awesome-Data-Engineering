@@ -8,3 +8,7 @@
 
 [Practical tips to get the best out of Data Build Tool \(dbt\) ](https://medium.com/photobox-technology-product-and-design/practical-tips-to-get-the-best-out-of-data-building-tool-dbt-part-1-8cfa21ef97c5)
 
+
+
+![&#xCD9C;&#xCC98; : https://docs.getdbt.com/docs/supported-databases](../.gitbook/assets/dbt_supported.png)
+

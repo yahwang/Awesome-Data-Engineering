@@ -1,5 +1,9 @@
 # Pandas & Numpy
 
+| 이미지 | 도서명 | 출시연도 | 링크  |
+| :---: | :---: | :---: | :---: |
+| ![](https://image.aladin.co.kr/product/16902/16/cover150/k202534274_1.jpg) | Do it!  데이터 분석을 위한 판다스 입문 | 2018 | [알라딘  도서정보](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=169021617) |
+
 [How to master Pandas in 20 Minutes](https://towardsdatascience.com/how-to-master-pandas-8514f33f00f6)  
   -  _Basic & Advanced Tutorial Series_
 

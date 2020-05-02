@@ -51,6 +51,7 @@
 
 * [Airflow](workflow-management/airflow.md)
 * [dbt \(for DW\)](workflow-management/dbt-for-dw.md)
+* [Others](workflow-management/others.md)
 
 ## VISUALIZATION
 
