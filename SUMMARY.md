@@ -53,6 +53,10 @@
 * [dbt \(for DW\)](workflow-management/dbt-for-dw.md)
 * [Others](workflow-management/others.md)
 
+## DATA MANAGEMENT
+
+* [Tools](data-management/tools.md)
+
 ## VISUALIZATION
 
 * [Superset](visualization/superset.md)
