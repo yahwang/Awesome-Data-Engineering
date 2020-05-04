@@ -7,7 +7,9 @@ description: Pandas를 보완 혹은 대체하는 역할
 ## Dask
 
 > Dask is built on top of pandas / Data를 block 단위로 나누어 처리  
-> Multi-Processing\(Parallel\) 연산 / Cluster 구성 가능
+> Multi-Processing\(Parallel\) 연산 / Cluster 구성 가능  
+> RAPIDS - GPU 연산 가  
+> Numpy, Pandas, Scikit-learn과 호환하여 활용도가 높
 
 > Pandas에서 느린 연산은 Dask에서도 느림  
 > Parallel 처리가 어려운 함수들은 미지원  e.g. 정렬
@@ -18,6 +20,9 @@ description: Pandas를 보완 혹은 대체하는 역할
   -  pandas로 다루기 힘든 큰 데이터에는 Dask를 함께 활용
 
 [A Data Scientist’s Intro to Parallel Computing With _Dask_](https://towardsdatascience.com/a-data-scientists-intro-to-parallel-computing-with-dask-4c1b4a464579)
+
+[Comparison to Spark _- Dask Docs_](https://docs.dask.org/en/latest/spark.html)  
+  _- Dask와 Spark 비교 \(Dask는 complex and flexible parallelism 처리에 장점 \)_
 
 [DASK Scheduler Dashboard: Understanding resource and task allocation in Local Machines](https://medium.com/@kartikbhanot/dask-scheduler-dashboard-understanding-resource-and-task-allocation-in-local-machines-bc5aa60eca6e)
 
@@ -33,13 +38,18 @@ description: Pandas를 보완 혹은 대체하는 역할
 
 [Vaex: A DataFrame with super strings](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861)
 
+## Great Expectations
+
+> Python-based  Data Validation Tool  
+> pandas, SQL \(through the SQLAlchemy core\), and Spark support
+
+[간단 소개 글](https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501#46d8)
+
+[https://github.com/great-expectations/great\_expectations](https://github.com/great-expectations/great_expectations)
+
 ## Modin
 
 > Pandas보다는 아직 성능이 좋지 못하다는 평이 많음
-
-## cuDF
-
-> nVidia graphic이 필요
 
 ## ETC
 

@@ -45,9 +45,6 @@
 
 ## Pandas 추가 기능
 
-[Generation of large CSV data using Python Faker library](https://towardsdatascience.com/generation-of-large-csv-data-using-python-faker-8cfcbedca7a7)  
-  -  _Python의 Faker로 테스트용 랜덤 데이터 생성하는 법_
-
 [Data Profiling](https://kanoki.org/2019/01/15/pandas-exploratory-data-analysis-data-profiling/) - Overview of data를 시각적으로 표현
 
 [Build pipelines with Pandas using “pdpipe”](https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31)

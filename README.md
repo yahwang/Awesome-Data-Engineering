@@ -14,6 +14,9 @@
 
 [리디북스 데이터팀 소개](https://www.ridicorp.com/career/data-engineer/) - by 리디북스
 
+[What I learned from being a startup's first Data Engineer](https://towardsdatascience.com/what-i-learned-from-being-a-startups-first-data-engineer-f19cd71d3f31)  
+  -  회사의 첫 Data Engineer로 일한 경험 및 조언
+
 [A Data Engineer’s Perspective On Data Democratization](https://towardsdatascience.com/a-data-engineers-perspective-on-data-democratization-a8aed10f4253)  
   -  _data-driven company를 구축하기 위한 Data Engineer의 역할_
 

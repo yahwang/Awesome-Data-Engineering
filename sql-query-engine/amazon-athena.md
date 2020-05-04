@@ -6,6 +6,10 @@ description: Apache Presto 기반
 
 [BigQuery vs Athena](https://chartio.com/resources/tutorials/bigquery-vs-athena/) - by CHARTIO
 
+[Amazon Redshift Vs Athena: An In-Depth Comparison](https://hevodata.com/blog/amazon-redshift-vs-athena/) - by HEVO
+
+## 
+
 [CSV Analysis with Amazon Athena](https://medium.com/avmconsulting-blog/csv-analysis-with-amazon-athena-b241f87f010c)
 
 [Simple way to query Amazon Athena in python with boto3](https://www.ilkkapeltola.fi/2018/04/simple-way-to-query-amazon-athena-in.html)

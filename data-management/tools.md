@@ -2,7 +2,7 @@
 description: 'automate the collection, search and discovery of metadata related to datasets'
 ---
 
-# Tools
+# Meta Data
 
 [How LinkedIn, Uber, Lyft, Airbnb and Netflix are Solving Data Management and Discovery for Machine Learning Solutions](https://towardsdatascience.com/how-linkedin-uber-lyft-airbnb-and-netflix-are-solving-data-management-and-discovery-for-machine-9b79ee9184bb)
 

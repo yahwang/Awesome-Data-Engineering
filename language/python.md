@@ -53,6 +53,9 @@
 
 [Benchmarking the Best Way to Reverse a String in Python](https://medium.com/better-programming/benchmarking-the-best-way-to-reverse-a-string-in-python-9c73d87b1b1a)
 
+[Five Most Useful Pathlib Operations](https://medium.com/swlh/five-most-useful-pathlib-operations-77f9c96790b3)  
+  - os.path 대신 pathlib을 사
+
 [A Complete Guide to Using Progress Bars in Python](https://towardsdatascience.com/a-complete-guide-to-using-progress-bars-in-python-aa7f4130cda8)
 
 [How to Supercharge Excel With Python](https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2) - Excel의 VBA를 python으로

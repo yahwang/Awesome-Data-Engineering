@@ -50,12 +50,14 @@
 ## Workflow Management
 
 * [Airflow](workflow-management/airflow.md)
+* [Prefect](workflow-management/prefect.md)
 * [dbt \(for DW\)](workflow-management/dbt-for-dw.md)
 * [Others](workflow-management/others.md)
 
 ## DATA MANAGEMENT
 
-* [Tools](data-management/tools.md)
+* [Meta Data](data-management/tools.md)
+* [Versioned Data](data-management/versioned-data.md)
 
 ## VISUALIZATION
 
