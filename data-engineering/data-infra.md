@@ -16,9 +16,11 @@
 
 📊 [야놀자에서 데이터를 더하는 법](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit?fbclid=IwAR3ES23k2TA6GkXFL3okMS5qvCuKf_I8D1Z78kZqx1DrJUedygr-CTGMV6s#slide=id.g5a8697579c_0_123) 2️⃣0️⃣1️⃣9️⃣ - by 야놀자
 
-📺 [Order monitoring and anomaly detection with Elastic Stack](https://www.elastic.co/kr/elasticon/tour/2019/seoul/eleven-street-order-monitoring-and-anomaly-detection-with-elastic-stack) 2️⃣0️⃣1️⃣9️⃣ - by 11번가
+📺 [Order monitoring and anomaly detection with Elastic Stack](https://www.elastic.co/kr/elasticon/tour/2019/seoul/eleven-street-order-monitoring-and-anomaly-detection-with-elastic-stack) 2️⃣0️⃣1️⃣9️⃣ - by 11번가  
+  -  _Kakfa - ELK \(event-driven\) 기반 주문 데이터 모니터링 및 이상치 탐지_
 
-> Kakfa - ELK \(event-driven\) 기반 주문 데이터 모니터링 및 이상치 탐지
+[Kurly에서 주문을 모니터링 하는 법](https://helloworld.kurly.com/blog/order-monitoring-service/#%EC%B2%AB-%EB%B0%B0%ED%8F%AC-%ED%9B%84-%EA%B2%AA%EC%97%88%EB%8D%98-%EC%9D%B4%EC%8A%88%EB%93%A4-) _- by Kurly  
+  -  실시간 주문 정보를 Kafka에 적재하여 Elasticsearch로 전환하는 과정_
 
 📺 [AWS 기반 서버리스 데이터 레이크 구축하기 - 김진웅](https://www.youtube.com/watch?v=qbdLrILjapA) 2️⃣0️⃣2️⃣0️⃣ - by SK C&C
 

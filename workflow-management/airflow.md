@@ -13,7 +13,14 @@
 [airflow tutorial\(1 ~ 7\) - Apply Data Science](https://www.applydatascience.com/page2/) \(자막 X \)  
   -  자체 docker image 활용 / 기초 설명과 bash 파이프라인 예제 \( + Google Composer, Bigquery 예제 \)
 
+[Airflow Schedule Interval 101](https://towardsdatascience.com/airflow-schedule-interval-101-bbdda31cc463)  
+  -  Airflow Scheduling에 대한 이해  
+  -  UI에 표시되 execution\_date와 start\_date 차이
+
 ## Setting
+
+[https://crontab.guru/](https://crontab.guru/)  
+  - cron schedule 표현을  시간으로 알려주는 사이트 
 
 [Apache Airflow: Dask Executor](https://medium.com/@bpleines5qa/apache-airflow-dask-executor-17eea5d26a8b)
 

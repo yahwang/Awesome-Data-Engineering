@@ -17,6 +17,8 @@ description: Apache Drill 기반
 
 [Querying External Data with BigQuery](https://medium.com/@_stevenlevine/querying-external-data-with-bigquery-1e7d055df4bc)
 
+[How to run BigQuery jobs programmatically using AWS Lambda and save results to S3 as CSV](https://medium.com/@mshakhomirov/how-to-run-bigquery-jobs-programmatically-using-aws-lambda-and-save-results-to-s3-as-csv-4fc7c19be47f)
+
 ## Google Analytics 활용
 
 [BigQuery + Cloud Functions: how to run your queries as soon as a new Google Analytics table is available](https://towardsdatascience.com/bigquery-cloud-functions-how-to-run-your-queries-as-soon-as-a-new-google-analytics-table-is-17fbb62f8aaa)
