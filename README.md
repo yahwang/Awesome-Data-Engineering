@@ -26,13 +26,9 @@
 
 Data Engineering Tools 소개 [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - by igorbarinov
 
-![&#xCD9C;&#xCC98; : https://medium.com/gusto-engineering/what-is-data-engineering-65515c1df9af](https://miro.medium.com/max/1260/1*oGjeteGw-mg5Ki8-d7S7YA.png)
-
 ![Intro\_2](.gitbook/assets/intro_2.jpg)
 
 ![&#xCD9C;&#xCC98; : https://www.youtube.com/watch?v=24qT\_lshLDk&amp;t=359s \(~ 11:00\) by NHN FORWARD](.gitbook/assets/intro_1.jpg)
-
-![&#xCD9C;&#xCC98; : https://medium.com/gusto-engineering/what-is-data-engineering-65515c1df9af](https://miro.medium.com/max/1260/1*oGjeteGw-mg5Ki8-d7S7YA.png)
 
 ## Data Engineer가 하는 일
 
