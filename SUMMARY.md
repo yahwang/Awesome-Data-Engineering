@@ -40,7 +40,7 @@
 
 ## NoSQL DB
 
-* [MongoDB](nosql-db/mongodb.md)
+* [MongoDB VS DynamoDB](nosql-db/mongodb.md)
 
 ## SQL Query Engine
 

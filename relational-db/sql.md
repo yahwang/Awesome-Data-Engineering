@@ -15,7 +15,8 @@
 ❓ [SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit) - by 프로그래머스
 
 ❓ _MySQL_ [Query Quiz ](https://codesignal.com/) - by CODESIGNAL  
-  -  _Arcade 내 database 풀기_
+  -  _Arcade 내 database 풀기  
+  -_  📺 [풀이 영상](https://www.youtube.com/playlist?list=PL8LH8gB86EpPWfgS-5a651zhL3RhLeqPH) by Data Analyst Toolkit
 
 ## Advanced
 

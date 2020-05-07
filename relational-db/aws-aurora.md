@@ -4,3 +4,7 @@
 
 > separated storage / async replication / load balancer\(reader endpoint\)
 
+## Aurora Serverless
+
+
+

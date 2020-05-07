@@ -54,7 +54,7 @@
 [Benchmarking the Best Way to Reverse a String in Python](https://medium.com/better-programming/benchmarking-the-best-way-to-reverse-a-string-in-python-9c73d87b1b1a)
 
 [Five Most Useful Pathlib Operations](https://medium.com/swlh/five-most-useful-pathlib-operations-77f9c96790b3)  
-  - os.path 대신 pathlib을 사
+  - os.path 대신 pathlib을 사용하자 
 
 [A Complete Guide to Using Progress Bars in Python](https://towardsdatascience.com/a-complete-guide-to-using-progress-bars-in-python-aa7f4130cda8)
 

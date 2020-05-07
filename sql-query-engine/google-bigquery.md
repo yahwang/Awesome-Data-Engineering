@@ -19,6 +19,9 @@ description: Apache Drill 기반
 
 [How to run BigQuery jobs programmatically using AWS Lambda and save results to S3 as CSV](https://medium.com/@mshakhomirov/how-to-run-bigquery-jobs-programmatically-using-aws-lambda-and-save-results-to-s3-as-csv-4fc7c19be47f)
 
+[Building Serverless Python Data APIs with Dockers on Google Cloud](https://towardsdatascience.com/building-serverless-python-data-apis-with-dockers-on-google-cloud-24d4f15cf81)  
+  -  Cloud Run으로 flask 컨테이너를 띄워 BigQuery DATA API Server 역할하는 
+
 ## Google Analytics 활용
 
 [BigQuery + Cloud Functions: how to run your queries as soon as a new Google Analytics table is available](https://towardsdatascience.com/bigquery-cloud-functions-how-to-run-your-queries-as-soon-as-a-new-google-analytics-table-is-17fbb62f8aaa)
