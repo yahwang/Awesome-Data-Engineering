@@ -40,9 +40,11 @@ BUSINESS INTELLIGENCE와 DATA SCIENCE를 돕기 위해 Data Pipeline을 구축�
 
 ![&#xCD9C;&#xCC98; : https://medium.com/gusto-engineering/what-is-data-engineering-65515c1df9af](https://miro.medium.com/max/1260/1*oGjeteGw-mg5Ki8-d7S7YA.png)
 
-## Data Pipeline 예
+## Data Pipeline Roadmap
 
 ![&#xCD9C;&#xCC98; : towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5](https://miro.medium.com/max/1260/1*cvQDKx13Peirep-NKaPtSQ.png)
+
+![&#xCD9C;&#xCC98; : https://towardsdatascience.com/building-a-data-warehouse-pipeline-basic-concepts-roadmap-d14032890ab6](https://miro.medium.com/max/1104/1*Q4eh3GE-3xgaSIo8TKOOLw.png)
 
 #### **serverless architecture of data pipeline**
 
