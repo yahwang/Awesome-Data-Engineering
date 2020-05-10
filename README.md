@@ -22,7 +22,7 @@
 [A Data Engineer’s Perspective On Data Democratization](https://towardsdatascience.com/a-data-engineers-perspective-on-data-democratization-a8aed10f4253)  
   -  _data-driven company를 구축하기 위한 Data Engineer의 역할_
 
-[Most In Demand Tech Skills for Data Engineers](https://towardsdatascience.com/most-in-demand-tech-skills-for-data-engineers-58f4c1ca25ab) - by Towards Data Science
+~~\*\*\*\*~~[Most In Demand Tech Skills for Data Engineers](https://towardsdatascience.com/most-in-demand-tech-skills-for-data-engineers-58f4c1ca25ab) - by Towards Data Science
 
 [데이터 엔지니어가 알아야 할 최소한의 수학](https://www.youtube.com/watch?v=d6ScsU6y3fs) - in DEVGROUND JUNIOR 2019
 

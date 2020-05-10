@@ -23,7 +23,7 @@
 * [Pandas & Numpy](data-processing/pandas-and-numpy.md)
 * [Beyond Pandas](data-processing/beyond-pandas.md)
 * [Scraping & Crawling](data-processing/scraping-and-crawling.md)
-* [Regular Expression](data-processing/regular-expression.md)
+* [Other ways](data-processing/regular-expression.md)
 
 ## Distrubuted Processing
 
@@ -73,5 +73,6 @@
 
 * [Docker](devops/docker.md)
 * [Kubernetes](devops/kubernetes.md)
+* [Project Jupyter](devops/project-jupyter.md)
 * [ELK](elk.md)
 

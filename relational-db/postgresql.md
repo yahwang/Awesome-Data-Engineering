@@ -2,6 +2,8 @@
 
 📺 [Why PostgreSQL is Becoming a Migration Target in Large Enterprises 1](https://www.youtube.com/watch?v=RHRhQMw1Ne8&list=WL&index=2&t=0s) - by Percona
 
+[MySQL vs PostgreSQL -- Choose the Right Database for Your Project](https://developer.okta.com/blog/2019/07/19/mysql-vs-postgres) - by okta
+
 ## Setting
 
 [Connect From Your Local Machine to a PostgreSQL in Docker](https://medium.com/better-programming/connect-from-local-machine-to-postgresql-docker-container-f785f00461a7)

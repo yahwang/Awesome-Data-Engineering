@@ -21,7 +21,7 @@
 ## Advanced
 
 [Advanced SQL Recipes to jump start your Analysis](http://www.silota.com/docs/recipes/) - by SILOTA  
-  -  Data Analyst에게 유용한 SQL 계산 방법 설
+  -  Data Analyst에게 유용한 SQL 계산 방법 설명 
 
 [Performance Tuning SQL Queries](https://mode.com/resources/sql-tutorial/sql-performance-tuning/) - by Mode
 
