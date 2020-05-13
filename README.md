@@ -38,6 +38,14 @@ BUSINESS INTELLIGENCE와 DATA SCIENCE를 돕기 위해 Data Pipeline을 구축�
 
 ![  &#xCD9C;&#xCC98; : https://miro.medium.com/max/1260/1\*Vfp8lIMB\_K4mL6yNeUGbpg.jpeg](https://miro.medium.com/max/1260/1*Vfp8lIMB_K4mL6yNeUGbpg.jpeg)
 
+#### Data Engineer
+
+> need to be much more focused on, and skilled at, **creative problem solving**  
+> need to be able to embrace and make use of an **ever-wider** array of tools and approaches  
+> need to give a lot more attention to **integration and optimization** _between_ tools and platforms  
+>   
+> _출처 : https://medium.com/analytics-matters/data-engineering-from-a-data-scientists-perspective-c8fddc31d3c1_
+
 ![&#xCD9C;&#xCC98; : https://medium.com/gusto-engineering/what-is-data-engineering-65515c1df9af](https://miro.medium.com/max/1260/1*oGjeteGw-mg5Ki8-d7S7YA.png)
 
 ## Data Pipeline Roadmap
