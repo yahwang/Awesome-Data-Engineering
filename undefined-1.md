@@ -42,12 +42,84 @@
 
 ## 관련 도서
 
-| 이미지 | 도서명 | 연도 | 링크 |
-| :---: | :---: | :---: | :---: |
-| ![](https://image.aladin.co.kr/product/16831/62/cover150/k812534667_1.jpg) | 데이터 분석 플랫폼 구축과 활용    - 엘라스틱서치를 이용한  로그 수집과 시각화 | 2018 | [알라딘 도서 정보](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168316274) |
-| ![](https://image.aladin.co.kr/product/17184/68/cover150/k292534797_1.jpg) | 빅데이터를 지탱하는 기술 | 2018 | [알라딘 도서 정보](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171846800) |
-| ![](https://wikidocs.net/images//book/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2018-03-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.41.33.png) | Python 데이터 분석 실무 | 2020 | [Wikidocs 무료 도서](https://wikidocs.net/book/1867) |
-| ![](https://raw.githubusercontent.com/andkret/Cookbook/master/images/CookbookCover.jpg) | The Data Engineering  Cookbook | 2019 | [Github Book](https://github.com/andkret/Cookbook) |
-
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">&#xC774;&#xBBF8;&#xC9C0;</th>
+      <th style="text-align:center">&#xB3C4;&#xC11C;&#xBA85;</th>
+      <th style="text-align:center">&#xC5F0;&#xB3C4;</th>
+      <th style="text-align:center">&#xB9C1;&#xD06C;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <img src="https://image.aladin.co.kr/product/16831/62/cover150/k812534667_1.jpg"
+        alt/>
+      </td>
+      <td style="text-align:center">&#xB370;&#xC774;&#xD130; &#xBD84;&#xC11D; &#xD50C;&#xB7AB;&#xD3FC; &#xAD6C;&#xCD95;&#xACFC;
+        &#xD65C;&#xC6A9;
+        <br />
+        <br />- &#xC5D8;&#xB77C;&#xC2A4;&#xD2F1;&#xC11C;&#xCE58;&#xB97C; &#xC774;&#xC6A9;&#xD55C;
+        <br
+        />&#xB85C;&#xADF8; &#xC218;&#xC9D1;&#xACFC; &#xC2DC;&#xAC01;&#xD654;</td>
+      <td
+      style="text-align:center">2018</td>
+        <td style="text-align:center"><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168316274">&#xC54C;&#xB77C;&#xB518;<br />&#xB3C4;&#xC11C; &#xC815;&#xBCF4;</a>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="https://image.aladin.co.kr/product/17184/68/cover150/k292534797_1.jpg"
+        alt/>
+      </td>
+      <td style="text-align:center">&#xBE45;&#xB370;&#xC774;&#xD130;&#xB97C; &#xC9C0;&#xD0F1;&#xD558;&#xB294;
+        &#xAE30;&#xC220;</td>
+      <td style="text-align:center">2018</td>
+      <td style="text-align:center"><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171846800">&#xC54C;&#xB77C;&#xB518;<br />&#xB3C4;&#xC11C; &#xC815;&#xBCF4;</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="https://wikidocs.net/images//book/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2018-03-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_12.41.33.png"
+        alt/>
+      </td>
+      <td style="text-align:center">Python &#xB370;&#xC774;&#xD130; &#xBD84;&#xC11D; &#xC2E4;&#xBB34;</td>
+      <td
+      style="text-align:center">2020</td>
+        <td style="text-align:center"><a href="https://wikidocs.net/book/1867">Wikidocs<br />&#xBB34;&#xB8CC; &#xB3C4;&#xC11C;</a>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="https://raw.githubusercontent.com/andkret/Cookbook/master/images/CookbookCover.jpg"
+        alt/>
+      </td>
+      <td style="text-align:center">The Data Engineering
+        <br />Cookbook</td>
+      <td style="text-align:center">2019</td>
+      <td style="text-align:center"><a href="https://github.com/andkret/Cookbook">Github<br />Book</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="https://dataschool.com/assets/images/cloud-data-management@thumbnail.png"
+        alt/>
+      </td>
+      <td style="text-align:center">
+        <p><b>Cloud Data</b>
+        </p>
+        <p><b>Management</b>
+        </p>
+        <p>by CHARTIO</p>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>Web book</p>
+        <p><a href="https://dataschool.com/data-governance/introduction-to-modern-data-governance/">dataschool.com</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
