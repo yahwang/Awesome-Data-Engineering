@@ -40,6 +40,8 @@
 
 ## Airflow Tips
 
+[jgohman/Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
+
 [Automated Maintenance for Apache Airflow](https://blog.clairvoyantsoft.com/automated-maintenance-for-apache-airflow-8d844f32737d)  
   -  _airflow를 오래 운영하면서 생기는 문제\(메타DB, 로그 등\) 해결에 관한 내용_
 

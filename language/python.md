@@ -33,8 +33,8 @@
 
 ### 활용
 
-[Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/) - in Real Python  
-  -  _pipenv\(가상환경\)에 대한 이해_
+[Package Python Projects the Proper Way with Poetry](https://hackersandslackers.com/python-poetry-package-manager/)  
+  _-  poetry로 dependency 관_
 
 [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/) - in Real Python  
   -  _python 버전관리에 대한 이해_
