@@ -13,6 +13,8 @@
 [airflow tutorial\(1 ~ 7\) - Apply Data Science](https://www.applydatascience.com/page2/) \(자막 X \)  
   -  자체 docker image 활용 / 기초 설명과 bash 파이프라인 예제 \( + Google Composer, Bigquery 예제 \)
 
+[Get Started with Airflow + Google Cloud Platform + Docker](https://medium.com/@junjiejiang94/get-started-with-airflow-google-cloud-platform-docker-a21c46e0f797)
+
 [Airflow Schedule Interval 101](https://towardsdatascience.com/airflow-schedule-interval-101-bbdda31cc463)  
   -  Airflow Scheduling에 대한 이해  
   -  UI에 표시되 execution\_date와 start\_date 차이
