@@ -3,6 +3,8 @@
 [Why Not Airflow? - An overview of the Prefect engine for Airflow users](https://medium.com/the-prefect-blog/why-not-airflow-4cfa423299c4)  
   -  Airflow와 비교하여 Prefect의 장점을 설명 
 
+[Prefect Server 101: Deploying to Google Cloud Platform](https://medium.com/the-prefect-blog/prefect-server-101-deploying-to-google-cloud-platform-47354b16afe2)
+
 ## Prefect 개요
 
 1. Risk Management에 초점을 둔 Tool \(Negative Data Engineering\)
