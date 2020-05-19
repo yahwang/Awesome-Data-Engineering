@@ -11,6 +11,8 @@
 [3-Minute Guide to PostgreSQL Roles and Permissions](https://medium.com/people-ai-engineering/3-minute-guide-to-postgresql-roles-and-permissions-3f2d80f1a5b8)  
   -  _GROUP을 활용한 USER 권한 설정_
 
+[PGTune](https://pgtune.leopard.in.ua/#/) _- 시스템 옵션에 따라 간단하게 postgresql.conf 설정 추천_
+
 ## Tutorial
 
 [PostgreSQL Tutorial](http://www.postgresqltutorial.com)

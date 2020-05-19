@@ -19,6 +19,8 @@
 
 ## Setting
 
+[A Gentle Introduction To Understand Airflow Executor](https://towardsdatascience.com/a-gentle-introduction-to-understand-airflow-executor-b4f2fee211b1)
+
 [https://crontab.guru/](https://crontab.guru/)  
   - cron schedule 표현을  시간으로 알려주는 사이트 
 
