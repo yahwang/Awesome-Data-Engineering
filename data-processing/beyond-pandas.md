@@ -38,15 +38,6 @@ description: Pandas를 보완 혹은 대체하는 역할
 
 [Vaex: A DataFrame with super strings](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861)
 
-## Great Expectations
-
-> Python-based  Data Validation Tool  
-> pandas, SQL \(through the SQLAlchemy core\), and Spark support
-
-[간단 소개 글](https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501#46d8)
-
-[https://github.com/great-expectations/great\_expectations](https://github.com/great-expectations/great_expectations)
-
 ## Modin
 
 > Pandas보다는 아직 성능이 좋지 못하다는 평이 많음

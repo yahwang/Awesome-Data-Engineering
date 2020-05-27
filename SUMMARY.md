@@ -25,6 +25,10 @@
 * [Scraping & Crawling](data-processing/scraping-and-crawling.md)
 * [Other ways](data-processing/regular-expression.md)
 
+## DATA VALIDATION
+
+* [Great Expectations](data-validation/great-expectations.md)
+
 ## Distrubuted Processing
 
 * [Hadoop](distrubuted-processing/hadoop.md)
