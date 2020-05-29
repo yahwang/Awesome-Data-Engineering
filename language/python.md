@@ -1,7 +1,8 @@
 # Python
 
 📺 [데이터 과학을 위한 Python 입문 \(무료버전\)](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC) - by TEAMLAB  
-  -  _github 내 목차를 통한 youtube 영상 연결 / 유료 버전은 인프런에 있음_
+  -  _github 내 목차를 통한 youtube 영상 연결 / 유료 버전은 인프런에 있음  
+  -  책 :_ [데이터 과학을 위한 파이썬 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177235013)
 
 📘 [점프 투 파이썬 \(온라인 버전\)](https://wikidocs.net/book/1) - in WikiDocs
 
@@ -9,14 +10,25 @@
 
 ## 추천 자료
 
-### 언어에 대한 이해
+### 자료구조
 
 [Use id\(\) to Understand 6 Key Concepts in Python](https://medium.com/better-programming/use-id-to-understand-6-key-concepts-in-python-73e0bbd461ec)  
   -  _Python의 object 특징에 대한 이해_
 
 * [Understanding ‘==’ vs. ‘is’ in Python](https://medium.com/better-programming/understanding-vs-is-in-python-2f8f7ae1dd23)
 
+[Python 3's f-Strings: An Improved String Formatting Syntax](https://realpython.com/python-f-strings/) - in Real Python
+
 [Difference between Lists and Tuple](https://codeburst.io/difference-between-lists-and-tuple-9153fc329cd)
+
+[Linked Lists in Python: An Introduction](https://realpython.com/linked-lists-python/#performance-comparison-lists-vs-linked-lists) - in Real Python
+
+[Python Type Checking \(Guide\)](https://realpython.com/python-type-checking%20) - in Real Python  
+  -  _python type hint 기능에 대한 이해_
+
+
+
+### 언어에 대한 이해
 
 [Defining Main Functions in Python](https://realpython.com/python-main-function/) - in Real Python  
   -  _if  \_name  == " main \_" 에 대한 이해_
@@ -26,15 +38,13 @@
 
 [What is the Python Global Interpreter Lock \(GIL\)?](https://realpython.com/python-gil/) - in Real Python
 
-[Python 3's f-Strings: An Improved String Formatting Syntax](https://realpython.com/python-f-strings/) - in Real Python
-
-[Python Type Checking \(Guide\)](https://realpython.com/python-type-checking%20) - in Real Python  
-  -  _python type hint 기능에 대한 이해_
+[3 Essential Questions About Hashable in Python](https://medium.com/better-programming/3-essential-questions-about-hashable-in-python-33e981042bcb)  
+  -  Python의 hash 설명과 Class를 활용한 custom 구
 
 ### 활용
 
 [Package Python Projects the Proper Way with Poetry](https://hackersandslackers.com/python-poetry-package-manager/)  
-  _-  poetry로 dependency 관_
+  _-  poetry로 dependency 관리_ 
 
 [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/) - in Real Python  
   -  _python 버전관리에 대한 이해_
@@ -57,11 +67,9 @@
   - os.path 대신 pathlib을 사용하자 
 
 [Do Not Use “+” to Join Strings in Python](https://towardsdatascience.com/do-not-use-to-join-strings-in-python-f89908307273)  
-  -  리스트를 String으로 합 때는 ' '.join 활용
+  -  리스트를 String으로 합칠 때는 ' '.join 활용
 
 [A Complete Guide to Using Progress Bars in Python](https://towardsdatascience.com/a-complete-guide-to-using-progress-bars-in-python-aa7f4130cda8)
 
 [How to Supercharge Excel With Python](https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2) - Excel의 VBA를 python으로
-
-[Linked Lists in Python: An Introduction](https://realpython.com/linked-lists-python/#performance-comparison-lists-vs-linked-lists) - in Real Python
 
