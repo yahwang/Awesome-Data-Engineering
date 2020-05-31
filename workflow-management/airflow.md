@@ -42,6 +42,8 @@
 [Generalizing data load processes with Airflow](https://towardsdatascience.com/generalizing-data-load-processes-with-airflow-a4931788a61f)  
   -  _Config와 Factory 패턴을 활용한 DAG 생성_
 
+[Build your first data warehouse with Airflow on GCP](https://towardsdatascience.com/build-your-first-data-warehouse-with-airflow-on-gcp-fdd0c0ad91bb)
+
 ## Airflow Tips
 
 [jgohman/Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)

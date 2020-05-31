@@ -17,15 +17,20 @@
 
 [Running Apache Spark on AWS](https://medium.com/acast-tech/running-apache-spark-on-aws-81a5f766d3a6)
 
+[AWS Elastic MapReduce \(EMR\) — 6 Caveats You Shouldn’t Ignore](https://towardsdatascience.com/aws-elastic-mapreduce-emr-6-caveats-you-shouldnt-ignore-7a3e260e19c1)
+
 [How to Set-up a cost-effective AWS EMR cluster and Jupyter Notebooks for SparkSQL](https://medium.com/@andcy7/how-to-set-up-a-cost-effective-aws-emr-cluster-and-jupyter-notebooks-for-sparksql-552360ffd4bc)
 
 [PEX — The secret sauce for the perfect PySpark deployment of AWS EMR workloads](https://towardsdatascience.com/pex-the-secret-sauce-for-the-perfect-pyspark-deployment-of-aws-emr-workloads-9aef0d8fa3a5)  
-  -  _Spot Instance로 EMR을 사용할 때 빠르게 application을 구성하는 방법 설_
+  -  _Spot Instance로 EMR을 사용할 때 빠르게 application을 구성하는 방법 설명_
 
-[AWS Elastic MapReduce \(EMR\) — 6 Caveats You Shouldn’t Ignore](https://towardsdatascience.com/aws-elastic-mapreduce-emr-6-caveats-you-shouldnt-ignore-7a3e260e19c1)
+[Zipping and Submitting PySpark Jobs in EMR Through Lambda Functions](https://towardsdatascience.com/zipping-and-submitting-pyspark-jobs-in-emr-through-lambda-functions-46a58a496d9e)  
+  _-  Lambda로 Pyspark job 실행하는 방법\( project 형식 + gitlab CI\)_
 
 [AWS -EMR Monitoring and Alerting Bot](https://medium.com/swlh/aws-emr-monitoring-and-alerting-bot-20db4b9662)  
   -  _Airflow와 boto3를 활용해서 slack or email로 메세지 전송_
+
+\_\_
 
 
 

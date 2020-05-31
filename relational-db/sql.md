@@ -10,6 +10,8 @@
 
 [Intro to SQL with Google BigQuery](https://www.kaggle.com/learn/intro-to-sql) - by Kaggle
 
+[5 SQL tips to make your queries prettier and easier to read](https://towardsdatascience.com/5-sql-tips-to-make-your-queries-prettier-and-easier-to-read-d9e3a543514f)
+
 ## Quiz
 
 ❓ [SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit) - by 프로그래머스

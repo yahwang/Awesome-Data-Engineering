@@ -15,6 +15,8 @@ description: Apache Drill 기반
 
 [Loading Data Into BigQuery From Cloud Storage. Complete Guide.](https://medium.com/swlh/loading-data-into-bigquery-from-cloud-storage-complete-guide-e212f5c2db6)
 
+[5 Bigquery SQL Commands You \[Probably\] Didn’t Know About](https://towardsdatascience.com/5-bigquery-sql-commands-you-probably-didnt-know-about-ebfd9d0dc160)
+
 [BigQuery: SQL on Nested Data](https://towardsdatascience.com/https-medium-com-martin-weitzmann-bigquery-sql-on-nested-data-cf9589c105f4)
 
 [BigQuery Materialized Views and Why You Should be Using Them](https://medium.com/@jtaras/bigquery-materialized-views-and-why-you-should-be-using-them-d6b14315ca7d)
