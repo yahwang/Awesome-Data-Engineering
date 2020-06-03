@@ -26,7 +26,8 @@
 [Python Type Checking \(Guide\)](https://realpython.com/python-type-checking%20) - in Real Python  
   -  _python type hint 기능에 대한 이해_
 
-
+[DataClass vs NamedTuple vs Object: A Battle of Performance in Python](https://medium.com/@jacktator/dataclass-vs-namedtuple-vs-object-for-performance-optimization-in-python-691e234253b9)  
+  _-  3.7버전 이후부터는 namedtuple 보다 dataclass 활용을 추천_
 
 ### 언어에 대한 이해
 
