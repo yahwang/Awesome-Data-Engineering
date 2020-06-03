@@ -20,6 +20,8 @@
 
 ## Shell Command
 
+[리눅스 커맨드라인 툴 강의](https://www.inflearn.com/course/command-line?utm_source=facebook&utm_medium=cpa&utm_campaign=new-course&fbclid=IwAR35lgTqwX6k48zAfFHs_zuNKQDCNeXGCx4q-rT8Ok9rJmC1xSTAWigHFx8#) - in 인프런 
+
 [How to Use fd to Quickly Find Files in Linux and macOS](https://www.maketecheasier.com/use-fd-find-files-linux-macos/)
 
 *  [How to find files on the Ubuntu command line](https://vitux.com/how-to-find-files-on-the-ubuntu-command-line/) \( find, locate \)
