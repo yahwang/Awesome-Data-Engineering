@@ -18,6 +18,7 @@
   _-  SQL과 NoSQL의 차이점과 도입에 대한 이해_
 
 * [SQL vs NoSQL \(MySQL vs. MongoDB\)](https://siyoon210.tistory.com/130) - by siyoon210
+* 📺 [NoSQL vs SQL](https://www.youtube.com/watch?v=CjsVx9sARDU)- by AI Holic
 
 [Big Data File Formats](https://blog.clairvoyantsoft.com/big-data-file-formats-3fb659903271)  
   _-  AVRO\(Row-based\) / Parquet\(Columnar\) / ORC\(ROW+COLUMN\) 포맷 설명_
