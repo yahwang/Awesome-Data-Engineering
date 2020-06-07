@@ -24,7 +24,9 @@
 
 📺 [AWS 기반 서버리스 데이터 레이크 구축하기 - 김진웅](https://www.youtube.com/watch?v=qbdLrILjapA) 2️⃣0️⃣2️⃣0️⃣ - by SK C&C
 
-[Drop’s Data Lake](https://drop.engineering/drops-data-lake-49aeb80e12d9) :two::zero::two::zero: - by Drop
+[Drop’s Data Lake](https://drop.engineering/drops-data-lake-49aeb80e12d9)  2️⃣0️⃣2️⃣0️⃣ - by Drop
+
+[마이리얼트립 EDW\(Enterprise Data Warehouse\) 구축 : phase 1](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-edw-%EA%B5%AC%EC%B6%95-phase-1-7d32c49c96ec)
 
 ## 실습 기반
 

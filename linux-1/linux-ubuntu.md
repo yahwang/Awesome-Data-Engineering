@@ -4,6 +4,8 @@
 
 [\[리눅스 기초\] 루트디렉토리 구조](https://medium.com/harrythegreat/리눅스-기초-루트디렉토리-구조-b3e4871af4b3) - by 해리의유목코딩
 
+📺 [리얼리눅스](https://www.youtube.com/channel/UC5nTtNnmhAm_pHeADNqfw4Q/videos)
+
 ## Setting
 
 [Homebrew-on-Linux](https://docs.brew.sh/Homebrew-on-Linux)

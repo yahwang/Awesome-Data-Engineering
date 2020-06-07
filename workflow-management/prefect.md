@@ -9,7 +9,7 @@
 
 1. Risk Management에 초점을 둔 Tool \(Negative Data Engineering\)
 2. Functional API 제공 - Task를 함수처럼 활용 \(Pythonic\) [  Functional API - Prefect Docs](https://docs.prefect.io/core/concepts/flows.html#apis)
-3. Realtime UI 제
+3. Realtime UI 제공 
 4. Dask를 default executor로 사용  - Dask의 Low latency를 활용하여 task 간 delay 최소화
 5. Central scheduler를 없애고 flow\(&lt;-&gt;DAG\) 각각이 자체적으로 수행된다. - Scheduling Overhead 최소화
 6. ad-hoc run 및 irregular 스케줄 설정이 가능하다.

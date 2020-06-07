@@ -12,6 +12,8 @@
 
 [5 SQL tips to make your queries prettier and easier to read](https://towardsdatascience.com/5-sql-tips-to-make-your-queries-prettier-and-easier-to-read-d9e3a543514f)
 
+[https://sqlformat.org/](https://sqlformat.org/) - Online SQL formatting service
+
 ## Quiz
 
 ❓ [SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit) - by 프로그래머스

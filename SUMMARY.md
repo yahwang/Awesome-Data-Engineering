@@ -58,6 +58,10 @@
 * [dbt \(for DW\)](workflow-management/dbt-for-dw.md)
 * [Others](workflow-management/others.md)
 
+## DATA COLLECTION
+
+* [Snowplow](data-collection/snowplow.md)
+
 ## DATA MANAGEMENT
 
 * [Meta Data](data-management/tools.md)

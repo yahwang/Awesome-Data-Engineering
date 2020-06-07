@@ -14,6 +14,8 @@ description: 데이터를 다루는 여러 방법들
 
 [파이썬 - 정규 표현식 시작하기 \( re \)](https://wikidocs.net/4308) in 점프 투 파이썬
 
+[Regular Expressions: Regexes in Python \(Part 2\)](https://realpython.com/regex-python-part-2/) - in Real Python 
+
 [The Ultimate Guide to using the Python regex module](https://towardsdatascience.com/the-ultimate-guide-to-using-the-python-regex-module-69aad9e9ba56)
 
 [ RegexOne - Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
