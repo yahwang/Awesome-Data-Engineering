@@ -43,13 +43,17 @@
 [High Performance Data Processing in Python - Donald Whyte](https://www.youtube.com/watch?v=NoJr08FNQeg)  
   -  _Numpy & Numba를 활용한 데이터 처리 설명_
 
-## Pandas 추가 기능
+## Pandas utility Library
 
 [Data Profiling](https://kanoki.org/2019/01/15/pandas-exploratory-data-analysis-data-profiling/) - Overview of data를 시각적으로 표현
 
 [Build pipelines with Pandas using “pdpipe”](https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31)
 
-[Introducing Pandas-Log](https://towardsdatascience.com/introducing-pandas-log-3240a5e57e21) - 정식 버전 배포 X
+[Introducing Pandas-Log](https://towardsdatascience.com/introducing-pandas-log-3240a5e57e21)   
+  _- 코드 실에 대한 logging / 정식 버전 배포 X_
+
+[Pandas Sidetable Just Announced](https://towardsdatascience.com/pandas-sidetable-just-announced-708e5f65938f)  
+  _-  컬럼 Count 빈도 수 파악에 유용_ 
 
 
 

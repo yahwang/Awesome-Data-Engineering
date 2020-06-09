@@ -8,6 +8,9 @@
 
 [15 Tips and Tricks to Use Jupyter Notebook More Efficiently](https://towardsdatascience.com/15-tips-and-tricks-to-use-jupyter-notebook-more-efficiently-ef05ede4e4b9)
 
+[Introducing JupyterDash](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)  
+  _-  Dash가 background thread를 사용하도록 구현해 추가 코드 실행을 지원_
+
 ## Papermill
 
 > simple and handy tool to transform Jupyter notebooks into data workflows  
@@ -16,8 +19,6 @@
 
 [Introduction to Papermill](https://towardsdatascience.com/introduction-to-papermill-2c61f66bea30)  
   -  API로 받은 날씨 데이터를 분석하여 PDF report로 만드는 실습 제공
-
-
 
 ## Voilà
 

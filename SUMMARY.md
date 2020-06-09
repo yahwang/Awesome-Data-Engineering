@@ -58,6 +58,10 @@
 * [dbt \(for DW\)](workflow-management/dbt-for-dw.md)
 * [Others](workflow-management/others.md)
 
+## DATA COLLECTION
+
+* [Snowplow](data-collection/snowplow.md)
+
 ## DATA MANAGEMENT
 
 * [Meta Data](data-management/tools.md)
@@ -77,6 +81,6 @@
 
 * [Docker](devops/docker.md)
 * [Kubernetes](devops/kubernetes.md)
-* [Project Jupyter](devops/project-jupyter.md)
+* [Project Jupyter](project-jupyter.md)
 * [ELK](elk.md)
 
