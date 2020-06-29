@@ -81,6 +81,9 @@
 
 * [Docker](devops/docker.md)
 * [Kubernetes](devops/kubernetes.md)
+
+---
+
 * [Project Jupyter](project-jupyter.md)
 * [ELK](elk.md)
 

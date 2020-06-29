@@ -19,7 +19,10 @@
 
 [Python 3's f-Strings: An Improved String Formatting Syntax](https://realpython.com/python-f-strings/) - in Real Python
 
-[Difference between Lists and Tuple](https://codeburst.io/difference-between-lists-and-tuple-9153fc329cd)
+[Difference between Lists and Tuple](https://codeburst.io/difference-between-lists-and-tuple-9153fc329cd)  
+  -  **Tuples** are stored in a single block of memory.  
+  -  **Lists** are allocated in two blocks: the fixed one with all the Python object information   
+     and a variable sized block for the data.
 
 [Linked Lists in Python: An Introduction](https://realpython.com/linked-lists-python/#performance-comparison-lists-vs-linked-lists) - in Real Python
 
