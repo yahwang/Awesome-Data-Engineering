@@ -6,10 +6,10 @@ description: Pandas를 보완 혹은 대체하는 역할
 
 ## Dask
 
-> Dask is built on top of pandas / Data를 block 단위로 나누어 처리  
-> Multi-Processing\(Parallel\) 연산 / Cluster 구성 가능  
-> RAPIDS - GPU 연산 가  
-> Numpy, Pandas, Scikit-learn과 호환하여 활용도가 높
+> Dask is built on top of pandas  
+> data = chunk size\(blocks\) \* partitions / memory 동시 사용량 = chunk size \* cores  
+> Multi-Processing\(Parallel\) 연산 / Cluster 구성 가능 / RAPIDS - GPU 연산 가능   
+> Numpy, Pandas, Scikit-learn과 호환하여 활용도가 높음
 
 > Pandas에서 느린 연산은 Dask에서도 느림  
 > Parallel 처리가 어려운 함수들은 미지원  e.g. 정렬
@@ -41,6 +41,15 @@ description: Pandas를 보완 혹은 대체하는 역할
 ## Modin
 
 > Pandas보다는 아직 성능이 좋지 못하다는 평이 많음
+
+## Swifter
+
+> 함수를 정의한 후 .apply를 통해 함수를 실행할 때 활용하는 라이브러리 \( 병렬 처리 \)  
+> Vectorized function 형태\(numpy\)로 사용해야 빠름. 그렇지 않으면 더 느릴 수 있음   
+> Non-vectorized function의 경우, dask 병렬 처리 또는 pandas apply 중 선택 수행
+
+[Speed up your Pandas Processing with Swifter](https://towardsdatascience.com/speed-up-your-pandas-processing-with-swifter-6aa314600a13)  
+  - Vectorized function 사용에 대한 예시
 
 ## ETC
 
