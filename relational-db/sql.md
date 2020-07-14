@@ -8,9 +8,8 @@
 
 [표준 SQL Tutorial](https://mode.com/sql-tutorial/) - by Mode
 
-[Intro to SQL with Google BigQuery](https://www.kaggle.com/learn/intro-to-sql) - by Kaggle
-
-[5 SQL tips to make your queries prettier and easier to read](https://towardsdatascience.com/5-sql-tips-to-make-your-queries-prettier-and-easier-to-read-d9e3a543514f)
+[SQLZOO Tutorial  
+](https://sqlzoo.net/wiki/SQL_Tutorial)  - mariadb 온라인 실행환경 및 Quiz 제공 
 
 [https://sqlformat.org/](https://sqlformat.org/) - Online SQL formatting service
 
@@ -23,6 +22,8 @@
   -_  📺 [풀이 영상](https://www.youtube.com/playlist?list=PL8LH8gB86EpPWfgS-5a651zhL3RhLeqPH) by Data Analyst Toolkit
 
 ## Advanced
+
+[5 SQL tips to make your queries prettier and easier to read](https://towardsdatascience.com/5-sql-tips-to-make-your-queries-prettier-and-easier-to-read-d9e3a543514f)
 
 [Advanced SQL Recipes to jump start your Analysis](http://www.silota.com/docs/recipes/) - by SILOTA  
   -  Data Analyst에게 유용한 SQL 계산 방법 설명 

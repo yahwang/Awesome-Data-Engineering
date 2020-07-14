@@ -11,6 +11,8 @@ description: Apache Drill 기반
 
 ## _Practice_
 
+[Intro to SQL with Google BigQuery](https://www.kaggle.com/learn/intro-to-sql) - by Kaggle
+
 [BigQuery for Data Science - What Happens in Practice](https://towardsdatascience.com/bigquery-for-data-science-bc9c7c27de4b)
 
 [Loading Data Into BigQuery From Cloud Storage. Complete Guide.](https://medium.com/swlh/loading-data-into-bigquery-from-cloud-storage-complete-guide-e212f5c2db6)
