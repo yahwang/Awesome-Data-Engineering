@@ -26,6 +26,9 @@
 🎞 [Amazon S3 Best Practice and Tuning for Hadoop/Spark in the Cloud](https://www.slideshare.net/ssuserca76a5/amazon-s3-best-practice-and-tuning-for-hadoopspark-in-the-cloud) - by AWS  
   -  _Spark에서 S3를 데이터 저장소로 활용하는 방법_
 
+🎞 __[데이터 엔지니어가 실무에서 맞닥뜨리는 문제들](https://www.slideshare.net/SungWoonSo/awskrug-235407792) - by 지그재  
+  -  Parquet/snappy 보다 ORC/zlib 타입이 처리 속도가 더 빠르다는 설
+
 ## ETC
 
 [Benchmarking Apache Spark on a Single Node Machine](https://databricks.com/blog/2018/05/03/benchmarking-apache-spark-on-a-single-node-machine.html) - by Databricks  
