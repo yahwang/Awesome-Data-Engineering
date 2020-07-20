@@ -1,5 +1,8 @@
 # MongoDB VS DynamoDB
 
+[Difference between AWS DynamoDB vs AWS DocumentDB vs MongoDB?](https://medium.com/@caseygibson_42696/difference-between-aws-dynamodb-vs-aws-documentdb-vs-mongodb-9cb026a94767)  
+  _-  DocumentDB는 DynamoDB와 MongoDB의 중간 단계_ 
+
 ## MongoDB
 
 > MongoDB relies on DB connection
@@ -10,9 +13,7 @@
 
 ## AWS DynamoDB
 
-> Table 간의 Join 연산이 불가능하다.  
-> Self-contained Data 즉, row가 모든 정보를 갖고 있 형태로 활용할 때 적합  
-> network\(DB\) connection이 필요 없어 응답속도가 빠르다. \(API 방\)
+> Key - Value DB이지만 Document DB처럼 활용도 가능
 
 [Amazon DynamoDB and Serverless - The Ultimate Guide](https://www.serverless.com/dynamodb)
 
