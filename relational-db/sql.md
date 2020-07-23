@@ -4,6 +4,9 @@
 
 [\[자기주도온라인평생학습\] SQL 무료온라인강의 리스트](http://withmooc.com/%EC%9E%90%EA%B8%B0%EC%A3%BC%EB%8F%84%EC%98%A8%EB%9D%BC%EC%9D%B8%ED%8F%89%EC%83%9D%ED%95%99%EC%8A%B5-sql-%EB%A6%AC%EC%8A%A4%ED%8A%B8-30%EA%B0%9C-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95withmooc/?fbclid=IwAR1l7QMy9sPzrUhGSzE8uJXRiGDPmXNrOeTvSwTf2ZD-QDwLT0LAbfFQWQY)
 
+[Top 5 database documentation tools for any teams in 2020](https://www.holistics.io/blog/top-5-database-documentation-tools-for-any-teams-in-2020/) - by Holistics  
+  -  DB의 메타 데이터 파악에 도움을 주는 도구 \(유, 무료\)
+
 ## Tutorial
 
 [표준 SQL Tutorial](https://mode.com/sql-tutorial/) - by Mode
@@ -23,14 +26,13 @@
 
 ## Advanced
 
-[5 SQL tips to make your queries prettier and easier to read](https://towardsdatascience.com/5-sql-tips-to-make-your-queries-prettier-and-easier-to-read-d9e3a543514f)
+[Performance Tuning SQL Queries](https://mode.com/resources/sql-tutorial/sql-performance-tuning/) - by Mode
 
 [Advanced SQL Recipes to jump start your Analysis](http://www.silota.com/docs/recipes/) - by SILOTA  
   -  Data Analyst에게 유용한 SQL 계산 방법 설명 
 
-[Performance Tuning SQL Queries](https://mode.com/resources/sql-tutorial/sql-performance-tuning/) - by Mode
-
-[Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)
+[Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)  
+  -  하드웨어 관련 고급 설명 포함 
 
 <table>
   <thead>
