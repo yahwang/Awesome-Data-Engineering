@@ -43,12 +43,12 @@
 [What is the Python Global Interpreter Lock \(GIL\)?](https://realpython.com/python-gil/) - in Real Python
 
 [3 Essential Questions About Hashable in Python](https://medium.com/better-programming/3-essential-questions-about-hashable-in-python-33e981042bcb)  
-  -  Python의 hash 설명과 Class를 활용한 custom 구
+  -  Python의 hash 설명과 Class를 활용한 custom 구 
 
 ### 활용
 
 [Package Python Projects the Proper Way with Poetry](https://hackersandslackers.com/python-poetry-package-manager/)  
-  _-  poetry로 dependency 관리_ 
+  _-  가상환경 Tool \(dependency 관리 \)_
 
 [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/) - in Real Python  
   -  _python 버전관리에 대한 이해_

@@ -13,6 +13,7 @@
 ## Language
 
 * [Python](language/python.md)
+* [Python Tools](language/python-tools.md)
 
 ## Linux <a id="linux-1"></a>
 
@@ -86,4 +87,8 @@
 
 * [Project Jupyter](project-jupyter.md)
 * [ELK](elk.md)
+
+## Cloud Tips
+
+* [AWS](cloud-tips/aws.md)
 

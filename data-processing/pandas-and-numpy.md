@@ -30,6 +30,9 @@
 [Surprising Sorting Tips for Data Scientists](https://towardsdatascience.com/surprising-sorting-tips-for-data-scientists-9c360776d7e) - by Towards Data Science  
   -  _정렬 성능 관련 : small data는 sort\_values 사용 / large data는 numpy의 inplace mergesort\(stable\) 사용 권장_
 
+[파이썬 금융 시계열 처리 최적화하기](https://medium.com/qraft/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%88%EC%9C%B5-%EC%8B%9C%EA%B2%8C%EC%97%B4-%EC%B2%98%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-571b4d716a2e) _- by Qraft Technologies  
+  -  pandas 코드 최적화 설명_ 
+
 \_\_[The Best Format to Save Pandas Data](https://towardsdatascience.com/the-best-format-to-save-pandas-data-414dca023e0d)  
   -  _object VS category 타입 여부를 분리한 benchmark / 최대 메모리, Save&Loading 시간 비교  
   -  feather 포맷이 제일 나은 결과 \(하지만, long-term 저장용으로는 부적합 / Parquet 포맷이 표준화되고 있음\)_

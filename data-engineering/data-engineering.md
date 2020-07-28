@@ -37,7 +37,9 @@
   _-  Primary Key == Clustered Index\(Physical Sorting\) &lt;-&gt; secondary index == Non Clustered Index\(Logical Sorting\)_
 
 [An Introduction to Database Sharding](https://medium.com/better-programming/an-introduction-to-database-sharding-b6abde73d04f)  
-  _-  Sharding \(Partitioning_
+  _-  Sharding \(Partitioning\)_
+
+[5 Database Scaling Solutions You Need to Know](https://medium.com/swlh/5-database-scaling-solutions-you-need-to-know-e307570efb72)
 
 [What is an MPP Database? Intro to Massively Parallel Processing](https://www.flydata.com/blog/introduction-to-massively-parallel-processing/) - by FlyData  
   _-  "Shared Nothing" Architecture \( disk도 분리 \)_

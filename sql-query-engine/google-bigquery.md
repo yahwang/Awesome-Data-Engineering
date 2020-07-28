@@ -9,6 +9,9 @@ description: Apache Drill 기반
 [Google Cloud BigQuery vs. AWS Redshift](https://levelup.gitconnected.com/google-cloud-bigquery-vs-aws-redshift-a4d7238f1867)  
   -  _Redshift 대비 Bigquery의 장점_
 
+[Load files faster into BigQuery  
+__](https://towardsdatascience.com/load-files-faster-into-bigquery-94355c4c086a)  _-_  Benchmarking CSV, GZIP, AVRO and PARQUET file types for ingestion
+
 ## _Practice_
 
 [Intro to SQL with Google BigQuery](https://www.kaggle.com/learn/intro-to-sql) - by Kaggle
