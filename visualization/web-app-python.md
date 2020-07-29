@@ -12,15 +12,21 @@ BI Tool 보다 Flexible하게 활용할 수 있다는 장점
 
 ## Dash \(plotly\)
 
-> Bokeh에 비해 배우기 쉬움 / 성능도 약간 빠르다고 함  
-> datashader를 활용하여 큰 데이터도 효율적으로 시각
+> datashader를 활용하여 큰 데이터도 효율적으로 시각능
 
 [Bokeh vs Dash — Which is the Best Dashboard Framework for Python?](https://www.sicara.ai/blog/2018-01-30-bokeh-dash-best-dashboard-framework-python)
 
 [How to Build a Reporting Dashboard using Dash and Plotly](https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f#4711)
 
 [Pattern-Matching Callbacks in Dash](https://medium.com/plotly/pattern-matching-callbacks-in-dash-9014eee99858)  
-  -  _1.11 버전부터 지원 / 필터 결과를 여러 그래프에 동시 적용시키는 기_
+  -  _1.11 버전부터 지원 / 필터 결과를 여러 그래프에 동시 적용시키는 기능_
+
+## _Datapane_
+
+> Dash보다 간단하게 테이블과 차트를 html로 생성 및 배포 가능  
+> 시각화 자료 업로드 할 수 있는 public platform 제공
+
+[Introduction to Datapane: A Python Library to Build Interactive Reports](https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8)
 
 [  
 ](https://medium.com/@plotlygraphs?source=post_page-----9014eee99858----------------------)

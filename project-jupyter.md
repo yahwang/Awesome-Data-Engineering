@@ -8,6 +8,9 @@
 
 [15 Tips and Tricks to Use Jupyter Notebook More Efficiently](https://towardsdatascience.com/15-tips-and-tricks-to-use-jupyter-notebook-more-efficiently-ef05ede4e4b9)
 
+[How to Run and Analyze SQL Queries with Pandas in Jupyter](https://medium.com/python-in-plain-english/how-to-run-and-analyze-sql-queries-with-pandas-in-jupyter-7f02503cf46)  
+  - ipython-sql 라이브러리 사용법 설명 
+
 [Introducing JupyterDash](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)  
   _-  Dash가 background thread를 사용하도록 구현해 추가 코드 실행을 지원_
 

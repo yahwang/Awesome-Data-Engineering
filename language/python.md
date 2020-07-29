@@ -32,6 +32,9 @@
 [DataClass vs NamedTuple vs Object: A Battle of Performance in Python](https://medium.com/@jacktator/dataclass-vs-namedtuple-vs-object-for-performance-optimization-in-python-691e234253b9)  
   _-  3.7버전 이후부터는 namedtuple 보다 dataclass 활용을 추천_
 
+[Methods in Python: Fundamentals for Data Scientists](https://towardsdatascience.com/methods-in-python-fundamentals-for-data-scientists-6a9393b2c2e7)  
+  _-  class method, instance method, static method에 대한 설명_ 
+
 ### 언어에 대한 이해
 
 [Defining Main Functions in Python](https://realpython.com/python-main-function/) - in Real Python  
