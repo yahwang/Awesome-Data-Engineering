@@ -1,5 +1,10 @@
 # 연습용 데이터
 
+[Open Data on AWS](https://registry.opendata.aws/)  
+  -  bucket 자체를 제공 
+
+* [Amazon Customer Reviews Dataset](https://registry.opendata.aws/amazon-reviews/) - Parquet 포맷 및 Tutorial 제공
+
 [Generation of large CSV data using Python Faker library](https://towardsdatascience.com/generation-of-large-csv-data-using-python-faker-8cfcbedca7a7)  
   -  _Python의 Faker로 테스트용 랜덤 데이터 생성하는 법_
 

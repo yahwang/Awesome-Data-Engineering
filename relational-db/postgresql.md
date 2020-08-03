@@ -22,6 +22,9 @@
 [PostgreSQL Knowledge Base](https://kb.objectrocket.com/category/postgresql) - by ObjectRocket  
   -  _사용법에 관한 다양한 글이 존재_
 
+[Postgres Tutorials](https://www.enterprisedb.com/postgres-tutorials) _- by EDB  
+  -  사용법에 관한 다양한 글이 존재_
+
 ## Tips
 
 [12 Common Mistakes and Missed Optimization Opportunities in SQL](https://hakibenita.com/sql-dos-and-donts)

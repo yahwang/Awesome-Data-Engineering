@@ -15,6 +15,9 @@
 
 [5 New Features in pandas 1.0 You Should Know About](https://towardsdatascience.com/5-new-features-in-pandas-1-0-you-should-know-about-fc31c83e396b)
 
+[A beginner’s guide to Time series / date functionality](https://medium.com/@nesrine.ammar/beginners-guide-for-time-series-date-functionality-fe2d542925ef)  
+  -  date type을 다루는 기본 방법 설명 
+
 ## _P_andas 최적화 관련
 
 📺 [뚱뚱하고 굼뜬 판다스\(Pandas\)를 위한 효과적인 다이어트 전략](https://www.youtube.com/watch?v=0Vm9Yi_ig58&t=2s) - by 오성우 \(PyCon 2019\)

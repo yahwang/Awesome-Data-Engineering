@@ -5,6 +5,9 @@
 [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/) - by Real Python  
   -  _docker로 간단한 예제 실행_
 
+[Apache Spark Cluster on Docker](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445)  
+  _-  \(py\)spark  standalone local cluster 생성하는 법_ 
+
 [A Neanderthal’s Guide to Apache Spark in Python](https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427)  
   -  _Spark 기초 용어에 대한 친절한 설명 + SparkSQL 간단한 예제_
 
@@ -27,7 +30,7 @@
   -  _Spark에서 S3를 데이터 저장소로 활용하는 방법_
 
 🎞 __[데이터 엔지니어가 실무에서 맞닥뜨리는 문제들](https://www.slideshare.net/SungWoonSo/awskrug-235407792) - by 지그재  
-  -  Parquet/snappy 보다 ORC/zlib 타입이 처리 속도가 더 빠르다는 설
+  -  Parquet/snappy 보다 ORC/zlib 타입이 처리 속도가 더 빠르다는 설명 
 
 ## ETC
 
