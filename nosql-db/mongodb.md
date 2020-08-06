@@ -17,3 +17,5 @@
 
 [Amazon DynamoDB and Serverless - The Ultimate Guide](https://www.serverless.com/dynamodb)
 
+📺 [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) - in Coursera
+

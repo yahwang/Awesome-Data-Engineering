@@ -46,9 +46,12 @@
 [What is the Python Global Interpreter Lock \(GIL\)?](https://realpython.com/python-gil/) - in Real Python
 
 [3 Essential Questions About Hashable in Python](https://medium.com/better-programming/3-essential-questions-about-hashable-in-python-33e981042bcb)  
-  -  Python의 hash 설명과 Class를 활용한 custom 구 
+  -  Python의 hash 설명과 Class를 활용한 custom 구현 
 
 ### 활용
+
+[Are you writing print\(\) statements to debug your Python code?](https://medium.com/analytics-vidhya/are-you-writing-print-statements-to-debug-your-python-code-690e6ba098e9)  
+  -  pdb 모듈로 디버깅하는 간단한 방법 
 
 [Package Python Projects the Proper Way with Poetry](https://hackersandslackers.com/python-poetry-package-manager/)  
   _-  가상환경 Tool \(dependency 관리 \)_
