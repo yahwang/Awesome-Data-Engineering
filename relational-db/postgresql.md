@@ -13,6 +13,8 @@
 
 [PGTune](https://pgtune.leopard.in.ua/#/) _- 시스템 옵션에 따라 간단하게 postgresql.conf 설정 추천_
 
+[\[DB\] Postgresql Lock 파헤치기](https://medium.com/29cm/db-postgresql-lock-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-57d37ebe057) _- by 29cm_
+
 ## Tutorial
 
 [PostgreSQL Tutorial](http://www.postgresqltutorial.com)
