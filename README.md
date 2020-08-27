@@ -62,6 +62,8 @@ BUSINESS INTELLIGENCE와 DATA SCIENCE를 돕기 위해 Data Pipeline을 구축�
 
 ![&#xCD9C;&#xCC98; : https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5](https://miro.medium.com/max/1260/1*8hC0gmTevv88925D9mV5_w.png)
 
+![&#xCD9C;&#xCC98; : https://towardsdatascience.com/data-lake-on-gcp-using-terraform-469062a205ad](.gitbook/assets/image%20%282%29.png)
+
 #### **hadoop ecosystem data pipeline**
 
 ![&#xCD9C;&#xCC98; : https://github.com/mincloud1501/BigData](https://raw.githubusercontent.com/mincloud1501/BigData/master/images/pipeline.jpg)

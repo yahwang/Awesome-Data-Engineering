@@ -30,6 +30,8 @@
 
 ## 실습 기반
 
+### AWS
+
 📺 [30분만에 만드는 AWS 기반 빅데이터 분석 애플리케이션 - 안효빈](https://www.youtube.com/watch?v=yTbdHLsnljM) 2️⃣0️⃣1️⃣8️⃣ - by AWS  
   -  _\(Kineis Agent\) -&gt; Firehose -&gt; Glue -&gt; Athena -&gt; Quicksight 예시_
 
@@ -39,12 +41,18 @@
 
 * [AWS Data Lake Workshop](http://bdlf.awsdemo.kr/introduction/lakeformation/) - by AWS
 
+\_\_[Real Time Anomaly Detection with AWS](https://towardsdatascience.com/real-time-anomaly-detection-with-aws-c237db9eaa3f)  
+  -  _Kinesis Data Analytics를 활용하여 이상치 탐지_
+
+### GCP
+
+[Data lake on GCP using Terraform](https://towardsdatascience.com/data-lake-on-gcp-using-terraform-469062a205ad)
+
 [Let’s Build a Streaming Data Pipeline](https://towardsdatascience.com/lets-build-a-streaming-data-pipeline-e873d671fc57)  
   -  _GCP - Apache Beam, Pub/Sub, Dataflow, BigQuery 파이프라인 실습_
 
 [AWS & Snowflake vs GCP: how do they stack up when building a data platform?](https://medium.com/photobox-technology-product-and-design/aws-snowflake-vs-gcp-how-do-they-stack-up-when-building-a-data-platform-45edbdd615ff) 2️⃣0️⃣2️⃣0️⃣ - by Photobox  
   -  _Data Ingestion \(Realtime + Batch\) \| ETL pipeline\(Airflow\) \| DataWarehouse \(Snowflake VS BigQuery\) 비교_
 
-\_\_[Real Time Anomaly Detection with AWS](https://towardsdatascience.com/real-time-anomaly-detection-with-aws-c237db9eaa3f)  
-  -  _Kinesis Data Analytics를 활용하여 이상치 탐지_
+\_\_
 

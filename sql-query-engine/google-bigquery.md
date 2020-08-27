@@ -56,3 +56,5 @@ __](https://towardsdatascience.com/load-files-faster-into-bigquery-94355c4c086a)
 
 [How to run BigQuery jobs programmatically using AWS Lambda and save results to S3 as CSV](https://medium.com/@mshakhomirov/how-to-run-bigquery-jobs-programmatically-using-aws-lambda-and-save-results-to-s3-as-csv-4fc7c19be47f)
 
+[Yet another way to generate fake datasets in BigQuery](https://medium.com/google-cloud/yet-another-way-to-generate-fake-datasets-in-bigquery-93ee87c1008f)
+
