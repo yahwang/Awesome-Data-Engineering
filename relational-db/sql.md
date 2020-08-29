@@ -16,6 +16,8 @@
 
 [https://sqlformat.org/](https://sqlformat.org/) - Online SQL formatting service
 
+[How to store digital files in a database in Python](https://towardsdatascience.com/how-to-store-digital-files-in-a-database-with-python-f9ec8d15741a)
+
 ## Quiz
 
 ❓ [SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit) - by 프로그래머스

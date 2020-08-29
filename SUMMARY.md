@@ -45,7 +45,8 @@
 
 ## NoSQL DB
 
-* [MongoDB VS DynamoDB](nosql-db/mongodb.md)
+* [MongoDB](nosql-db/mongodb.md)
+* [DynamoDB](nosql-db/dynamodb.md)
 
 ## SQL Query Engine
 
@@ -76,6 +77,7 @@
 
 ## Streaming
 
+* [Untitled](streaming/untitled.md)
 * [Kafka](streaming/kafka.md)
 
 ## DevOps
