@@ -1,5 +1,10 @@
 # ▹ AWS EMR & Glue
 
+[AWS Glue Vs. EMR: Which One is Better?](https://www.knowledgenile.com/blogs/aws-glue-vs-emr/)
+
+[AWS EMR vs GLUE evaluation for ETL workflow](https://www.linkedin.com/pulse/aws-emr-vs-glue-evaluation-etl-workflow-data-rajat-kumar)  
+  - engineer 입장에서 평가한 비교 
+
 ## Glue
 
 📺 [효율적인 빅데이터 분석 및 처리를 위한 Glue, EMR 활용](https://www.youtube.com/watch?v=aavblrrk4Fo) - by AWS
@@ -15,9 +20,13 @@
 
 ## EMR \(Spark\)
 
+[How Drop used the Amazon EMR runtime for Apache Spark to halve costs and get results 5.4 times faster](https://aws.amazon.com/blogs/big-data/how-drop-used-the-amazon-emr-runtime-for-apache-spark-to-halve-costs-and-get-results-5-4-times-faster/) - by AWS
+
 [Running Apache Spark on AWS](https://medium.com/acast-tech/running-apache-spark-on-aws-81a5f766d3a6)
 
 [AWS Elastic MapReduce \(EMR\) — 6 Caveats You Shouldn’t Ignore](https://towardsdatascience.com/aws-elastic-mapreduce-emr-6-caveats-you-shouldnt-ignore-7a3e260e19c1)
+
+[Reducing AWS EMR data processing costs](https://medium.com/teads-engineering/reducing-aws-emr-data-processing-costs-7c12a8df6f2a)
 
 [How to Set-up a cost-effective AWS EMR cluster and Jupyter Notebooks for SparkSQL](https://medium.com/@andcy7/how-to-set-up-a-cost-effective-aws-emr-cluster-and-jupyter-notebooks-for-sparksql-552360ffd4bc)
 

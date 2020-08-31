@@ -11,6 +11,8 @@
 
 [MySQL Performance Benchmarking: MySQL 5.7 vs MySQL 8.0](https://severalnines.com/blog/mysql-performance-benchmarking-mysql-57-vs-mysql-80)
 
+[MySQL where in \(서브쿼리\) vs 조인 조회 성능 비교 \(5.5 vs 5.6\)](https://jojoldu.tistory.com/520)
+
 ## Tuning
 
 [MySQL 기본 캐릭터 셋 설정하기](https://www.lesstif.com/pages/viewpage.action?pageId=20775198) - by 정광섭

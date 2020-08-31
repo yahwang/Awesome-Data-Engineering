@@ -1,4 +1,4 @@
-# Untitled
+# Nifi
 
 [Streaming Data Lake and Analytics with Apache Nifi](https://medium.com/digital-transformation-and-platform-engineering/streaming-data-lake-and-analytics-with-apache-nifi-c651700b56db)  
   - Nifi를 활용한 파이프라인 예시

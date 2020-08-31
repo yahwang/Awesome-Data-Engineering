@@ -47,6 +47,7 @@
 
 * [MongoDB](nosql-db/mongodb.md)
 * [DynamoDB](nosql-db/dynamodb.md)
+* [Cassandra](nosql-db/cassandra.md)
 
 ## SQL Query Engine
 
@@ -77,7 +78,7 @@
 
 ## Streaming
 
-* [Untitled](streaming/untitled.md)
+* [Nifi](streaming/untitled.md)
 * [Kafka](streaming/kafka.md)
 
 ## DevOps

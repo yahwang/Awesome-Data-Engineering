@@ -35,6 +35,8 @@
 [Advanced SQL Recipes to jump start your Analysis](http://www.silota.com/docs/recipes/) - by SILOTA  
   -  Data Analyst에게 유용한 SQL 계산 방법 설명 
 
+[Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba#use-unlogged-tables-for-intermediate-data) - by Haki Benita
+
 [Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)  
   -  하드웨어 관련 고급 설명 포함 
 

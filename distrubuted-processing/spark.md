@@ -1,5 +1,8 @@
 # Spark
 
+[Performance of Apache Spark on Kubernetes has caught up with YARN](https://towardsdatascience.com/performance-of-apache-spark-on-kubernetes-has-caught-up-with-yarn-73730878a792)  
+  -  Kubernetes가 YARN의 역할을 어느 정도 따라잡았다는 글 
+
 ## Tutorial
 
 [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/) - by Real Python  
