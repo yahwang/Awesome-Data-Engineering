@@ -7,6 +7,9 @@
 
 ## Tips
 
+[The MySQL Cheatsheet We All Need](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6)  
+  _-  All the essential MySQL commands_ 
+
 [INNER JOIN, PLAN, INDEX에 관한 글](http://labs.brandi.co.kr/2018/11/09/hansj.html) - by 브랜디
 
 [MySQL Performance Benchmarking: MySQL 5.7 vs MySQL 8.0](https://severalnines.com/blog/mysql-performance-benchmarking-mysql-57-vs-mysql-80)

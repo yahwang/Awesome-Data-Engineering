@@ -12,6 +12,8 @@
 
 ### 자료구조
 
+[Common Python Data Structures \(Guide\)](https://realpython.com/python-data-structures/#collectionsordereddict-remember-the-insertion-order-of-keys) - in Real Python
+
 [Use id\(\) to Understand 6 Key Concepts in Python](https://medium.com/better-programming/use-id-to-understand-6-key-concepts-in-python-73e0bbd461ec)  
   -  _Python의 object 특징에 대한 이해_
 

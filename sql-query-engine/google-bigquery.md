@@ -52,6 +52,8 @@ __](https://towardsdatascience.com/load-files-faster-into-bigquery-94355c4c086a)
 
 [Using BigQuery Execution Plans to Improve Query Performance](https://medium.com/slalom-build/using-bigquery-execution-plans-to-improve-query-performance-af141b0cc33d)
 
+[Costs and performance lessons after using BigQuery with terabytes of data](https://medium.com/dataseries/costs-and-performance-lessons-after-using-bigquery-with-terabytes-of-data-54a5809ac912)
+
 [Optimize BigQuery costs with Flex Slots](https://medium.com/google-cloud/optimize-bigquery-costs-with-flex-slots-e06ec5e4aa90)
 
 [How to run BigQuery jobs programmatically using AWS Lambda and save results to S3 as CSV](https://medium.com/@mshakhomirov/how-to-run-bigquery-jobs-programmatically-using-aws-lambda-and-save-results-to-s3-as-csv-4fc7c19be47f)

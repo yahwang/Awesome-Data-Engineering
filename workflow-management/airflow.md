@@ -19,6 +19,9 @@
   -  Airflow Scheduling에 대한 이해  
   -  UI에 표시되 execution\_date와 start\_date 차이
 
+[Is Apache Airflow good enough for current data engineering needs?](https://towardsdatascience.com/is-apache-airflow-good-enough-for-current-data-engineering-needs-c7019b96277d)  
+  -  Airflow의 단점에 대한 설명 
+
 ## Setting
 
 [A Gentle Introduction To Understand Airflow Executor](https://towardsdatascience.com/a-gentle-introduction-to-understand-airflow-executor-b4f2fee211b1)
