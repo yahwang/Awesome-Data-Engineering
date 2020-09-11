@@ -18,6 +18,14 @@
 
 📊 [우리는 왜 glue를 버렸나?](https://www.slideshare.net/Thomas_Hyun_Park/20200206-glue) - by 메쉬 코리아
 
+#### TEST
+
+[Local Debugging of AWS Glue Jobs](https://support.wharton.upenn.edu/help/glue-debugging) - by Wharton  
+  - Local에 aws glue lib와 glue용 spark를 설치하는 방법
+
+[Developing AWS Glue ETL jobs locally using a container](https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/) - by AWS  
+  - AWS 공식 지원 docker 기반으로 TEST \(jupyter, zeppelin도 포함\) 
+
 ## EMR \(Spark\)
 
 [How Drop used the Amazon EMR runtime for Apache Spark to halve costs and get results 5.4 times faster](https://aws.amazon.com/blogs/big-data/how-drop-used-the-amazon-emr-runtime-for-apache-spark-to-halve-costs-and-get-results-5-4-times-faster/) - by AWS
