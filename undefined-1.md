@@ -2,7 +2,7 @@
 
 ## 블로그
 
-[데이터 엔지니어 소개 및 공부법\(github wiki\)](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4) - In I-want-to-study-Data-Science
+### 기업
 
 [D2 Hello world](https://d2.naver.com/helloworld)
 
@@ -11,6 +11,12 @@
 [ZIGZAG 기술 블로그](https://devblog.croquis.com/ko/)
 
 [Percona Database Performance blog](https://www.percona.com/blog/)
+
+### 개인
+
+[데이터 엔지니어 소개 및 공부법\(github wiki\)](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4) - In I-want-to-study-Data-Science
+
+[https://www.mikulskibartosz.name/](https://www.mikulskibartosz.name/)
 
 ### AWS 관련
 

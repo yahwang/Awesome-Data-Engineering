@@ -8,7 +8,7 @@ description: Python으로 구현된 Tools
   -  Locust :  web site load-testing tool
 
 [Tutorial with Python library records for MySQL](https://medium.com/@gqianglu1990/tutorial-with-python-records-for-mysql-766b233faf44)  
-  -  records : sql client library / 다양한 포맷\(json, csv, xls\)으로 export 기능이 유
+  -  records : sql client library / 다양한 포맷\(json, csv, xls\)으로 export 기능이 유용
 
 [  
 ](https://medium.com/@gqianglu1990?source=post_page-----766b233faf44----------------------)

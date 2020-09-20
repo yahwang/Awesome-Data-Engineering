@@ -8,6 +8,8 @@
 
 ✏️ [Real Python](https://realpython.com) - 다양하고 유용한 Python tutorial이 있음
 
+[Python Books You Must Read in 2020](https://towardsdatascience.com/python-books-you-must-read-in-2020-a0fc33798bb)
+
 ## 추천 자료
 
 ### 자료구조

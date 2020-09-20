@@ -9,7 +9,9 @@
 📺 [네이버 클라우드 플랫폼의 개발자들은 컨테이너를 어떻게 사용하고 있을까?](https://www.youtube.com/watch?v=-WWpJ1ZLQkw&t=720) - by NAVER CLOUD PLATFORM  
   -  _앱 배포\(Deployment\) 및 앱 노출\(Service & Ingress\) 설명_
 
-[AWS 서비스를 활용한 Kubernetes 클러스터 구축](http://engineering.vcnc.co.kr/2019/03/kubernetes-on-aws/) - by VCNC
-
 📺 [AWS Fargate on EKS 실전 사용하기 - 용찬호 \(데브시스터즈\)](https://www.youtube.com/watch?v=N0uLK5syctU) - in AWS Community Day 2020
+
+[나만의 k8s 클러스터 구축하기 - \#2 Amazon EKS편](https://coffeewhale.com/kubernetes/cluster/eks/2020/09/03/k8s-eks/)
+
+[AWS 서비스를 활용한 Kubernetes 클러스터 구축](http://engineering.vcnc.co.kr/2019/03/kubernetes-on-aws/) - by VCNC
 

@@ -3,6 +3,9 @@
 [Performance of Apache Spark on Kubernetes has caught up with YARN](https://towardsdatascience.com/performance-of-apache-spark-on-kubernetes-has-caught-up-with-yarn-73730878a792)  
   -  Kubernetes가 YARN의 역할을 어느 정도 따라잡았다는 글 
 
+[Big Data file formats](https://luminousmen.com/post/big-data-file-formats) using Spark  
+  -  spark에서 파일 포맷 장 단점 설명 
+
 ## Tutorial
 
 [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/) - by Real Python  
@@ -32,7 +35,7 @@
 🎞 [Amazon S3 Best Practice and Tuning for Hadoop/Spark in the Cloud](https://www.slideshare.net/ssuserca76a5/amazon-s3-best-practice-and-tuning-for-hadoopspark-in-the-cloud) - by AWS  
   -  _Spark에서 S3를 데이터 저장소로 활용하는 방법_
 
-🎞 __[데이터 엔지니어가 실무에서 맞닥뜨리는 문제들](https://www.slideshare.net/SungWoonSo/awskrug-235407792) - by 지그재  
+🎞 __[데이터 엔지니어가 실무에서 맞닥뜨리는 문제들](https://www.slideshare.net/SungWoonSo/awskrug-235407792) - by 지그재그   
   -  Parquet/snappy 보다 ORC/zlib 타입이 처리 속도가 더 빠르다는 설명 
 
 ## ETC

@@ -14,6 +14,9 @@
 
 [Best practices to scale Apache Spark jobs and partition data with AWS Glue](https://aws.amazon.com/ko/blogs/big-data/best-practices-to-scale-apache-spark-jobs-and-partition-data-with-aws-glue/) - by AWS
 
+[Optimize memory management in AWS Glue](https://aws.amazon.com/blogs/big-data/optimize-memory-management-in-aws-glue/) - by AWS  
+  -  데이터 로딩\(s3, jdbc\)에 대한 최적화가 많음 
+
 [AWS Glue: Lesson learned…](https://medium.com/@techatcore/aws-glue-lesson-learned-437d73f3e988)
 
 📊 [우리는 왜 glue를 버렸나?](https://www.slideshare.net/Thomas_Hyun_Park/20200206-glue) - by 메쉬 코리아
