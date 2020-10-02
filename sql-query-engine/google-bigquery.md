@@ -12,6 +12,9 @@ description: Apache Drill 기반
 [Load files faster into BigQuery  
 __](https://towardsdatascience.com/load-files-faster-into-bigquery-94355c4c086a)  _-_  Benchmarking CSV, GZIP, AVRO and PARQUET file types for ingestion
 
+[Monitoring your BigQuery costs and reports usage with Data Studio](https://towardsdatascience.com/monitoring-your-bigquery-costs-and-reports-usage-with-data-studio-b77819ffd9fa)  
+  -  BigQuery 비용을 모니터링하는 방법 
+
 ## _Practice_
 
 [Intro to SQL with Google BigQuery](https://www.kaggle.com/learn/intro-to-sql) - by Kaggle
@@ -53,6 +56,8 @@ __](https://towardsdatascience.com/load-files-faster-into-bigquery-94355c4c086a)
 [Using BigQuery Execution Plans to Improve Query Performance](https://medium.com/slalom-build/using-bigquery-execution-plans-to-improve-query-performance-af141b0cc33d)
 
 [Costs and performance lessons after using BigQuery with terabytes of data](https://medium.com/dataseries/costs-and-performance-lessons-after-using-bigquery-with-terabytes-of-data-54a5809ac912)
+
+[BigQuery Cost and Performance Optimization](https://medium.com/swlh/bigquery-cost-and-performance-optimization-57dfdce065c9)
 
 [Optimize BigQuery costs with Flex Slots](https://medium.com/google-cloud/optimize-bigquery-costs-with-flex-slots-e06ec5e4aa90)
 
