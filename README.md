@@ -2,6 +2,9 @@
 
 ## Data Engineer에 대한 이해
 
+[Roadmap to becoming a data engineer in 2020](https://github.com/datastacktv/data-engineer-roadmap)  
+  -  picture of the modern data engineering landscape
+
 [Who Is a Data Engineer & How to Become a Data Engineer?](https://towardsdatascience.com/who-is-a-data-engineer-how-to-become-a-data-engineer-1167ddc12811) - by Towards Data Science
 
 [데이터 엔지니어 소개](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4) - by _I want to study Data Science_

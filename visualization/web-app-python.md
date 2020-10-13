@@ -5,6 +5,9 @@ BI Tool 보다 Flexible하게 활용할 수 있다는 장점
 * 여러 Source의 Data를 하나의 그래프를 생성할 수 있음
 * 복잡한 연산을 미리 수행할 수 있음
 
+[Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter](https://towardsdatascience.com/streamlit-vs-dash-vs-shiny-vs-voila-vs-flask-vs-jupyter-24739ab5d569)  
+  - Comparing data dashboarding tools and frameworks
+
 ## Plotly
 
 [Interactive Data Visualization became much easier with help of Plotly-express](https://medium.com/analytics-vidhya/interactive-data-visualization-became-much-easier-with-help-of-plotly-express-64c56e781b53)  
