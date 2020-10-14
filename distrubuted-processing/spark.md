@@ -38,6 +38,8 @@
 🎞 __[데이터 엔지니어가 실무에서 맞닥뜨리는 문제들](https://www.slideshare.net/SungWoonSo/awskrug-235407792) - by 지그재그   
   -  Parquet/snappy 보다 ORC/zlib 타입이 처리 속도가 더 빠르다는 설명 
 
+[How to Debug Queries by Just Using Spark UI](https://medium.com/swlh/spark-ui-to-debug-queries-3ba43279efee)
+
 ## ETC
 
 [Benchmarking Apache Spark on a Single Node Machine](https://databricks.com/blog/2018/05/03/benchmarking-apache-spark-on-a-single-node-machine.html) - by Databricks  
