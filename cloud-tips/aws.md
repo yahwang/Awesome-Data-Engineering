@@ -19,6 +19,9 @@ put\_object & get\_object : 기본 업로드 기능 \(파일 통째로\)
 [AWS S3 Multipart Upload/Download using Boto3 \(Python SDK\)](https://medium.com/analytics-vidhya/aws-s3-multipart-upload-download-using-boto3-python-sdk-2dedb0945f11)  
   -  파일이 100MB 이상일 경우, multipart 사용을 권장 \( CLI는 자동 기능 존재 \) 
 
+[Querying data without servers or databases using Amazon S3 Select](https://aws.amazon.com/ko/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/) - by AWS  
+  - 미리 필터링 연산 및 비용 절감 가능 
+
 ### Lambda - FaaS
 
 [Why You Should Never, Ever print\(\) in a Lambda Function](https://towardsdatascience.com/why-you-should-never-ever-print-in-a-lambda-function-f997d684a705#--responses)  

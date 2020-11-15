@@ -21,6 +21,8 @@
 
 📊 [우리는 왜 glue를 버렸나?](https://www.slideshare.net/Thomas_Hyun_Park/20200206-glue) - by 메쉬 코리아
 
+[Continuous Deployment for AWS Glue](https://bravenewgeek.com/continuous-deployment-for-aws-glue/)
+
 #### TEST
 
 [Local Debugging of AWS Glue Jobs](https://support.wharton.upenn.edu/help/glue-debugging) - by Wharton  
