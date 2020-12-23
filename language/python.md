@@ -69,6 +69,8 @@
 [AsyncIO, Threading, and Multiprocessing in Python](https://medium.com/analytics-vidhya/asyncio-threading-and-multiprocessing-in-python-4f5ff6ca75e8)  
   -  _aysncio 코드 및 보완 설명_
 
+[How to Execute Shell Commands with Python](https://janakiev.com/blog/python-shell-commands/)
+
 ## 알면 좋은 자료
 
 [How to Stand Out in a Python Coding Interview](https://realpython.com/python-coding-interview-tips/) - in Real Python

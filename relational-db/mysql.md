@@ -5,6 +5,11 @@
 [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/) - by Percona  
   -  Local DB와 연결할 땐 TCP/IP 대신 Unix Domain Socket이 성능이 좋다. \(-h localhost\)
 
+[Access an AWS RDS DB in a Private Subnet From MySQL Workbench](https://medium.com/serverlessguru/access-an-aws-rds-db-in-a-private-subnet-from-mysql-workbench-e3eafa89a152)  
+ - Bastion EC2를 통해 MySQL에 접속하는 방법
+
+\_\_
+
 ## Tips
 
 [The MySQL Cheatsheet We All Need](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6)  
