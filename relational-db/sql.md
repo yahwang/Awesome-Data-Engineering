@@ -42,6 +42,9 @@
 [Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)  
   -  하드웨어 관련 고급 설명 포함 
 
+[https://github.com/HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)  
+  -  MySQL / PostgreSQL DBA investigating + performance tuning 관련 쿼
+
 <table>
   <thead>
     <tr>

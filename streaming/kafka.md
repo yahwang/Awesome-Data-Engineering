@@ -14,3 +14,9 @@
 📺 [대규모 클러스터 모니터링 도전기](https://tv.naver.com/v/11208700) - in DEVIEW 2019  
   -  _20:00 부터 카프카를 활용한 데이터 수집에서 모니터링 구축까지 설명_
 
+### _Tuning_
+
+[What does In-Sync Replicas in Apache Kafka Really Mean?](https://www.cloudkarafka.com/blog/what-does-in-sync-in-apache-kafka-really-mean.html) _- in_ cloudkarafka blog
+
+\_\_
+
