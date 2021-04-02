@@ -23,6 +23,8 @@
 
 ## Tuning
 
+[MySQL/MariaDB, 슬로우 쿼리 원인 분석 및 성능 튜닝하기](https://jsonobject.tistory.com/408)
+
 [MySQL 기본 캐릭터 셋 설정하기](https://www.lesstif.com/pages/viewpage.action?pageId=20775198) - by 정광섭
 
 [MySQL OPTIMIZE TABLE Statement](https://www.techbeamers.com/mysql-optimize-table/)
