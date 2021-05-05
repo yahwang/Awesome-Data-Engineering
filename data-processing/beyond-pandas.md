@@ -28,7 +28,8 @@ description: Pandas를 보완 혹은 대체하는 역할
 
 ## Vaex
 
-> 문자열 처리에 특히 뛰어남
+> 문자열 처리에 특히 뛰어남   
+> HDF5 파일 포맷이어야 하는 불편함이 있음
 
 [7 reasons why I love Vaex for data science](https://towardsdatascience.com/7-reasons-why-i-love-vaex-for-data-science-99008bc8044b)
 

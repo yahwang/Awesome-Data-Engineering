@@ -28,6 +28,8 @@
   -  **Lists** are allocated in two blocks: the fixed one with all the Python object information   
      and a variable sized block for the data.
 
+[OrderedDict vs dict in Python: The Right Tool for the Job](https://realpython.com/python-ordereddict/) - in Real Python
+
 [Linked Lists in Python: An Introduction](https://realpython.com/linked-lists-python/#performance-comparison-lists-vs-linked-lists) - in Real Python
 
 [Python Type Checking \(Guide\)](https://realpython.com/python-type-checking%20) - in Real Python  
@@ -56,6 +58,10 @@
 
 [Are you writing print\(\) statements to debug your Python code?](https://medium.com/analytics-vidhya/are-you-writing-print-statements-to-debug-your-python-code-690e6ba098e9)  
   -  pdb 모듈로 디버깅하는 간단한 방법 
+
+[Stop Using Print to Debug in Python. Use Icecream Instead](https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc)
+
+  - 간단한 디버깅은 print 대신 ic 명령어
 
 [Package Python Projects the Proper Way with Poetry](https://hackersandslackers.com/python-poetry-package-manager/)  
   _-  가상환경 Tool \(dependency 관리 \)_

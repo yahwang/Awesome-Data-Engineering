@@ -1,5 +1,7 @@
 # AWS
 
+[AWS IAM Hands On Lab](https://whchoi98.gitbook.io/aws-iam/) - by AWS
+
 [Your Comprehensive Guide to Understanding AWS Data Transfer Costs](https://medium.com/@mulupuru/your-comprehensive-guide-to-understanding-aws-data-transfer-costs-f5c8241d65ed)
 
  [AWS SSM로 VPN없이 Private 자원 접근하기](https://beomi.github.io/2020/02/13/AWS-SSM-with-Bastion/) - by Beomi's Tech Blog  
@@ -8,6 +10,11 @@
 [AWS SSM 배스천호스트 터널링으로 RDS\(PGDB\) 에 연결하기](http://blog.haandol.com/2020/05/01/bastion-host-tunnel-rds.html)
 
 [AWS Data Streaming Data Solution for Amazon Kinesis 소개](https://aws.amazon.com/ko/about-aws/whats-new/2020/09/introducing-aws-data-streaming-data-solution-for-amazon-kinesis/?sc_channel=em&sc_campaign=GLOBAL_CT_NL_global-snapshot-newsletter_20200910_&sc_medium=em_294590&sc_content=PA_nl_la&sc_geo=mult&sc_country=global&sc_outcome=pa&trk=em_294590&mkt_tok=eyJpIjoiTkdZeU1XRmlOREZqWmpRNSIsInQiOiJLbTBYRnVWc3FVV2EzdlpWVTBjczVjc0xWRDN2Z3AyRzZ5c2dQdjZIYVJ2NmZ5VnpVRjNxUnF0WjJPUXFmMzhVZVd3Y2Q2SHlvczFxSmpZXC9aNTdCdThLdnVBbHdONXhjQXBaWFQ1TTgxUWpVTmoycGNoOHlaTHhHNmR3NXhudmxLV2N5MDhUV2x2eWQyU3I0K2EzamdRPT0ifQ%3D%3D) - by AWS
+
+### EC2
+
+[Which is better, gp2 or gp3 EBS volume types?](https://ahmedahamid.com/which-is-better/?fbclid=IwAR3TSSM436Dn1RmQfTCVRSyeXgt_Sfjw6TgmPsN7KEwVKTeZNcuuMhnnIFc#:~:text=The%20graph%20shows%20that%20gp3,allows%20a%20much%20higher%20throughput)  
+  _- 비용 효율적인 EBS Volume 설정 방법_
 
 ### S3
 
@@ -31,8 +38,8 @@ put\_object & get\_object : 기본 업로드 기능 \(파일 통째로\)
   -  S3의 대용량 데이터를 chunk 단위로 나누어 처리하는 방법  
   -  시간 제한에 맞춰 새로운 Lambda 작업을 트리거하여 작업을 이어서 처리함
 
-[  
-](https://medium.com/@hang.c?source=post_page-----2c5840ae5c91----------------------)
+[Calling an AWS Lambda function from another Lambda function  
+](https://www.sqlshack.com/calling-an-aws-lambda-function-from-another-lambda-function/)
 
 
 
