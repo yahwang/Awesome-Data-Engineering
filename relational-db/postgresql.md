@@ -4,7 +4,11 @@
 
 [MySQL vs PostgreSQL -- Choose the Right Database for Your Project](https://developer.okta.com/blog/2019/07/19/mysql-vs-postgres) - by okta
 
+한국 포스트그레스큐엘 [https://postgresql.kr/](https://postgresql.kr/)
+
 ## Setting
+
+[도커 공식 포스트그레스큐엘 이미지를 쓸 때](https://postgresql.kr/blog/when_useing_docker_official_postgres_image.html) - by POSTGRESQL.KR
 
 [Connect From Your Local Machine to a PostgreSQL in Docker](https://medium.com/better-programming/connect-from-local-machine-to-postgresql-docker-container-f785f00461a7)
 

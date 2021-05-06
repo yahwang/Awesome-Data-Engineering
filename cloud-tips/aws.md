@@ -1,15 +1,24 @@
 # AWS
 
+### General
+
+[https://kr.developers.io/](https://kr.developers.io/) - by Classmethod  
+  - AWS서비스 사용 관련 팁들이 많음
+
+[GS네오텍\(WiseN\) 블로그](https://blog.wisen.co.kr/?cat=3)
+
+### Network
+
 [AWS IAM Hands On Lab](https://whchoi98.gitbook.io/aws-iam/) - by AWS
 
 [Your Comprehensive Guide to Understanding AWS Data Transfer Costs](https://medium.com/@mulupuru/your-comprehensive-guide-to-understanding-aws-data-transfer-costs-f5c8241d65ed)
+
+📺 [AWS의 눈 - Cloud Watch](https://www.youtube.com/watch?v=jGryI-hBA38) - by 생활코딩
 
  [AWS SSM로 VPN없이 Private 자원 접근하기](https://beomi.github.io/2020/02/13/AWS-SSM-with-Bastion/) - by Beomi's Tech Blog  
   -  _AWS SSM + Bastion EC2 + SSH 터널링_
 
 [AWS SSM 배스천호스트 터널링으로 RDS\(PGDB\) 에 연결하기](http://blog.haandol.com/2020/05/01/bastion-host-tunnel-rds.html)
-
-[AWS Data Streaming Data Solution for Amazon Kinesis 소개](https://aws.amazon.com/ko/about-aws/whats-new/2020/09/introducing-aws-data-streaming-data-solution-for-amazon-kinesis/?sc_channel=em&sc_campaign=GLOBAL_CT_NL_global-snapshot-newsletter_20200910_&sc_medium=em_294590&sc_content=PA_nl_la&sc_geo=mult&sc_country=global&sc_outcome=pa&trk=em_294590&mkt_tok=eyJpIjoiTkdZeU1XRmlOREZqWmpRNSIsInQiOiJLbTBYRnVWc3FVV2EzdlpWVTBjczVjc0xWRDN2Z3AyRzZ5c2dQdjZIYVJ2NmZ5VnpVRjNxUnF0WjJPUXFmMzhVZVd3Y2Q2SHlvczFxSmpZXC9aNTdCdThLdnVBbHdONXhjQXBaWFQ1TTgxUWpVTmoycGNoOHlaTHhHNmR3NXhudmxLV2N5MDhUV2x2eWQyU3I0K2EzamdRPT0ifQ%3D%3D) - by AWS
 
 ### EC2
 
@@ -40,6 +49,10 @@ put\_object & get\_object : 기본 업로드 기능 \(파일 통째로\)
 
 [Calling an AWS Lambda function from another Lambda function  
 ](https://www.sqlshack.com/calling-an-aws-lambda-function-from-another-lambda-function/)
+
+
+
+[AWS Data Streaming Data Solution for Amazon Kinesis 소개](https://aws.amazon.com/ko/about-aws/whats-new/2020/09/introducing-aws-data-streaming-data-solution-for-amazon-kinesis/?sc_channel=em&sc_campaign=GLOBAL_CT_NL_global-snapshot-newsletter_20200910_&sc_medium=em_294590&sc_content=PA_nl_la&sc_geo=mult&sc_country=global&sc_outcome=pa&trk=em_294590&mkt_tok=eyJpIjoiTkdZeU1XRmlOREZqWmpRNSIsInQiOiJLbTBYRnVWc3FVV2EzdlpWVTBjczVjc0xWRDN2Z3AyRzZ5c2dQdjZIYVJ2NmZ5VnpVRjNxUnF0WjJPUXFmMzhVZVd3Y2Q2SHlvczFxSmpZXC9aNTdCdThLdnVBbHdONXhjQXBaWFQ1TTgxUWpVTmoycGNoOHlaTHhHNmR3NXhudmxLV2N5MDhUV2x2eWQyU3I0K2EzamdRPT0ifQ%3D%3D) - by AWS
 
 
 

@@ -11,13 +11,15 @@
 
 [데이터 엔지니어는 회사에서 무슨 일을 하나요?](https://www.itdaa.net/mentor_posts/6357) - in itdaa
 
+[쏘카 데이터 그룹 - 데이터 엔지니어링 팀이 하는 일](https://tech.socarcorp.kr/data/2021/03/24/what-socar-data-engineering-team-does.html?fbclid=IwAR3W2h7UU7Z_4a1Kz_N4IWkT38gfcSA00g0MCqLWC8mGMG0YpGPXD-KH6b0) - by SOCAR
+
 [Data Engineering 팀 인터뷰](https://www.jobplanet.co.kr/companies/88435/story/%EC%97%90%EC%8A%A4%ED%8B%B0%EC%9C%A0%EB%8B%88%ED%83%80%EC%8A%A4?content_id=48) - by ST Unitas
 
 [토스팀에 데이터가 흐르게 하는, 데이터 플랫폼 팀을 만나다](https://blog.toss.im/2019/04/29/tossteam/people/toss-dataplatformteam-interview/) - by 비바리퍼블리카
 
 [리디북스 데이터팀 소개](https://www.ridicorp.com/career/data-engineer/) - by 리디북스
 
-[IT 회사에서 데이터 직군은 데이터를 어떻게 관리할까?](https://www.grabbing.me/IT-90338d3bcad14cc3b7d4bc004d1b13ce#6a00341f4d9648209ace7775af1cce8d) - by 그
+[IT 회사에서 데이터 직군은 데이터를 어떻게 관리할까?](https://www.grabbing.me/IT-90338d3bcad14cc3b7d4bc004d1b13ce#6a00341f4d9648209ace7775af1cce8d) - by 그랩
 
 [데이터 분석팀은 왜 비즈니스에서 중요한 역할을 하고 있지 못할까?](http://bongholee.com/2020/04/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%ED%8C%80%EC%9D%80-%EC%99%9C-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EC%97%90%EC%84%9C-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%97%AD%ED%95%A0%EC%9D%84-%ED%95%98/?fbclid=IwAR1UYjGD0WMc6WtK8IlMIzXCnjIP5hDC3k3C7Ut0CAE2sWpkG4KeRFppBd8)
 

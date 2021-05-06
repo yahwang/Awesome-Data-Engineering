@@ -6,7 +6,7 @@
 
 📺 [마이리얼트립 – 데이터가 흐르는 조직 만들기](https://devground.hanbit.co.kr/2019/06/27/ai%ec%99%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b3%bc%ed%95%99-%ec%96%91%ec%8a%b9%ed%99%94-%eb%8d%b0%ec%9d%b4%ed%84%b0%ea%b0%80-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%a1%b0%ec%a7%81-%eb%a7%8c%eb%93%a4/) - in DevGround 2️⃣0️⃣1️⃣9️⃣
 
-## 구축 자
+## 구축 자료
 
 📺 ['야생의 땅: 듀랑고'의 데이터 엔지니어링 이야기-로그 시스템 구축](https://www.youtube.com/watch?v=lNV5bn_rPrw) 2️⃣0️⃣1️⃣8️⃣ - in NDC
 
@@ -36,6 +36,8 @@
 📺 [AWS 기반 서버리스 데이터 레이크 구축하기 - 김진웅](https://www.youtube.com/watch?v=qbdLrILjapA) 2️⃣0️⃣2️⃣0️⃣ - by SK C&C
 
 [마이리얼트립 EDW\(Enterprise Data Warehouse\) 구축 : phase 1](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-edw-%EA%B5%AC%EC%B6%95-phase-1-7d32c49c96ec)
+
+📺 [SLASH 21 - 토스 데이터의 흐름과 활용](https://www.youtube.com/watch?v=8ZhnUgylQgo) 2️⃣0️⃣2️⃣1️⃣ - by 토스
 
 ## 실습 기반
 

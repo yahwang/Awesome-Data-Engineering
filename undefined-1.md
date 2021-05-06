@@ -18,10 +18,6 @@
 
 [https://www.mikulskibartosz.name/](https://www.mikulskibartosz.name/)
 
-### AWS 관련
-
-[GS네오텍\(WiseN\) 블로그](https://blog.wisen.co.kr/?cat=3)
-
 ## 커뮤니티
 
 [데이터야 놀자](https://datayanolja.github.io/index.html)
