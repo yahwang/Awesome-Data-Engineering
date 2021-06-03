@@ -4,11 +4,9 @@ description: Apache Presto 기반
 
 # Amazon Athena
 
-[BigQuery vs Athena](https://chartio.com/resources/tutorials/bigquery-vs-athena/) - by CHARTIO
-
 [Amazon Redshift Vs Athena: An In-Depth Comparison](https://hevodata.com/blog/amazon-redshift-vs-athena/) - by HEVO
 
-## 
+[Why do I get errors when I try to read JSON data in Amazon Athena?](https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena/?nc1=h_ls) - by AWS
 
 [CSV Analysis with Amazon Athena](https://medium.com/avmconsulting-blog/csv-analysis-with-amazon-athena-b241f87f010c)
 
