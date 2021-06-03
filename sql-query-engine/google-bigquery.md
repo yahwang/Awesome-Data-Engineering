@@ -17,11 +17,14 @@ __](https://towardsdatascience.com/load-files-faster-into-bigquery-94355c4c086a)
 
 ## _Practice_
 
+_Loading_
+
+* [Basic tutorial for BigQuery with Python](https://blog.morizyun.com/python/library-bigquery-google-cloud.html)
+* [Loading Data Into BigQuery From Cloud Storage. Complete Guide.](https://medium.com/swlh/loading-data-into-bigquery-from-cloud-storage-complete-guide-e212f5c2db6)
+
 [Intro to SQL with Google BigQuery](https://www.kaggle.com/learn/intro-to-sql) - by Kaggle
 
 [BigQuery for Data Science - What Happens in Practice](https://towardsdatascience.com/bigquery-for-data-science-bc9c7c27de4b)
-
-[Loading Data Into BigQuery From Cloud Storage. Complete Guide.](https://medium.com/swlh/loading-data-into-bigquery-from-cloud-storage-complete-guide-e212f5c2db6)
 
 [5 Bigquery SQL Commands You \[Probably\] Didn’t Know About](https://towardsdatascience.com/5-bigquery-sql-commands-you-probably-didnt-know-about-ebfd9d0dc160)
 
