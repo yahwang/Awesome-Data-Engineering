@@ -18,6 +18,11 @@
 
 [https://www.mikulskibartosz.name/](https://www.mikulskibartosz.name/)
 
+[하나씩 점을 찍어 나가며](https://dailyheumsi.tistory.com/) - by heumsi \(데이터 엔지니어\)
+
+[다니엘의 라이브러리](https://datalibrary.tistory.com/) \(데이터 엔지니어\)  
+  - 📺 [메이크센스 MakeSense](https://www.youtube.com/channel/UCujvrnsinN7StkWj7inK89Q) 
+
 ## 커뮤니티
 
 [데이터야 놀자](https://datayanolja.github.io/index.html)

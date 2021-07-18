@@ -2,7 +2,7 @@
 
 ## Data Engineer에 대한 이해
 
-[Roadmap to becoming a data engineer in 2020](https://github.com/datastacktv/data-engineer-roadmap)  
+[Roadmap to becoming a data engineer in 2021](https://github.com/datastacktv/data-engineer-roadmap)  
   -  picture of the modern data engineering landscape
 
 [Who Is a Data Engineer & How to Become a Data Engineer?](https://towardsdatascience.com/who-is-a-data-engineer-how-to-become-a-data-engineer-1167ddc12811) - by Towards Data Science
@@ -20,8 +20,6 @@
 [리디북스 데이터팀 소개](https://www.ridicorp.com/career/data-engineer/) - by 리디북스
 
 [IT 회사에서 데이터 직군은 데이터를 어떻게 관리할까?](https://www.grabbing.me/IT-90338d3bcad14cc3b7d4bc004d1b13ce#6a00341f4d9648209ace7775af1cce8d) - by 그랩
-
-[데이터 분석팀은 왜 비즈니스에서 중요한 역할을 하고 있지 못할까?](http://bongholee.com/2020/04/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%ED%8C%80%EC%9D%80-%EC%99%9C-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EC%97%90%EC%84%9C-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%97%AD%ED%95%A0%EC%9D%84-%ED%95%98/?fbclid=IwAR1UYjGD0WMc6WtK8IlMIzXCnjIP5hDC3k3C7Ut0CAE2sWpkG4KeRFppBd8)
 
 [What I learned from being a startup's first Data Engineer](https://towardsdatascience.com/what-i-learned-from-being-a-startups-first-data-engineer-f19cd71d3f31)  
   -  회사의 첫 Data Engineer로 일한 경험 및 조언
@@ -56,6 +54,8 @@ BUSINESS INTELLIGENCE와 DATA SCIENCE를 돕기 위해 Data Pipeline을 구축�
 ![&#xCD9C;&#xCC98; : https://medium.com/gusto-engineering/what-is-data-engineering-65515c1df9af](https://miro.medium.com/max/1260/1*oGjeteGw-mg5Ki8-d7S7YA.png)
 
 ## Data Pipeline Roadmap
+
+📺 [최신 데이터 인프라 이해하기](https://www.youtube.com/watch?v=g_c742vW8dQ&list=PLL-_zEJctPoJ92HmbGxFv1Pv_ugsggGD2) - by 긱뉴스
 
 ![&#xCD9C;&#xCC98; : towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5](https://miro.medium.com/max/1260/1*cvQDKx13Peirep-NKaPtSQ.png)
 

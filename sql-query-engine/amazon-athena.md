@@ -21,3 +21,5 @@ description: Apache Presto 기반
 [AWS Athena helps to find the worst place to park your car in Portland.](https://towardsdatascience.com/aws-athena-helps-to-find-the-worst-place-to-park-your-car-in-portland-ffb5195cfd9)  
   -  _GeoJson과 lat, lon을 활용하여 지역별 지표 계산 \( ST\_POINT, ST\_CONTAINS, UNNEST \)_
 
+[Flatten arrays into rows with UNNEST](https://the.athena.guide/articles/unnest-arrays-to-rows/) _- in The Athena Guide_
+

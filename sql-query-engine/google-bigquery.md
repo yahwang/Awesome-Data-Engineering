@@ -15,6 +15,8 @@ __](https://towardsdatascience.com/load-files-faster-into-bigquery-94355c4c086a)
 [Monitoring your BigQuery costs and reports usage with Data Studio](https://towardsdatascience.com/monitoring-your-bigquery-costs-and-reports-usage-with-data-studio-b77819ffd9fa)  
   -  BigQuery 비용을 모니터링하는 방법 
 
+[BigQuery Explained: Storage Overview](https://medium.com/google-cloud/bigquery-explained-storage-overview-70cac32251fa)
+
 ## _Practice_
 
 _Loading_
