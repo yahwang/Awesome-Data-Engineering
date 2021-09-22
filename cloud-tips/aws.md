@@ -25,6 +25,9 @@
 [Which is better, gp2 or gp3 EBS volume types?](https://ahmedahamid.com/which-is-better/?fbclid=IwAR3TSSM436Dn1RmQfTCVRSyeXgt_Sfjw6TgmPsN7KEwVKTeZNcuuMhnnIFc#:~:text=The%20graph%20shows%20that%20gp3,allows%20a%20much%20higher%20throughput)  
   _- 비용 효율적인 EBS Volume 설정 방법_
 
+[Extend a Linux file system after resizing a volume](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html?icmpid=docs_ec2_console) _- by AWS  
+  - EBS 먼저 볼륨 증가후EC2에서 볼륨설정하는 법_
+
 ### S3
 
 upload\_file & download\_file : multipart 기능  
