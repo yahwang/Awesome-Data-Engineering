@@ -61,7 +61,7 @@ BUSINESS INTELLIGENCE와 DATA SCIENCE를 돕기 위해 Data Pipeline을 구축�
 
 ![출처 : towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5](https://miro.medium.com/max/1260/1\*cvQDKx13Peirep-NKaPtSQ.png)
 
-![출처 : https://towardsdatascience.com/building-a-data-warehouse-pipeline-basic-concepts-roadmap-d14032890ab6](https://miro.medium.com/max/1104/1\*Q4eh3GE-3xgaSIo8TKOOLw.png)
+![출처 : https://lakefs.io/wp-content/uploads/2022/06/State-of-Data-Engineering-2022-map-1920x1080\_8-scaled.jpg](<.gitbook/assets/image (3).png>)
 
 #### **serverless architecture of data pipeline**
 

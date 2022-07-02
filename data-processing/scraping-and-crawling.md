@@ -6,7 +6,6 @@
 
 [Introducing AutoScraper: A Smart, Fast and Lightweight Web Scraper For Python](https://medium.com/better-programming/introducing-autoscraper-a-smart-fast-and-lightweight-web-scraper-for-python-20987f52c749)
 
-[Advanced Proxy Use for Web Scraping](http://blog.adnansiddiqi.me/advanced-proxy-use-for-web-scraping/)  
-  -  _proxy & user-agent rotation에 대한 설명  
-  -_  참고 : [What is a Proxy Server and How Does it Work?](https://www.varonis.com/blog/what-is-a-proxy-server/) - by Varonis
-
+[Advanced Proxy Use for Web Scraping](http://blog.adnansiddiqi.me/advanced-proxy-use-for-web-scraping/)\
+&#x20; \-  _proxy & user-agent rotation에 대한 설명_\
+&#x20; _-_  참고 : [What is a Proxy Server and How Does it Work?](https://www.varonis.com/blog/what-is-a-proxy-server/) - by Varonis

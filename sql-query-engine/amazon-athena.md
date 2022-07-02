@@ -6,7 +6,7 @@ description: Apache Presto 기반
 
 [Amazon Redshift Vs Athena: An In-Depth Comparison](https://hevodata.com/blog/amazon-redshift-vs-athena/) - by HEVO
 
-[Why do I get errors when I try to read JSON data in Amazon Athena?](https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena/?nc1=h_ls) - by AWS
+[Why do I get errors when I try to read JSON data in Amazon Athena?](https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena/?nc1=h\_ls) - by AWS
 
 [CSV Analysis with Amazon Athena](https://medium.com/avmconsulting-blog/csv-analysis-with-amazon-athena-b241f87f010c)
 
@@ -18,8 +18,7 @@ description: Apache Presto 기반
 
 [Using AWS Athena To Convert A CSV File To Parquet](https://www.cloudforecast.io/blog/Athena-to-transform-CSV-to-Parquet/)
 
-[AWS Athena helps to find the worst place to park your car in Portland.](https://towardsdatascience.com/aws-athena-helps-to-find-the-worst-place-to-park-your-car-in-portland-ffb5195cfd9)  
-  -  _GeoJson과 lat, lon을 활용하여 지역별 지표 계산 \( ST\_POINT, ST\_CONTAINS, UNNEST \)_
+[AWS Athena helps to find the worst place to park your car in Portland.](https://towardsdatascience.com/aws-athena-helps-to-find-the-worst-place-to-park-your-car-in-portland-ffb5195cfd9)\
+&#x20; \-  _GeoJson과 lat, lon을 활용하여 지역별 지표 계산 ( ST\_POINT, ST\_CONTAINS, UNNEST )_
 
 [Flatten arrays into rows with UNNEST](https://the.athena.guide/articles/unnest-arrays-to-rows/) _- in The Athena Guide_
-

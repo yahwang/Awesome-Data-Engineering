@@ -2,7 +2,7 @@
 
 ### General
 
-[https://kr.developers.io/](https://kr.developers.io) - by Classmethod\
+[https://kr.developers.io/](https://kr.developers.io/) - by Classmethod\
 &#x20; \- AWS서비스 사용 관련 팁들이 많음
 
 [GS네오텍(WiseN) 블로그](https://blog.wisen.co.kr/?cat=3)
@@ -22,7 +22,7 @@
 
 ### EC2
 
-[Which is better, gp2 or gp3 EBS volume types?](https://ahmedahamid.com/which-is-better/?fbclid=IwAR3TSSM436Dn1RmQfTCVRSyeXgt\_Sfjw6TgmPsN7KEwVKTeZNcuuMhnnIFc#:\~:text=The%20graph%20shows%20that%20gp3,allows%20a%20much%20higher%20throughput)\
+[Which is better, gp2 or gp3 EBS volume types?](https://ahmedahamid.com/which-is-better/?fbclid=IwAR3TSSM436Dn1RmQfTCVRSyeXgt\_Sfjw6TgmPsN7KEwVKTeZNcuuMhnnIFc)\
 &#x20; _- 비용 효율적인 EBS Volume 설정 방법_
 
 [Extend a Linux file system after resizing a volume](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html?icmpid=docs\_ec2\_console) _- by AWS_\

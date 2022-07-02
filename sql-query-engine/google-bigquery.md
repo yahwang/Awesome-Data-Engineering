@@ -6,14 +6,14 @@ description: Apache Drill 기반
 
 [Benchmarking AWS Athena vs BigQuery: Performance, Price, Data Freshness](https://www.upsolver.com/blog/benchmarking-aws-athena-bigquery-performance-price)
 
-[Google Cloud BigQuery vs. AWS Redshift](https://levelup.gitconnected.com/google-cloud-bigquery-vs-aws-redshift-a4d7238f1867)  
-  -  _Redshift 대비 Bigquery의 장점_
+[Google Cloud BigQuery vs. AWS Redshift](https://levelup.gitconnected.com/google-cloud-bigquery-vs-aws-redshift-a4d7238f1867)\
+&#x20; \-  _Redshift 대비 Bigquery의 장점_
 
-[Load files faster into BigQuery  
+[Load files faster into BigQuery\
 __](https://towardsdatascience.com/load-files-faster-into-bigquery-94355c4c086a)  _-_  Benchmarking CSV, GZIP, AVRO and PARQUET file types for ingestion
 
-[Monitoring your BigQuery costs and reports usage with Data Studio](https://towardsdatascience.com/monitoring-your-bigquery-costs-and-reports-usage-with-data-studio-b77819ffd9fa)  
-  -  BigQuery 비용을 모니터링하는 방법 
+[Monitoring your BigQuery costs and reports usage with Data Studio](https://towardsdatascience.com/monitoring-your-bigquery-costs-and-reports-usage-with-data-studio-b77819ffd9fa)\
+&#x20; \-  BigQuery 비용을 모니터링하는 방법&#x20;
 
 [BigQuery Explained: Storage Overview](https://medium.com/google-cloud/bigquery-explained-storage-overview-70cac32251fa)
 
@@ -34,15 +34,15 @@ _Loading_
 
 [BigQuery Materialized Views and Why You Should be Using Them](https://medium.com/@jtaras/bigquery-materialized-views-and-why-you-should-be-using-them-d6b14315ca7d)
 
-[BigQuery Materialized Views and Streaming Data](https://medium.com/@jtaras/bigquery-materialized-views-and-streaming-data-a70d5277417c)  
-  -  Streaming API를 통해 데이터를 적재하면서 MatView와 통합  
-     \(New Data만 따로 처리해서 merge한다.\)  
-  -  Refresh auto 기능 \(최소 30분에 1번\)
+[BigQuery Materialized Views and Streaming Data](https://medium.com/@jtaras/bigquery-materialized-views-and-streaming-data-a70d5277417c)\
+&#x20; \-  Streaming API를 통해 데이터를 적재하면서 MatView와 통합\
+&#x20;    (New Data만 따로 처리해서 merge한다.)\
+&#x20; \-  Refresh auto 기능 (최소 30분에 1번)
 
-[Querying External Data with BigQuery](https://medium.com/@_stevenlevine/querying-external-data-with-bigquery-1e7d055df4bc)
+[Querying External Data with BigQuery](https://medium.com/@\_stevenlevine/querying-external-data-with-bigquery-1e7d055df4bc)
 
-[Building Serverless Python Data APIs with Dockers on Google Cloud](https://towardsdatascience.com/building-serverless-python-data-apis-with-dockers-on-google-cloud-24d4f15cf81)  
-  -  Cloud Run으로 flask 컨테이너를 띄워 BigQuery DATA API Server 역할하는 방법 
+[Building Serverless Python Data APIs with Dockers on Google Cloud](https://towardsdatascience.com/building-serverless-python-data-apis-with-dockers-on-google-cloud-24d4f15cf81)\
+&#x20; \-  Cloud Run으로 flask 컨테이너를 띄워 BigQuery DATA API Server 역할하는 방법&#x20;
 
 ## Google Analytics 활용
 
@@ -69,4 +69,3 @@ _Loading_
 [How to run BigQuery jobs programmatically using AWS Lambda and save results to S3 as CSV](https://medium.com/@mshakhomirov/how-to-run-bigquery-jobs-programmatically-using-aws-lambda-and-save-results-to-s3-as-csv-4fc7c19be47f)
 
 [Yet another way to generate fake datasets in BigQuery](https://medium.com/google-cloud/yet-another-way-to-generate-fake-datasets-in-bigquery-93ee87c1008f)
-
