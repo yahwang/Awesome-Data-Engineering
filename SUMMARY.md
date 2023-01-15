@@ -8,16 +8,16 @@
 
 * [Data Engineering 용어 및 개념](data-engineering/data-engineering.md)
 * [Data Warehouse](data-engineering/data-warehouse.md)
-* [Data Infra 구축 자료](data-engineering/data-infra.md)
+* [Data Engineering 사례](data-engineering/data-infra.md)
 
 ## Language
 
 * [Python](language/python.md)
 * [Python Tools](language/python-tools.md)
 
-## Linux <a id="linux-1"></a>
+## Linux <a href="#linux-1" id="linux-1"></a>
 
-* [Linux \(Ubuntu 기준\)](linux-1/linux-ubuntu.md)
+* [Linux (Ubuntu 기준)](linux-1/linux-ubuntu.md)
 
 ## Data Processing
 
@@ -59,7 +59,7 @@
 
 * [Airflow](workflow-management/airflow.md)
 * [Prefect](workflow-management/prefect.md)
-* [dbt \(for DW\)](workflow-management/dbt-for-dw.md)
+* [dbt (for DW)](workflow-management/dbt-for-dw.md)
 * [Others](workflow-management/others.md)
 
 ## DATA COLLECTION
@@ -74,7 +74,7 @@
 ## VISUALIZATION
 
 * [References](visualization/undefined.md)
-* [Web App \(Python\)](visualization/web-app-python.md)
+* [Web App (Python)](visualization/web-app-python.md)
 * [Superset](visualization/superset.md)
 
 ## Streaming
@@ -87,7 +87,7 @@
 * [Docker](devops/docker.md)
 * [Kubernetes](devops/kubernetes.md)
 
----
+***
 
 * [Project Jupyter](project-jupyter.md)
 * [ELK](elk.md)
@@ -99,4 +99,3 @@
 ## SEARCH ENGINE
 
 * [Elastic Search](search-engine/elastic-search.md)
-
