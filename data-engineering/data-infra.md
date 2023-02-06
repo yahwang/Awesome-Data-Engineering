@@ -2,6 +2,8 @@
 
 ## 데이터 이야기
 
+📺 [비전공, 국비출신 데이터엔지니어 고군분투기](https://www.youtube.com/watch?v=pPwG86HaHIY) - in 한데모 Meetup 2️⃣0️⃣2️⃣2️⃣
+
 📺 [컬리 – ‘맛있는 데이터’를 물어다주는 멍멍이](https://devground.hanbit.co.kr/2019/06/27/ai%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99-%EB%85%B8%EC%83%81%EB%9E%98-%EB%A7%9B%EC%9E%88%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%AC%BC%EC%96%B4%EB%8B%A4%EC%A3%BC/) - in DevGround 2️⃣0️⃣1️⃣9️⃣&#x20;
 
 📺 [마이리얼트립 – 데이터가 흐르는 조직 만들기](https://devground.hanbit.co.kr/2019/06/27/ai%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99-%EC%96%91%EC%8A%B9%ED%99%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%ED%9D%90%EB%A5%B4%EB%8A%94-%EC%A1%B0%EC%A7%81-%EB%A7%8C%EB%93%A4/) - in DevGround 2️⃣0️⃣1️⃣9️⃣
