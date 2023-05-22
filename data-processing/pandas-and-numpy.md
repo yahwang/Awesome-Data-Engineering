@@ -41,7 +41,7 @@
 [파이썬 금융 시계열 처리 최적화하기](https://medium.com/qraft/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%88%EC%9C%B5-%EC%8B%9C%EA%B2%8C%EC%97%B4-%EC%B2%98%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-571b4d716a2e) _- by Qraft Technologies_\
 &#x20; _-  pandas 코드 최적화 설명_&#x20;
 
-__[The Best Format to Save Pandas Data](https://towardsdatascience.com/the-best-format-to-save-pandas-data-414dca023e0d)\
+[The Best Format to Save Pandas Data](https://towardsdatascience.com/the-best-format-to-save-pandas-data-414dca023e0d)\
 &#x20; \-  _object VS category 타입 여부를 분리한 benchmark / 최대 메모리, Save\&Loading 시간 비교_\
 &#x20; _-  feather 포맷이 제일 나은 결과 (하지만, long-term 저장용으로는 부적합 / Parquet 포맷이 표준화되고 있음)_
 

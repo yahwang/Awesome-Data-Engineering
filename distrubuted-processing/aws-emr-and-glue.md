@@ -46,11 +46,11 @@
 [PEX — The secret sauce for the perfect PySpark deployment of AWS EMR workloads](https://towardsdatascience.com/pex-the-secret-sauce-for-the-perfect-pyspark-deployment-of-aws-emr-workloads-9aef0d8fa3a5)\
 &#x20; \-  _Spot Instance로 EMR을 사용할 때 빠르게 application을 구성하는 방법 설명_
 
-[Zipping and Submitting PySpark Jobs in EMR Through Lambda Functions](https://towardsdatascience.com/zipping-and-submitting-pyspark-jobs-in-emr-through-lambda-functions-46a58a496d9e)__\
+[Zipping and Submitting PySpark Jobs in EMR Through Lambda Functions](https://towardsdatascience.com/zipping-and-submitting-pyspark-jobs-in-emr-through-lambda-functions-46a58a496d9e)\
 &#x20; _-  Lambda로 Pyspark job 실행하는 방법( project 형식 + gitlab CI)_
 
 [AWS -EMR Monitoring and Alerting Bot](https://medium.com/swlh/aws-emr-monitoring-and-alerting-bot-20db4b9662)\
 &#x20; \-  _Airflow와 boto3를 활용해서 slack or email로 메세지 전송_
 
-__
+
 

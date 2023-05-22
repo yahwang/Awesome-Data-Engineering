@@ -10,7 +10,7 @@ description: Apache Drill 기반
 &#x20; \-  _Redshift 대비 Bigquery의 장점_
 
 [Load files faster into BigQuery\
-__](https://towardsdatascience.com/load-files-faster-into-bigquery-94355c4c086a)  _-_  Benchmarking CSV, GZIP, AVRO and PARQUET file types for ingestion
+](https://towardsdatascience.com/load-files-faster-into-bigquery-94355c4c086a)  _-_  Benchmarking CSV, GZIP, AVRO and PARQUET file types for ingestion
 
 [Monitoring your BigQuery costs and reports usage with Data Studio](https://towardsdatascience.com/monitoring-your-bigquery-costs-and-reports-usage-with-data-studio-b77819ffd9fa)\
 &#x20; \-  BigQuery 비용을 모니터링하는 방법&#x20;

@@ -3,10 +3,10 @@
 [How to architect the perfect Data Warehouse](https://medium.com/@lewisdgavin/how-to-architect-the-perfect-data-warehouse-b3af2e01342e)\
 &#x20; _-  Key warehousing technique - Staging, Master and Reporting layer_
 
-__[Data Warehousing: Basics of Relational Vs Star Schema Data Modeling](https://medium.com/@daryl.ung/data-warehousing-basics-of-relational-vs-star-schema-data-modeling-75a68eeaf0e3)\
+[Data Warehousing: Basics of Relational Vs Star Schema Data Modeling](https://medium.com/@daryl.ung/data-warehousing-basics-of-relational-vs-star-schema-data-modeling-75a68eeaf0e3)\
 &#x20; _-  일반적인 DB모델링과 Star schema 비교_
 
-__[Snowflake Schemas vs. Star Schemas: What Are They and How Are They Different?](https://www.xplenty.com/blog/snowflake-schemas-vs-star-schemas-what-are-they-and-how-are-they-different/) - by Xplenty\
+[Snowflake Schemas vs. Star Schemas: What Are They and How Are They Different?](https://www.xplenty.com/blog/snowflake-schemas-vs-star-schemas-what-are-they-and-how-are-they-different/) - by Xplenty\
 &#x20; _-  Snowflake는 Star schema의 dimension table을 정규화_
 
 ### Dimension Table - Star Schema

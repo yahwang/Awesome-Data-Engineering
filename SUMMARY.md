@@ -68,6 +68,7 @@
 
 ## DATA MANAGEMENT
 
+* [Delta Lake](data-management/delta-lake.md)
 * [Meta Data](data-management/tools.md)
 * [Versioned Data](data-management/versioned-data.md)
 
@@ -103,7 +104,3 @@
 ## Serverless
 
 * [Lambda](serverless/lambda.md)
-
-***
-
-* [Delta Lake](delta-lake.md)

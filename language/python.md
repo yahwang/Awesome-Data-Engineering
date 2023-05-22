@@ -35,10 +35,10 @@
 [Python Type Checking (Guide)](https://realpython.com/python-type-checking) - in Real Python\
 &#x20; \-  _python type hint 기능에 대한 이해_
 
-[DataClass vs NamedTuple vs Object: A Battle of Performance in Python](https://medium.com/@jacktator/dataclass-vs-namedtuple-vs-object-for-performance-optimization-in-python-691e234253b9)__\
+[DataClass vs NamedTuple vs Object: A Battle of Performance in Python](https://medium.com/@jacktator/dataclass-vs-namedtuple-vs-object-for-performance-optimization-in-python-691e234253b9)\
 &#x20; _-  3.7버전 이후부터는 namedtuple 보다 dataclass 활용을 추천_
 
-[Methods in Python: Fundamentals for Data Scientists](https://towardsdatascience.com/methods-in-python-fundamentals-for-data-scientists-6a9393b2c2e7)__\
+[Methods in Python: Fundamentals for Data Scientists](https://towardsdatascience.com/methods-in-python-fundamentals-for-data-scientists-6a9393b2c2e7)\
 &#x20; _-  class method, instance method, static method에 대한 설명_&#x20;
 
 ### 언어에 대한 이해
@@ -63,7 +63,7 @@
 
 &#x20; \- 간단한 디버깅은 print 대신 ic 명령어
 
-[Package Python Projects the Proper Way with Poetry](https://hackersandslackers.com/python-poetry-package-manager/)__\
+[Package Python Projects the Proper Way with Poetry](https://hackersandslackers.com/python-poetry-package-manager/)\
 &#x20; _-  가상환경 Tool (dependency 관리 )_
 
 [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv/) - in Real Python\

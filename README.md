@@ -29,7 +29,7 @@
 [A Data Engineer’s Perspective On Data Democratization](https://towardsdatascience.com/a-data-engineers-perspective-on-data-democratization-a8aed10f4253)\
 &#x20; \-  _data-driven company를 구축하기 위한 Data Engineer의 역할_
 
-~~****~~[Most In Demand Tech Skills for Data Engineers](https://towardsdatascience.com/most-in-demand-tech-skills-for-data-engineers-58f4c1ca25ab) - by Towards Data Science
+[Most In Demand Tech Skills for Data Engineers](https://towardsdatascience.com/most-in-demand-tech-skills-for-data-engineers-58f4c1ca25ab) - by Towards Data Science
 
 [데이터 엔지니어가 알아야 할 최소한의 수학](https://www.youtube.com/watch?v=d6ScsU6y3fs) - in DEVGROUND JUNIOR 2019
 
@@ -69,7 +69,7 @@ BUSINESS INTELLIGENCE와 DATA SCIENCE를 돕기 위해 Data Pipeline을 구축�
 
 ![출처 : https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5](https://miro.medium.com/max/1260/1\*8hC0gmTevv88925D9mV5\_w.png)
 
-![출처 : https://towardsdatascience.com/data-lake-on-gcp-using-terraform-469062a205ad](<.gitbook/assets/image (2).png>)
+![출처 : https://towardsdatascience.com/data-lake-on-gcp-using-terraform-469062a205ad](<.gitbook/assets/image (2) (1).png>)
 
 #### **hadoop ecosystem data pipeline**
 

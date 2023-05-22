@@ -9,7 +9,6 @@
 &#x20; _-  행정동 단위로 지역 처리는 한계가 있음_\
 &#x20; _-  Uber의 **H3** 활용 설명 / 거리 계산에 이점_
 
-[Playing With Uber’s Hexagonal Hierarchical Spatial Index, H3](https://medium.com/better-programming/playing-with-ubers-hexagonal-hierarchical-spatial-index-h3-ed8d5cd7739d)__\
+[Playing With Uber’s Hexagonal Hierarchical Spatial Index, H3](https://medium.com/better-programming/playing-with-ubers-hexagonal-hierarchical-spatial-index-h3-ed8d5cd7739d)\
 &#x20; _- lat, lon 데이터를 hexa로 변환 후 **H3** 지도 시각화_
 
-__

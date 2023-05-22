@@ -8,7 +8,7 @@
 [Access an AWS RDS DB in a Private Subnet From MySQL Workbench](https://medium.com/serverlessguru/access-an-aws-rds-db-in-a-private-subnet-from-mysql-workbench-e3eafa89a152)\
 &#x20;\- Bastion EC2를 통해 MySQL에 접속하는 방법
 
-__
+
 
 ## Tips
 

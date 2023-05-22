@@ -21,7 +21,7 @@ description: Pandas를 보완 혹은 대체하는 역할
 
 [A Data Scientist’s Intro to Parallel Computing With _Dask_](https://towardsdatascience.com/a-data-scientists-intro-to-parallel-computing-with-dask-4c1b4a464579)
 
-[Comparison to Spark _- Dask Docs_](https://docs.dask.org/en/latest/spark.html)__\
+[Comparison to Spark _- Dask Docs_](https://docs.dask.org/en/latest/spark.html)\
 &#x20; _- Dask와 Spark 비교 (Dask는 complex and flexible parallelism 처리에 장점 )_
 
 [DASK Scheduler Dashboard: Understanding resource and task allocation in Local Machines](https://medium.com/@kartikbhanot/dask-scheduler-dashboard-understanding-resource-and-task-allocation-in-local-machines-bc5aa60eca6e)

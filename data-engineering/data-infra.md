@@ -17,7 +17,7 @@
 
 📺 [SLASH 21 - 토스 데이터의 흐름과 활용](https://www.youtube.com/watch?v=8ZhnUgylQgo) 2️⃣0️⃣2️⃣1️⃣ - by 토스
 
-[Kurly에서 주문을 모니터링 하는 법](https://helloworld.kurly.com/blog/order-monitoring-service/) __ 2️⃣0️⃣2️⃣0️⃣ _- by Kurly_\
+[Kurly에서 주문을 모니터링 하는 법](https://helloworld.kurly.com/blog/order-monitoring-service/) 2️⃣0️⃣2️⃣0️⃣ _- by Kurly_\
 &#x20; _-  실시간 주문 정보를 Kafka에 적재하여 Elasticsearch로 전환하는 과정_
 
 [마이리얼트립 EDW(Enterprise Data Warehouse) 구축 : phase 1](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-edw-%EA%B5%AC%EC%B6%95-phase-1-7d32c49c96ec) 2️⃣0️⃣2️⃣0️⃣
@@ -52,7 +52,7 @@
 
 * [AWS Data Lake Workshop](http://bdlf.awsdemo.kr/introduction/lakeformation/) - by AWS
 
-__[Real Time Anomaly Detection with AWS](https://towardsdatascience.com/real-time-anomaly-detection-with-aws-c237db9eaa3f)\
+[Real Time Anomaly Detection with AWS](https://towardsdatascience.com/real-time-anomaly-detection-with-aws-c237db9eaa3f)\
 &#x20; \-  _Kinesis Data Analytics를 활용하여 이상치 탐지_
 
 ### GCP
@@ -65,4 +65,3 @@ __[Real Time Anomaly Detection with AWS](https://towardsdatascience.com/real-tim
 [AWS & Snowflake vs GCP: how do they stack up when building a data platform?](https://medium.com/photobox-technology-product-and-design/aws-snowflake-vs-gcp-how-do-they-stack-up-when-building-a-data-platform-45edbdd615ff) 2️⃣0️⃣2️⃣0️⃣ - by Photobox\
 &#x20; \-  _Data Ingestion (Realtime + Batch) | ETL pipeline(Airflow) | DataWarehouse (Snowflake VS BigQuery) 비교_
 
-__
