@@ -1,6 +1,6 @@
 # Kubernetes
 
-📺 [\[따배쿠\] 쿠버네티스 시리즈](https://www.youtube.com/watch?v=6n5obRKsCRQ\&list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c) - in TTABAE-LEARN
+![](<../.gitbook/assets/image (8).png>) [\[따배쿠\] 쿠버네티스 시리즈](https://www.youtube.com/watch?v=6n5obRKsCRQ\&list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c) - in TTABAE-LEARN
 
 [Kubernetes란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html?fbclid=IwAR3zlIx01rd-KiECfE56iDiIMDWZNzTDJi56w8oB4faG8yBel6ZynZUv-9Q#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%9D%98-%EA%B3%BC%EA%B1%B0-%ED%98%84%EC%9E%AC-%EB%AF%B8%EB%9E%98) - by subicura
 

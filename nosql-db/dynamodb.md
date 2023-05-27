@@ -1,5 +1,12 @@
 # DynamoDB
 
+
+
+![](<../.gitbook/assets/image (8).png>) [DynamoDB 키 디자인 패턴](https://www.youtube.com/watch?v=I7zcRxHbo98) - in AWS - _2023_\
+&#x20; _- 싱글 테이블 디자인 패턴을 주로 권장_
+
+
+
 [Difference between AWS DynamoDB vs AWS DocumentDB vs MongoDB?](https://medium.com/@caseygibson\_42696/difference-between-aws-dynamodb-vs-aws-documentdb-vs-mongodb-9cb026a94767)\
 &#x20; _-  DocumentDB는 DynamoDB와 MongoDB의 중간 단계_&#x20;
 

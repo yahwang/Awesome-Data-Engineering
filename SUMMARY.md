@@ -7,7 +7,7 @@
 ## Data Engineering 개념
 
 * [Data Engineering 용어 및 개념](data-engineering/data-engineering.md)
-* [Data Warehouse](data-engineering/data-warehouse.md)
+* [Data Lakehouse](data-engineering/data-lakehouse.md)
 * [Data Engineering 사례](data-engineering/data-infra.md)
 
 ## Language
@@ -68,7 +68,7 @@
 
 ## DATA MANAGEMENT
 
-* [Delta Lake](data-management/delta-lake.md)
+* [Delta Lake](delta-lake.md)
 * [Meta Data](data-management/tools.md)
 * [Versioned Data](data-management/versioned-data.md)
 

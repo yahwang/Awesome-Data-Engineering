@@ -1,4 +1,10 @@
-# Data Warehouse
+# Data Lakehouse
+
+## Data Lakehouse
+
+![](<../.gitbook/assets/image (8).png>) [클라우드 데이터, 제대로 활용할 수 있는 3가지 원칙](https://www.youtube.com/watch?v=S71c0OmtYgQ) - in 클루커스
+
+## Data Warehouse
 
 [How to architect the perfect Data Warehouse](https://medium.com/@lewisdgavin/how-to-architect-the-perfect-data-warehouse-b3af2e01342e)\
 &#x20; _-  Key warehousing technique - Staging, Master and Reporting layer_

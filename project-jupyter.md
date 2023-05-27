@@ -1,5 +1,9 @@
 # Project Jupyter
 
+
+
+[데이터 분석 도구 고르기 : Zeppelin vs Jupyter](https://www.intelligencelabs.tech/69dd1f0e-67c9-4969-8615-a810d74056ca) - in 인텔리전스랩스
+
 ## JupyterLab
 
 [JupyterLab에서 유용한 extensions](https://yahwang.github.io/posts/81)
