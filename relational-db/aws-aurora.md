@@ -8,5 +8,7 @@
 
 [Amazon RDS Proxy를 활용한 롯데이커머스의 Amazon RDS 커넥션 불균형 해결 사례](https://aws.amazon.com/ko/blogs/tech/case-study-lotteon-amazon-rds-connection-unbalance-resolve/?sc\_channel=sm\&sc\_campaign=Korean\_blog\&sc\_publisher=FACEBOOK\&sc\_country=korea\&sc\_geo=APAC\&sc\_outcome=awareness\&trk=lotte-ecommerce-case\&linkId=199618499\&fbclid=IwAR11wNqMDtcwjImWbfqP790HvtodzZSB05DRfoCTUd72OVl6EhVM37T8mGU) - in AWS
 
+[우아한형제들에서 Amazon Aurora 데이터베이스를 모니터링 하는 방법](https://aws.amazon.com/ko/blogs/tech/how-to-monitor-rds-in-woowabrothers/) - in AWS
+
 ## Aurora Serverless
 

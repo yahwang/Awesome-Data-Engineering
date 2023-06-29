@@ -1,12 +1,14 @@
 ---
-description: Apache Presto 기반
+description: Apache Presto & Trino 기반
 ---
 
 # Amazon Athena
 
+[Using CTAS and INSERT INTO for ETL and data analysis](https://docs.aws.amazon.com/athena/latest/ug/ctas-insert-into-etl.html#ctas-insert-into-etl-step-2-use-ctas-to-partition-convert-and-compress-the-data) - in AWS
+
 [Amazon Redshift Vs Athena: An In-Depth Comparison](https://hevodata.com/blog/amazon-redshift-vs-athena/) - by HEVO
 
-[Why do I get errors when I try to read JSON data in Amazon Athena?](https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena/?nc1=h\_ls) - by AWS
+[Why do I get errors when I try to read JSON data in Amazon Athena?](https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena/?nc1=h\_ls) - in AWS
 
 [CSV Analysis with Amazon Athena](https://medium.com/avmconsulting-blog/csv-analysis-with-amazon-athena-b241f87f010c)
 
