@@ -17,4 +17,6 @@
 &#x20; \- private subnet과 NAT를 활용
 
 [AWS Lambda 함수 URL을 이용하여 편리하고 안전한 API 서버와 클라이언트 만들기](https://aws.amazon.com/ko/blogs/tech/creating-api-server-using-aws-lambda-function-url/) - in AWS\
-&#x20; \- Api Gateway 없이 비용과 지연시간 절약 / Custom URL 생성 불가\
+&#x20; \- Api Gateway 없이 비용과 지연시간 절약 / Custom URL 생성 불가
+
+[Lambda Python 런타임과 호환되는 Lambda Layer 생성하는 법](https://repost.aws/ko/knowledge-center/lambda-python-package-compatible) - in AWS\
