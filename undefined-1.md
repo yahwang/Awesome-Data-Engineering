@@ -10,6 +10,10 @@
 
 [ZIGZAG 기술 블로그](https://devblog.croquis.com/ko/)
 
+[SOCAR 기술 블로그](https://tech.socarcorp.kr/)
+
+[오토피디아 블로그](https://blog.doctor-cha.com/engineering)
+
 [Percona Database Performance blog](https://www.percona.com/blog/)
 
 ### 개인
@@ -18,10 +22,15 @@
 
 [https://www.mikulskibartosz.name/](https://www.mikulskibartosz.name/)
 
-[하나씩 점을 찍어 나가며](https://dailyheumsi.tistory.com/) - by heumsi (데이터 엔지니어)
+#### 데이터 엔지니어
 
-[다니엘의 라이브러리](https://datalibrary.tistory.com/) (데이터 엔지니어)\
-&#x20; \- 📺 [메이크센스 MakeSense](https://www.youtube.com/channel/UCujvrnsinN7StkWj7inK89Q)&#x20;
+[하나씩 점을 찍어 나가며](https://dailyheumsi.tistory.com/) - by heumsi
+
+[오몰내알 데엔](https://kgw7401.tistory.com/)
+
+![](<.gitbook/assets/image (8).png>) [메이크센스 MakeSense](https://www.youtube.com/channel/UCujvrnsinN7StkWj7inK89Q)
+
+
 
 ## 커뮤니티
 
@@ -54,6 +63,5 @@
 |                                                            ![](https://image.aladin.co.kr/product/16831/62/cover150/k812534667\_1.jpg)                                                           |             <p>데이터 분석 플랫폼 구축과 활용 <br><br> - 엘라스틱서치를 이용한 <br>로그 수집과 시각화</p>            | 2018 |                   <p><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168316274">알라딘<br>도서 정보</a></p>                  |
 |                                           <img src="https://image.aladin.co.kr/product/17184/68/cover150/k292534797_1.jpg" alt="" data-size="original">                                          |                                     빅데이터를 지탱하는 기술                                     | 2018 |                   <p><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171846800">알라딘<br>도서 정보</a></p>                  |
 | ![](https://wikidocs.net/images/book/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA\_2018-03-28\_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE\_12.41.33.png) |                                    Python 데이터 분석 실무                                   | 2020 |                               <p><a href="https://wikidocs.net/book/1867">Wikidocs<br>무료 도서</a></p>                               |
-|                                    <img src="https://raw.githubusercontent.com/andkret/Cookbook/master/images/CookbookCover.jpg" alt="" data-size="original">                                    |                        <p>The Data Engineering <br>Cookbook</p>                       | 2019 |                              <p><a href="https://github.com/andkret/Cookbook">Github<br>Book</a></p>                              |
 |                                                           ![](https://dataschool.com/assets/images/cloud-data-management@thumbnail.png)                                                          | <p><strong>Cloud Data</strong></p><p><strong>Management</strong></p><p>by CHARTIO</p> |      | <p>Web book</p><p><a href="https://dataschool.com/data-governance/introduction-to-modern-data-governance/">dataschool.com</a></p> |
 

@@ -70,7 +70,6 @@
 
 * [Delta Lake](delta-lake.md)
 * [Meta Data](data-management/tools.md)
-* [Versioned Data](data-management/versioned-data.md)
 
 ## VISUALIZATION
 
