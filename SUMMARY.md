@@ -50,6 +50,10 @@
 * [DynamoDB](nosql-db/dynamodb.md)
 * [Cassandra](nosql-db/cassandra.md)
 
+## In Memory DB
+
+* [REDIS](in-memory-db/redis.md)
+
 ## SQL Query Engine
 
 * [Amazon Athena](sql-query-engine/amazon-athena.md)
