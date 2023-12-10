@@ -4,6 +4,18 @@ description: Pandas를 보완 혹은 대체하는 역할
 
 # Beyond Pandas
 
+## Duckdb
+
+> 기본적으로 로딩 및 데이터 처리 속도가 빠름 ( 코드 최적화에 대한 고민이 줄어듬 )
+>
+> SQL 분석으로 사용성이 높음
+
+[https://duckdb.org/](https://duckdb.org/)
+
+[Pandas 대신 SQL로 분석해보자 with DuckDB](https://yahwang.github.io/posts/100)
+
+[데이터 분석계의 신성, DuckDB를 알아보자](https://www.youtube.com/watch?v=LUHvc2cMvwA\&t=66s) - by 데이터홀릭
+
 ## Dask
 
 > Dask is built on top of pandas\
@@ -38,10 +50,6 @@ description: Pandas를 보완 혹은 대체하는 역할
 [How to analyse 100 GB of data on your laptop with Python](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
 
 [Vaex: A DataFrame with super strings](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861)
-
-## Modin
-
-> Pandas보다는 아직 성능이 좋지 못하다는 평이 많음
 
 ## Swifter
 
