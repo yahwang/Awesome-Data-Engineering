@@ -4,7 +4,7 @@ description: Pandas를 보완 혹은 대체하는 역할
 
 # Beyond Pandas
 
-## Duckdb
+## DuckDB
 
 > 기본적으로 로딩 및 데이터 처리 속도가 빠름 ( 코드 최적화에 대한 고민이 줄어듬 )
 >
