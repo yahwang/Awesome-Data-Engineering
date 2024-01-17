@@ -6,9 +6,9 @@
 
 ## Data Engineering 개념
 
+* [Data Engineering 사례](data-engineering/data-infra.md)
 * [Data Engineering 용어 및 개념](data-engineering/data-engineering.md)
 * [Data Lakehouse](data-engineering/data-lakehouse.md)
-* [Data Engineering 사례](data-engineering/data-infra.md)
 
 ## Language
 
@@ -21,8 +21,8 @@
 
 ## Data Processing
 
+* [DuckDB](data-processing/duckdb.md)
 * [Pandas & Numpy](data-processing/pandas-and-numpy.md)
-* [Beyond Pandas](data-processing/beyond-pandas.md)
 * [Scraping & Crawling](data-processing/scraping-and-crawling.md)
 * [Other ways](data-processing/regular-expression.md)
 
