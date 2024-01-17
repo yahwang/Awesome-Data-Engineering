@@ -1,11 +1,11 @@
 # MongoDB
 
-> MongoDB relies on DB connection
-
-[Why MongoDB – 10 Reasons to Learn MongoDB for 2019](https://data-flair.training/blogs/why-mongodb/)
-
-📺 [속도의, 속도에 의한, 속도를 위한 몽고DB (네이버 컨텐츠검색과 몽고DB)](https://tv.naver.com/v/11267386) - in DEVIEW 2019
 
 
+2023 :tv: [전시전용 플랫폼 전환기(with mongo)](https://www.youtube.com/watch?v=8Hsc1Ub7R5Y) - in 11번가 TechTalk
 
-![](<../.gitbook/assets/image (8).png>) [Amazon DocumentDB VS MongDB 비교](https://www.youtube.com/watch?v=IxjbhXVi1ZM) - in AWS
+2022 :tv: [Amazon DocumentDB VS MongDB 비교](https://www.youtube.com/watch?v=IxjbhXVi1ZM) - in AWS
+
+***
+
+[MongoDB Sizing Guide](https://www.linkedin.com/pulse/mongodb-sizing-guide-sepp-renfer/)
