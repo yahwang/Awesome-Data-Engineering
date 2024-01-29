@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction to Data Engineer](README.md)
+* [Data Engineer에 대한 이해](README.md)
+* [Data Pipeline (Architecture)](data-pipeline-architecture.md)
 * [블로그, 영상 및 도서](undefined-1.md)
 * [연습용 데이터](undefined.md)
 
