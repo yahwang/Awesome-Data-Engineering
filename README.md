@@ -30,6 +30,12 @@
 
 [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - by meirwah
 
+***
+
+2022 :tv: [비전공, 국비출신 데이터엔지니어 고군분투기](https://www.youtube.com/watch?v=pPwG86HaHIY) - in 한데모 Meetup
+
+
+
 ## Data Engineer가 하는 일
 
 BUSINESS INTELLIGENCE와 DATA SCIENCE를 돕기 위해 Data Pipeline을 구축한다.

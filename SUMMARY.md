@@ -1,13 +1,12 @@
 # Table of contents
 
 * [Data Engineer에 대한 이해](README.md)
-* [Data Pipeline (Architecture)](data-pipeline-architecture.md)
 * [블로그, 영상 및 도서](undefined-1.md)
 * [연습용 데이터](undefined.md)
 
 ## Data Engineering 개념
 
-* [Data Engineering 사례](data-engineering/data-infra.md)
+* [Data Pipeline (Architecture)](data-engineering/data-pipeline-architecture.md)
 * [Data Engineering 용어 및 개념](data-engineering/data-engineering.md)
 * [Data Lakehouse](data-engineering/data-lakehouse.md)
 
