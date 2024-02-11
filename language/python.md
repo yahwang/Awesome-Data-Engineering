@@ -1,16 +1,8 @@
 # Python
 
-📺 [데이터 과학을 위한 Python 입문 (무료버전)](https://github.com/TeamLab/introduction\_to\_python\_TEAMLAB\_MOOC) - by TEAMLAB\
-&#x20; \-  _github 내 목차를 통한 youtube 영상 연결 / 유료 버전은 인프런에 있음_\
-&#x20; _-  책 :_ [데이터 과학을 위한 파이썬 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177235013)
-
 📘 [점프 투 파이썬 (온라인 버전)](https://wikidocs.net/book/1) - in WikiDocs
 
 ✏️ [Real Python](https://realpython.com) - 다양하고 유용한 Python tutorial이 있음
-
-[Python Books You Must Read in 2020](https://towardsdatascience.com/python-books-you-must-read-in-2020-a0fc33798bb)
-
-## 추천 자료
 
 ### 자료구조
 
@@ -23,7 +15,7 @@
 
 [Python 3's f-Strings: An Improved String Formatting Syntax](https://realpython.com/python-f-strings/) - in Real Python
 
-[Difference between Lists and Tuple](https://codeburst.io/difference-between-lists-and-tuple-9153fc329cd)\
+[Difference between Lists and Tuple](https://codeburst.io/difference-between-lists-and-tuple-9153fc329cd) - in Medium\
 &#x20; \-  **Tuples** are stored in a single block of memory.\
 &#x20; \-  **Lists** are allocated in two blocks: the fixed one with all the Python object information \
 &#x20;    and a variable sized block for the data.
@@ -35,11 +27,14 @@
 [Python Type Checking (Guide)](https://realpython.com/python-type-checking) - in Real Python\
 &#x20; \-  _python type hint 기능에 대한 이해_
 
-[DataClass vs NamedTuple vs Object: A Battle of Performance in Python](https://medium.com/@jacktator/dataclass-vs-namedtuple-vs-object-for-performance-optimization-in-python-691e234253b9)\
+[Methods in Python: Fundamentals for Data Scientists](https://towardsdatascience.com/methods-in-python-fundamentals-for-data-scientists-6a9393b2c2e7) - in Medium\
+&#x20; _-  class method, instance method, static method에 대한 설명_
+
+[DataClass vs NamedTuple vs Object: A Battle of Performance in Python](https://medium.com/@jacktator/dataclass-vs-namedtuple-vs-object-for-performance-optimization-in-python-691e234253b9) - in Medium\
 &#x20; _-  3.7버전 이후부터는 namedtuple 보다 dataclass 활용을 추천_
 
-[Methods in Python: Fundamentals for Data Scientists](https://towardsdatascience.com/methods-in-python-fundamentals-for-data-scientists-6a9393b2c2e7)\
-&#x20; _-  class method, instance method, static method에 대한 설명_&#x20;
+2023 [Should You Use Slots? How Slots Affect Your Class, and When and How to Use Them](https://towardsdatascience.com/should-you-use-slots-how-slots-affect-your-class-when-and-how-to-use-ab3f118abc71) - in Medium\
+&#x20; \-  slots 사용의 장점 (속도, 메모리, 보안 )
 
 ### 언어에 대한 이해
 
@@ -77,11 +72,11 @@
 
 [How to Execute Shell Commands with Python](https://janakiev.com/blog/python-shell-commands/)
 
-## 알면 좋은 자료
+### 알면 좋은 자료
 
 [How to Stand Out in a Python Coding Interview](https://realpython.com/python-coding-interview-tips/) - in Real Python
 
-[Efficiently Checking for an Empty List in Python ](https://medium.com/swlh/efficiently-checking-for-an-empty-list-in-python-76b76099fbd3)
+[Efficiently Checking for an Empty List in Python ](https://medium.com/swlh/efficiently-checking-for-an-empty-list-in-python-76b76099fbd3)in Medium
 
 [Benchmarking the Best Way to Reverse a String in Python](https://medium.com/better-programming/benchmarking-the-best-way-to-reverse-a-string-in-python-9c73d87b1b1a)
 
@@ -92,5 +87,3 @@
 &#x20; \-  리스트를 String으로 합칠 때는 ' '.join 활용
 
 [A Complete Guide to Using Progress Bars in Python](https://towardsdatascience.com/a-complete-guide-to-using-progress-bars-in-python-aa7f4130cda8)
-
-[How to Supercharge Excel With Python](https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2) - Excel의 VBA를 python으로

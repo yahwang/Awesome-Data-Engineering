@@ -38,9 +38,17 @@
 
 ## Data Engineer가 하는 일
 
-BUSINESS INTELLIGENCE와 DATA SCIENCE를 돕기 위해 Data Pipeline을 구축한다.
 
-![  출처 : https://miro.medium.com/max/1260/1\*Vfp8lIMB\_K4mL6yNeUGbpg.jpeg](https://miro.medium.com/max/1260/1\*Vfp8lIMB\_K4mL6yNeUGbpg.jpeg)
+
+
+
+### Analytics Engineering
+
+[An Introduction To Analytics Engineering](https://towardsdatascience.com/analytics-engineering-8b0ed0883379) - in Medium
+
+[데이터잡부, 근데 이제 Analytics Engineering을 곁들인](https://playinpap.github.io/what-is-analytics-engineering/)
+
+
 
 
 

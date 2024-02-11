@@ -13,7 +13,6 @@
 ## Language
 
 * [Python](language/python.md)
-* [Python Tools](language/python-tools.md)
 
 ## Linux <a href="#linux-1" id="linux-1"></a>
 
