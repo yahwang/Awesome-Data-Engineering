@@ -2,6 +2,8 @@
 
 ### 전반적인 시스템 소개
 
+2023 :tv: [레이크하우스 기반의 데이터 엔지니어링 최적화 - 쉽고 경제적인 ETL 파이프라인 구축하기](https://www.youtube.com/watch?v=PYDUEktRMHI) - in Databricks Korea
+
 2023 :tv: [WEVERSE COMPANY의 From Fandom to Insight](https://www.youtube.com/watch?v=-q\_0yrmQIyU) - in Databricks Korea
 
 2023 :tv: [FINDA의 성장하는 스타트업의 데이터 플랫폼 구축을 위한 Databricks 도입기](https://www.youtube.com/watch?v=\_tJjU\_oK2Fw) - in Databricks Korea

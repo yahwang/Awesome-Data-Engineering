@@ -1,8 +1,8 @@
 # Lambda
 
-![](<../.gitbook/assets/image (8).png>) [AWS Lambda Container를 활용한 서버리스 아키텍처 배포 및 성능 향상](https://www.youtube.com/watch?v=FTei6vum5kE) - in AWS KRUG
+2024 [AWS Lambda Performance Best Practices](https://medium.com/platform-engineer/aws-lambda-performance-best-practices-50968e5bb075) - in Medium
 
-
+2023 :tv: [AWS Lambda Container를 활용한 서버리스 아키텍처 배포 및 성능 향상](https://www.youtube.com/watch?v=FTei6vum5kE) - in AWS KRUG
 
 [Why You Should Never, Ever print() in a Lambda Function](https://towardsdatascience.com/why-you-should-never-ever-print-in-a-lambda-function-f997d684a705#--responses)\
 &#x20; \-  Lamda Error를 처리하는 효율적인 방법 (+ cloudwatch logs)&#x20;

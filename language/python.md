@@ -4,6 +4,8 @@
 
 ✏️ [Real Python](https://realpython.com) - 다양하고 유용한 Python tutorial이 있음
 
+[How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/#indentation-following-line-breaks) - in Real Python
+
 ### 자료구조
 
 [Common Python Data Structures (Guide)](https://realpython.com/python-data-structures/#collectionsordereddict-remember-the-insertion-order-of-keys) - in Real Python

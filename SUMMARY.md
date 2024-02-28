@@ -1,22 +1,22 @@
 # Table of contents
 
 * [Data Engineer에 대한 이해](README.md)
-* [블로그, 영상 및 도서](undefined-1.md)
 * [연습용 데이터](undefined.md)
 
 ## Data Engineering 개념
 
 * [Data Pipeline (Architecture)](data-engineering/data-pipeline-architecture.md)
 * [Data Engineering 용어 및 개념](data-engineering/data-engineering.md)
-* [Data Lakehouse](data-engineering/data-lakehouse.md)
 
-## Language
+## DATA MANAGEMENT
 
-* [Python](language/python.md)
+* [Delta Lake](delta-lake.md)
+* [Iceberg](data-management/iceberg.md)
+* [Meta Data](data-management/tools.md)
 
-## Linux <a href="#linux-1" id="linux-1"></a>
+## Serverless
 
-* [Linux (Ubuntu 기준)](linux-1/linux-ubuntu.md)
+* [Lambda](serverless/lambda.md)
 
 ## Data Processing
 
@@ -36,6 +36,17 @@
 * [Spark](distrubuted-processing/spark.md)
 * [▹ AWS EMR & Glue](distrubuted-processing/aws-emr-and-glue.md)
 
+## Streaming
+
+* [Nifi](streaming/untitled.md)
+* [Kafka](streaming/kafka.md)
+
+## Data Warehouse <a href="#sql-query-engine" id="sql-query-engine"></a>
+
+* [Amazon Athena](sql-query-engine/amazon-athena.md)
+* [Google BigQuery](sql-query-engine/google-bigquery.md)
+* [Redshift](sql-query-engine/redshift.md)
+
 ## Relational DB
 
 * [SQL Query](relational-db/sql.md)
@@ -49,41 +60,25 @@
 * [DynamoDB](nosql-db/dynamodb.md)
 * [Cassandra](nosql-db/cassandra.md)
 
-## In Memory DB
+## In-Memory DB
 
 * [REDIS](in-memory-db/redis.md)
 
-## SQL Query Engine
+## SEARCH ENGINE
 
-* [Amazon Athena](sql-query-engine/amazon-athena.md)
-* [Google BigQuery](sql-query-engine/google-bigquery.md)
+* [Elastic Search](search-engine/elastic-search.md)
 
 ## Workflow Management
 
 * [Airflow](workflow-management/airflow.md)
-* [Prefect](workflow-management/prefect.md)
 * [dbt (for DW)](workflow-management/dbt-for-dw.md)
 * [Others](workflow-management/others.md)
 
-## DATA COLLECTION
-
-* [Snowplow](data-collection/snowplow.md)
-
-## DATA MANAGEMENT
-
-* [Delta Lake](delta-lake.md)
-* [Meta Data](data-management/tools.md)
-
-## VISUALIZATION
+## Data Visualization <a href="#visualization" id="visualization"></a>
 
 * [References](visualization/undefined.md)
 * [Web App (Python)](visualization/web-app-python.md)
 * [Superset](visualization/superset.md)
-
-## Streaming
-
-* [Nifi](streaming/untitled.md)
-* [Kafka](streaming/kafka.md)
 
 ## DevOps
 
@@ -93,16 +88,15 @@
 ***
 
 * [Project Jupyter](project-jupyter.md)
-* [ELK](elk.md)
 
 ## Cloud Tips
 
 * [AWS](cloud-tips/aws.md)
 
-## SEARCH ENGINE
+## Language
 
-* [Elastic Search](search-engine/elastic-search.md)
+* [Python](language/python.md)
 
-## Serverless
+## Linux <a href="#linux-1" id="linux-1"></a>
 
-* [Lambda](serverless/lambda.md)
+* [Linux (Ubuntu 기준)](linux-1/linux-ubuntu.md)
