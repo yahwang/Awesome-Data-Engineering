@@ -1,26 +1,18 @@
 ---
-description: Apache Presto & Trino 기반
+description: Apache Trino 기반
 ---
 
 # Amazon Athena
 
-[Using CTAS and INSERT INTO for ETL and data analysis](https://docs.aws.amazon.com/athena/latest/ug/ctas-insert-into-etl.html#ctas-insert-into-etl-step-2-use-ctas-to-partition-convert-and-compress-the-data) - in AWS
+2023 [점점 커지는 RDB Table, S3로 귀양 보내고 Athena로 불러오기](https://blog.banksalad.com/tech/data-optimization-with-bucketing/) - in banksalad\
+feat. Optimization with Spark Bucketing
 
-[Amazon Redshift Vs Athena: An In-Depth Comparison](https://hevodata.com/blog/amazon-redshift-vs-athena/) - by HEVO
+2022 [Use Amazon Athena Federated Query to query data from Aurora PostgreSQL running in Private Subnet](https://awstip.com/use-amazon-athena-federated-query-to-query-data-from-aurora-postgresql-running-in-private-subnet-ae8d9441b1c8) - in Medium
 
-[Why do I get errors when I try to read JSON data in Amazon Athena?](https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena/?nc1=h\_ls) - in AWS
+2021 [Athena 2의 UNLOAD를 활용하여 데이터 가공하기 (with Lambda)](https://yahwang.github.io/posts/98)
 
-[CSV Analysis with Amazon Athena](https://medium.com/avmconsulting-blog/csv-analysis-with-amazon-athena-b241f87f010c)
+***
 
-[Query data from S3 files using Amazon Athena](https://towardsdatascience.com/query-data-from-s3-files-using-aws-athena-686a5b28e943)
+2023 [Athena 테이블 DDL 간단 정리](https://yahwang.github.io/posts/103)
 
-[Simple way to query Amazon Athena in python with boto3](https://www.ilkkapeltola.fi/2018/04/simple-way-to-query-amazon-athena-in.html)
-
-[Automating Athena Queries from S3 With Python and Boto3.](https://medium.com/dataseries/automating-athena-queries-from-s3-with-python-and-save-it-as-csv-8917258b1045)
-
-[Using AWS Athena To Convert A CSV File To Parquet](https://www.cloudforecast.io/blog/Athena-to-transform-CSV-to-Parquet/)
-
-[AWS Athena helps to find the worst place to park your car in Portland.](https://towardsdatascience.com/aws-athena-helps-to-find-the-worst-place-to-park-your-car-in-portland-ffb5195cfd9)\
-&#x20; \-  _GeoJson과 lat, lon을 활용하여 지역별 지표 계산 ( ST\_POINT, ST\_CONTAINS, UNNEST )_
-
-[Flatten arrays into rows with UNNEST](https://the.athena.guide/articles/unnest-arrays-to-rows/) _- in The Athena Guide_
+_2021_ [Athena의 Array 타입 활용하기](https://yahwang.github.io/posts/99)
