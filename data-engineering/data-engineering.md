@@ -28,6 +28,9 @@
 [RabbitMQ vs. Kafka](https://medium.com/better-programming/rabbitmq-vs-kafka-1ef22a041793)\
 &#x20; _-  Asynchronous Messaging Pattern 설명 ( Message Queueing & Pub/Sub )_
 
+[How to learn data engineering](https://www.blef.fr/learn-data-engineering/)
+&#x20; _- A collection of links to discover and learn data engineering_
+
 ## Database
 
 [What’s Unique About a Columnar Database?](https://www.flydata.com/blog/whats-unique-about-a-columnar-database/)\
