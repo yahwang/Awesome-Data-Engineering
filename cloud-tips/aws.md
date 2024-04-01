@@ -7,16 +7,15 @@
 
 ### Network
 
-[VPC의 CIDR블록의 사용이유와 설정방법](https://dev.classmethod.jp/articles/vpc-3/)
+2020 [VPC의 CIDR블록의 사용이유와 설정방법](https://dev.classmethod.jp/articles/vpc-3/)
 
-[AWS IAM Hands On Lab](https://whchoi98.gitbook.io/aws-iam/) - by AWS
+2020 [AWS IAM Hands On Lab](https://whchoi98.gitbook.io/aws-iam/) - by AWS
 
-[Your Comprehensive Guide to Understanding AWS Data Transfer Costs](https://medium.com/@mulupuru/your-comprehensive-guide-to-understanding-aws-data-transfer-costs-f5c8241d65ed)
+2023 [AWS Session Manager를 통한 Bastion Server 대체 및 보안 강화](https://www.lgcns.com/blog/cns-tech/aws-ambassador/40899/) - by LG CNS
 
-&#x20;[AWS SSM로 VPN없이 Private 자원 접근하기](https://beomi.github.io/2020/02/13/AWS-SSM-with-Bastion/) - by Beomi's Tech Blog\
-&#x20; \-  _AWS SSM + Bastion EC2 + SSH 터널링_
+2022 [AWS VPC S3 endpoint gateway vs interface 차이](https://blog.bespinglobal.com/post/aws-vpc-s3-endpoint-gateway-vs-interface-%EC%B0%A8%EC%9D%B4/) - by BESPIN GLOBAL
 
-[AWS SSM 배스천호스트 터널링으로 RDS(PGDB) 에 연결하기](http://blog.haandol.com/2020/05/01/bastion-host-tunnel-rds.html)
+2023 [Private Link를 이용한 CIDR이 동일한 VPC 간 리소스 접근 방안](https://www.lgcns.com/blog/cns-tech/aws-ambassador/41038/) - by LG CNS
 
 ### EC2
 
@@ -24,6 +23,6 @@
 &#x20; _- 비용 효율적인 EBS Volume 설정 방법_
 
 [Extend a Linux file system after resizing a volume](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html?icmpid=docs\_ec2\_console) _- by AWS_\
-&#x20; _- EBS 먼저 볼륨 증가후EC2에서 볼륨설정하는 법_
+&#x20; _- EBS 먼저 볼륨 증가후 EC2에서 볼륨설정하는 법_
 
 ###

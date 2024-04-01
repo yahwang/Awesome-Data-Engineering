@@ -12,6 +12,8 @@
 
 2022 :tv: [데이터 엔지니어 어떻게 공부하면 좋을까?](https://www.youtube.com/watch?v=pafM8cqUixo) - in 데브원영
 
+2022 :tv: [비전공, 국비출신 데이터엔지니어 고군분투기](https://www.youtube.com/watch?v=pPwG86HaHIY) - in 한데모 Meetup
+
 2021 [쏘카 데이터 그룹 - 데이터 엔지니어링 팀이 하는 일](https://tech.socarcorp.kr/data/2021/03/24/what-socar-data-engineering-team-does.html?fbclid=IwAR3W2h7UU7Z\_4a1Kz\_N4IWkT38gfcSA00g0MCqLWC8mGMG0YpGPXD-KH6b0) - by SOCAR
 
 2021 [쏘카 신입 데이터 엔지니어 디니의 4개월 회고](https://tech.socarcorp.kr/data/2021/12/28/data-engineering-team-onboarding.html) - by SOCAR
@@ -22,7 +24,7 @@
 
 ***
 
-[awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - by igorbarinov
+[Ju Data Engineering Newsletter](https://juhache.substack.com/) - by JULIEN HURAULT
 
 [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - by DataEngineer-io
 
@@ -30,11 +32,9 @@
 
 [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - by meirwah
 
+[awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - by igorbarinov
+
 ***
-
-2022 :tv: [비전공, 국비출신 데이터엔지니어 고군분투기](https://www.youtube.com/watch?v=pPwG86HaHIY) - in 한데모 Meetup
-
-
 
 ### Analytics Engineering
 

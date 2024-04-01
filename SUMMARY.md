@@ -38,8 +38,8 @@
 
 ## Streaming
 
-* [Nifi](streaming/untitled.md)
 * [Kafka](streaming/kafka.md)
+* [Druid](streaming/druid.md)
 
 ## Data Warehouse <a href="#sql-query-engine" id="sql-query-engine"></a>
 
@@ -77,7 +77,6 @@
 ## Data Visualization <a href="#visualization" id="visualization"></a>
 
 * [References](visualization/undefined.md)
-* [Web App (Python)](visualization/web-app-python.md)
 * [Superset](visualization/superset.md)
 
 ## DevOps

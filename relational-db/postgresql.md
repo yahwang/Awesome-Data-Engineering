@@ -1,9 +1,5 @@
 # PostgreSQL
 
-📺 [Why PostgreSQL is Becoming a Migration Target in Large Enterprises 1](https://www.youtube.com/watch?v=RHRhQMw1Ne8\&list=WL\&index=2\&t=0s) - by Percona
-
-[MySQL vs PostgreSQL -- Choose the Right Database for Your Project](https://developer.okta.com/blog/2019/07/19/mysql-vs-postgres) - by okta
-
 한국 포스트그레스큐엘 [https://postgresql.kr/](https://postgresql.kr/)
 
 ## Setting
@@ -35,8 +31,6 @@
 
 [12 Common Mistakes and Missed Optimization Opportunities in SQL](https://hakibenita.com/sql-dos-and-donts)
 
-[Be careful with CTE in PostgreSQL](https://medium.com/@hakibenita/be-careful-with-cte-in-postgresql-fca5e24d2119)
-
 [Fastest Way to Load Data Into PostgreSQL Using Python](https://hakibenita.com/fast-load-data-python-postgresql#benchmark)\
 &#x20; \-  _psycopg2의 copy\_from 함수 사용을 권장_
 
@@ -47,14 +41,24 @@
 [Useful Queries For PostgreSQL Index Maintenance](https://www.percona.com/blog/2020/03/31/useful-queries-for-postgresql-index-maintenance/)\
 &#x20; \-  _현재 설정된 INDEX를 확인하는 방법_
 
-[Optimizing Storage and Managing Cleanup in PostgreSQL](https://medium.com/coding-blocks/optimizing-storage-and-managing-cleanup-in-postgresql-c2fe56d4cf5)\
+[Optimizing Storage and Managing Cleanup in PostgreSQL](https://medium.com/coding-blocks/optimizing-storage-and-managing-cleanup-in-postgresql-c2fe56d4cf5) - in Medium\
 &#x20; \-  _Vacuum 사용에 대한 글_
 
-[너와 나의 연결고리! DB Connection Pooler — PgBouncer](https://medium.com/deliverytechkorea/%EB%84%88%EC%9D%98-%EB%82%98%EC%9D%98-%EC%97%B0%EA%B2%B0%EA%B3%A0%EB%A6%AC-db-connection-pooler-pgbouncer-e43ec536a088) - by Delivery Heroes\
-&#x20; \-  _PostgreSQL의 connection 관리를 효율적으로 하여 Query Latency를 최소화_
+2023 [How did we make Postgres perform reads 2x faster?](https://medium.com/shelf-io-engineering/how-did-we-make-postgres-perform-reads-2x-faster-with-partitioning-1a286f25cbbd) - in Medium\
+&#x20; \- Partitioning
 
-* [PostgreSQL Connection Pooling with PgBouncer](https://pgdash.io/blog/pgbouncer-connection-pool.html)
+***
 
-## extensions
+[postgrest - REST API for any Postgres database](https://github.com/PostgREST/postgrest)
 
-[PostgREST - REST API for any Postgres database](https://github.com/PostgREST/postgrest)
+[pgbouncer - Lightweight connection pooler for PostgreSQL](https://github.com/pgbouncer/pgbouncer)
+
+* 2020 [너와 나의 연결고리! DB Connection Pooler — PgBouncer](https://medium.com/deliverytechkorea/%EB%84%88%EC%9D%98-%EB%82%98%EC%9D%98-%EC%97%B0%EA%B2%B0%EA%B3%A0%EB%A6%AC-db-connection-pooler-pgbouncer-e43ec536a088) - by Delivery Heroes\
+  &#x20; \-  _PostgreSQL의 connection 관리를 효율적으로 하여 Query Latency를 최소화_
+
+[Neon - Serverless Postgres](https://neon.tech/)
+
+[Citus - Distributed Postgres](https://www.citusdata.com/)
+
+* [대량의 광고 데이터 필터 기능 개발기: ES한테 뺨맞고 Citus한테 안긴 썰](https://www.youtube.com/watch?v=tWWxQDbp8z4) - in if(kakao)2022[\
+  ](https://www.citusdata.com/)
