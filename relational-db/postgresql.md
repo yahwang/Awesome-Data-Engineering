@@ -31,8 +31,9 @@
 
 [12 Common Mistakes and Missed Optimization Opportunities in SQL](https://hakibenita.com/sql-dos-and-donts)
 
-[Fastest Way to Load Data Into PostgreSQL Using Python](https://hakibenita.com/fast-load-data-python-postgresql#benchmark)\
-&#x20; \-  _psycopg2의 copy\_from 함수 사용을 권장_
+2023 [You Don't Need a Dedicated Cache Service - PostgreSQL as a Cache](https://martinheinz.dev/blog/105)
+
+
 
 ## Tuning
 

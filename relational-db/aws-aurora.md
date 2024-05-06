@@ -10,3 +10,4 @@
 
 [우아한형제들에서 Amazon Aurora 데이터베이스를 모니터링 하는 방법](https://aws.amazon.com/ko/blogs/tech/how-to-monitor-rds-in-woowabrothers/) - in AWS
 
+[Managing PostgreSQL partitions with the pg\_partman extension](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/PostgreSQL\_Partitions.html) - in AWS\

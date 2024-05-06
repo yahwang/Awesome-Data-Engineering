@@ -2,6 +2,8 @@
 
 [데이터 엔지니어 소개](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4) - by _I want to study Data Science_
 
+_2024_ [데이터 엔지니어의 온보딩 이야기(feat. 29CM은 처음이라)](https://medium.com/29cm/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%9D%B4%EC%95%BC%EA%B8%B0-feat-29cm%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-69a7745463d7) - by 29CM
+
 2023 :tv: [데이터 엔지니어는 왜 필요하고, 어떠한 일을 할까? \[LG CNS 김현진님\]](https://www.youtube.com/watch?v=Gia\_vfbBIWw) - in 통계생활
 
 2023 :tv: [데이터 엔지니어가 백엔드부터 배워야 하는 이유ㅣ4년차 현직자의 솔직한 조언](https://www.youtube.com/watch?v=0eu9ny1Z8j0)
