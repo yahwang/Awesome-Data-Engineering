@@ -28,7 +28,6 @@
 ## DATA VALIDATION
 
 * [Great Expectations](data-validation/great-expectations.md)
-* [Deequ](data-validation/deequ.md)
 
 ## Distrubuted Processing
 

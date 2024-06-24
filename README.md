@@ -44,13 +44,9 @@ _2024_ [데이터 엔지니어의 온보딩 이야기(feat. 29CM은 처음이라
 
 <figure><img src="https://www.getdbt.com/ui/img/guides/analytics-engineering/analytics-engineer-role.png" alt=""><figcaption><p><a href="https://www.getdbt.com/what-is-analytics-engineering">https://www.getdbt.com/what-is-analytics-engineering</a></p></figcaption></figure>
 
-<figure><img src="https://private-user-images.githubusercontent.com/2711465/306968577-2a59a1a3-2f82-4e78-939e-2f9228b4892f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk1MjYxNTUsIm5iZiI6MTcwOTUyNTg1NSwicGF0aCI6Ii8yNzExNDY1LzMwNjk2ODU3Ny0yYTU5YTFhMy0yZjgyLTRlNzgtOTM5ZS0yZjkyMjhiNDg5MmYucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDMwNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAzMDRUMDQxNzM1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MWMzNzQwNGIwMTgzNjRmMjdkZDA4MGU2ZjllNDkwYzU3M2I0NjJlMzQ1MWYxZjczZTJmOGFiZTY4NmViYTQzOSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.xmEMLs07pLyh68gwEDpQikvLTdnThEBJdvjiGtnaExw" alt=""><figcaption><p><a href="https://github.com/pracdata/awesome-open-source-data-engineering?tab=readme-ov-file">https://github.com/pracdata/awesome-open-source-data-engineering?tab=readme-ov-file</a></p></figcaption></figure>
+<figure><img src="https://private-user-images.githubusercontent.com/2711465/306968577-2a59a1a3-2f82-4e78-939e-2f9228b4892f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkxNTQyNzQsIm5iZiI6MTcxOTE1Mzk3NCwicGF0aCI6Ii8yNzExNDY1LzMwNjk2ODU3Ny0yYTU5YTFhMy0yZjgyLTRlNzgtOTM5ZS0yZjkyMjhiNDg5MmYucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDYyMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA2MjNUMTQ0NjE0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTVhMDBmYmMyYzQzZGVjNWM2MmJjM2I2ZWFhNzYwZjQ4ZmFlYmQ1N2YwNzk1MmFhYjFhNDk4MTBlMTkwMDAzYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.cLNQvzJhxrFX0NadidAPY8qu8rBKqzErHP7Q6GmIMtU" alt=""><figcaption><p><a href="https://github.com/pracdata/awesome-open-source-data-engineering?tab=readme-ov-file">https://github.com/pracdata/awesome-open-source-data-engineering?tab=readme-ov-file</a></p></figcaption></figure>
 
-{% embed url="https://lakefs.io/blog/the-state-of-data-engineering-2023/attachment/1200x630-lakefs-state-of-data-engineering-report/" %}
-출처: [https://lakefs.io/blog/the-state-of-data-engineering-2023/attachment/1200x630-lakefs-state-of-data-engineering-report/](https://lakefs.io/blog/the-state-of-data-engineering-2023/attachment/1200x630-lakefs-state-of-data-engineering-report/)
-{% endembed %}
-
-
+<figure><img src="https://lakefs.io/wp-content/uploads/2024/05/SoDE24-state-of-data-engineering.png" alt=""><figcaption><p><a href="https://lakefs.io/blog/the-state-of-data-engineering-2024/">https://lakefs.io/blog/the-state-of-data-engineering-2024/</a></p></figcaption></figure>
 
 
 

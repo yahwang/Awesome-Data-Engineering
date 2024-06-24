@@ -4,6 +4,8 @@
 
 2024 [How does Uber build real-time infrastructure to handle petabytes of data every day?](https://vutr.substack.com/p/i-spent-7-hours-understanding-ubers?utm\_source=profile\&utm\_medium=reader2) - by VU TRINH
 
+2023 :tv: [토스ㅣSLASH 23 - 은행 데이터플랫폼 오픈소스로 전환하기](https://www.youtube.com/watch?v=RjsG-zKMuX8) - by Toss
+
 2023 :tv: [레이크하우스 기반의 데이터 엔지니어링 최적화 - 쉽고 경제적인 ETL 파이프라인 구축하기](https://www.youtube.com/watch?v=PYDUEktRMHI) - in Databricks Korea
 
 2023 :tv: [WEVERSE COMPANY의 From Fandom to Insight](https://www.youtube.com/watch?v=-q\_0yrmQIyU) - in Databricks Korea
