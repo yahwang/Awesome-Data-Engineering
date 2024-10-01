@@ -83,10 +83,6 @@
 * [Docker](devops/docker.md)
 * [Kubernetes](devops/kubernetes.md)
 
-***
-
-* [Project Jupyter](project-jupyter.md)
-
 ## Cloud Tips
 
 * [AWS](cloud-tips/aws.md)
