@@ -20,10 +20,10 @@
 
 ## Data Processing
 
-* [DuckDB](data-processing/duckdb.md)
-* [Pandas & Numpy](data-processing/pandas-and-numpy.md)
-* [Scraping & Crawling](data-processing/scraping-and-crawling.md)
-* [Other ways](data-processing/regular-expression.md)
+* [Small to Medium data](data-processing/small-to-medium-data.md)
+* [Big(Large) data](data-processing/big-large-data.md)
+* [Others](data-processing/regular-expression.md)
+* [Pandas & Numpy(deprecated)](data-processing/pandas-and-numpy.md)
 
 ## DATA VALIDATION
 

@@ -1,8 +1,6 @@
----
-description: in-process SQL OLAP DBMS
----
+# Small to Medium data
 
-# DuckDB
+## DuckDB
 
 [https://duckdb.org](https://duckdb.org)
 
@@ -20,3 +18,9 @@ description: in-process SQL OLAP DBMS
 2023 [Pandas 대신 SQL로 분석해보자 with DuckDB](https://yahwang.github.io/posts/100) - by yahwang
 
 [DuckDB extensions for AWS Lambda](https://extensions.quacking.cloud/#available-extensions)
+
+
+
+## Polars
+
+2024 [Polars로 데이터 처리를 더 빠르고 가볍게 with 실무 적용기](https://techblog.woowahan.com/18632/) - in 우아한 기술블로그
