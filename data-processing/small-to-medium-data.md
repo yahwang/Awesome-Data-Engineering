@@ -10,6 +10,8 @@
 
 ***
 
+2024 [Building a High-Performance Data Pipeline Using DuckDB](https://practicaldataengineering.substack.com/p/building-data-pipeline-using-duckdb?utm\_source=post-email-title\&publication\_id=1855168\&post\_id=149999857\&utm\_campaign=email-post-title\&isFreemail=true\&r=23ofr\&triedRedirect=true\&utm\_medium=email)
+
 2023 [Profiling DuckDB with AWS Lambda](https://medium.com/@kkyon/profile-a-data-lake-built-with-aws-lambda-and-duckdb-2fc810ff9f4d) - in Medium\
 &#x20; \- Lambda에서 duckdb 성능 증명
 

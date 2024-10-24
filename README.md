@@ -2,6 +2,8 @@
 
 [데이터 엔지니어 소개](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4) - by _I want to study Data Science_
 
+_2024_ [에이블리 데이터 엔지니어 6문 6답](https://ably.team/news/Zw8uwhAAACEAtp5Y)  by ABLY TEAM
+
 _2024_ ![](<.gitbook/assets/image (8).png>) [5년만에 연봉 3배 올린 Data Engineer 커리어 비결 30분만에 알려드립니다](https://www.youtube.com/watch?v=0BXrLQOLvXQ) - in 메타코드M
 
 _2024_ [데이터 엔지니어의 온보딩 이야기(feat. 29CM은 처음이라)](https://medium.com/29cm/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%9D%B4%EC%95%BC%EA%B8%B0-feat-29cm%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-69a7745463d7) - by 29CM
@@ -18,7 +20,7 @@ _2024_ [데이터 엔지니어의 온보딩 이야기(feat. 29CM은 처음이라
 
 2022 ![](<.gitbook/assets/image (8).png>) [비전공, 국비출신 데이터엔지니어 고군분투기](https://www.youtube.com/watch?v=pPwG86HaHIY) - in 한데모 Meetup
 
-2022 ![](<.gitbook/assets/image (8).png>) \[SUB] 5년차 데이터 엔지니어 현업 직무 인터뷰 - in 어허라 (Around Hub Radio)
+2022 ![](<.gitbook/assets/image (8).png>) [5년차 데이터 엔지니어 현업 직무 인터뷰](https://www.youtube.com/watch?v=nXWKuk7OHks) - in 어허라 (Around Hub Radio)
 
 2021 [쏘카 데이터 그룹 - 데이터 엔지니어링 팀이 하는 일](https://tech.socarcorp.kr/data/2021/03/24/what-socar-data-engineering-team-does.html?fbclid=IwAR3W2h7UU7Z\_4a1Kz\_N4IWkT38gfcSA00g0MCqLWC8mGMG0YpGPXD-KH6b0) - by SOCAR
 
@@ -29,6 +31,8 @@ _2024_ [데이터 엔지니어의 온보딩 이야기(feat. 29CM은 처음이라
 2019 [토스팀에 데이터가 흐르게 하는, 데이터 플랫폼 팀을 만나다](https://blog.toss.im/2019/04/29/tossteam/people/toss-dataplatformteam-interview/) - by 비바리퍼블리카
 
 ***
+
+[Practical Data Engineering](https://practicaldataengineering.substack.com/)
 
 [Ju Data Engineering Newsletter](https://juhache.substack.com/) - by JULIEN HURAULT
 

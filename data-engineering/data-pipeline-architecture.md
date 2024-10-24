@@ -21,6 +21,8 @@
 2024 [CJ 올리브영의 서버리스 랭킹 시스템 구축기](https://aws.amazon.com/ko/blogs/tech/oliveyoung-serverless-ranking-system/) - in AWS Korea\
 &#x20; \- Glue, Athena, StepFunctions, DynamoDB
 
+2023 ![](<../.gitbook/assets/image (8).png>) [EventBridge를 활용한 Event-Driven 아키텍처 설계 및 활용 - 박상운, 리콘랩스](https://www.youtube.com/watch?v=yLuKmlWrI2E) - in AWSKRUG
+
 2023 ![](<../.gitbook/assets/image (8).png>) [추천시스템 성장 일지: 데이터 엔지니어 편](https://www.youtube.com/watch?v=x49PqlAQC3U) - in 우아한테크
 
 2023 ![](<../.gitbook/assets/image (8).png>) [데이터 엔지니어가 만들어가는 레거시](https://www.youtube.com/watch?v=lbsGKOnXshw) - in 우아한테크

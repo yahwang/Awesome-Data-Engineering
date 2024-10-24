@@ -75,8 +75,7 @@
 
 ## Data Visualization <a href="#visualization" id="visualization"></a>
 
-* [References](visualization/undefined.md)
-* [Superset](visualization/superset.md)
+* [Redash](visualization/redash.md)
 
 ## DevOps
 
