@@ -1,6 +1,8 @@
 # Kafka
 
-2023 :tv: [신뢰성 있는 카프카 애플리케이션을 만드는 3가지 방법 (최원영 Cory)](https://www.youtube.com/watch?v=7\_VdIFH6M6Q) - by Kakao
+2024 ![](<../.gitbook/assets/image (8).png>) [카프카, Kraft를 만나다: 주키퍼 없이 운영하는 카프카의 실전 운영 노하우](https://www.youtube.com/watch?v=VIGkd2U_8Ro) - by Kakao
+
+2023 ![](<../.gitbook/assets/image (8).png>) [신뢰성 있는 카프카 애플리케이션을 만드는 3가지 방법 (최원영 Cory)](https://www.youtube.com/watch?v=7_VdIFH6M6Q) - by Kakao
 
 [Becoming Familiar with Apache Kafka and Message Queues](https://hackersandslackers.com/apache-kafka/) - by hackersandslackers\
 &#x20; \-  _Kafka에 대한 개념 설명_
