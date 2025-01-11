@@ -2,6 +2,8 @@
 
 ### 전반적인 시스템 소개
 
+2024 ![](<../.gitbook/assets/image (8).png>) [우아한 데이터 허브. 일 200억 건 데이터 안전하게 처리하는 대용량 시스템 구축하기](https://www.youtube.com/watch?v=AtmI56DGhi4) - in 우아한테크
+
 2024 [How does Uber build real-time infrastructure to handle petabytes of data every day?](https://vutr.substack.com/p/i-spent-7-hours-understanding-ubers?utm_source=profile\&utm_medium=reader2) - by VU TRINH
 
 2024 ![](<../.gitbook/assets/image (8).png>) [데이터로 미래를 설계하다: 현대카드의 빅데이터 플랫폼 구축 사례](https://www.youtube.com/watch?v=QZeoxpq17EQ) - in AWS Korea

@@ -1,6 +1,0 @@
-# Big(Large) data
-
-## Spark
-
-
-

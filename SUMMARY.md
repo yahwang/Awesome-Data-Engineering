@@ -18,22 +18,22 @@
 
 * [Lambda](serverless/lambda.md)
 
-## Data Processing
+## Single-node Processing
 
-* [Small to Medium data](data-processing/small-to-medium-data.md)
-* [Big(Large) data](data-processing/big-large-data.md)
-* [Others](data-processing/regular-expression.md)
-* [Pandas & Numpy(deprecated)](data-processing/pandas-and-numpy.md)
+* [DuckDB](single-node-processing/duckdb.md)
+* [Polars](single-node-processing/polars.md)
+* [Others](single-node-processing/regular-expression.md)
+* [Pandas & Numpy(deprecated)](single-node-processing/pandas-and-numpy.md)
+
+## Distrubuted Processing
+
+* [Spark](distrubuted-processing/spark.md)
+* [▹ AWS EMR & Glue](distrubuted-processing/aws-emr-and-glue.md)
+* [Hadoop](distrubuted-processing/hadoop.md)
 
 ## DATA VALIDATION
 
 * [Great Expectations](data-validation/great-expectations.md)
-
-## Distrubuted Processing
-
-* [Hadoop](distrubuted-processing/hadoop.md)
-* [Spark](distrubuted-processing/spark.md)
-* [▹ AWS EMR & Glue](distrubuted-processing/aws-emr-and-glue.md)
 
 ## Streaming
 

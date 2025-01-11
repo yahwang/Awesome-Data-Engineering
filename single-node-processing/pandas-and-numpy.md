@@ -1,4 +1,4 @@
-# Pandas & Numpy
+# Pandas & Numpy(deprecated)
 
 |                                                      이미지                                                      |                 도서명                 | 출시연도 |                                               링크                                               |
 | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------: | :--: | :--------------------------------------------------------------------------------------------: |
@@ -20,9 +20,9 @@
 
 [5 Must-Know Pandas Operations on Strings](https://towardsdatascience.com/5-must-know-pandas-operations-on-strings-4f88ca6b8e25)
 
-## _P_andas 최적화 관련
+## _&#x50;_&#x61;ndas 최적화 관련
 
-📺 [뚱뚱하고 굼뜬 판다스(Pandas)를 위한 효과적인 다이어트 전략](https://www.youtube.com/watch?v=0Vm9Yi\_ig58\&t=2s) - by 오성우 (PyCon 2019)
+📺 [뚱뚱하고 굼뜬 판다스(Pandas)를 위한 효과적인 다이어트 전략](https://www.youtube.com/watch?v=0Vm9Yi_ig58\&t=2s) - by 오성우 (PyCon 2019)
 
 *   [How to reduce memory usage in Pandas](https://www.mikulskibartosz.name/how-to-reduce-memory-usage-in-pandas/)\
     \-  _Numeric 데이터 타입 변경으로 메모리를 최적화하는 코드 (영상에서 언급)_
@@ -47,7 +47,7 @@
 
 ## Numpy
 
-[NumPy Exercises](https://github.com/Kyubyong/numpy\_exercises) - by Kyubyong
+[NumPy Exercises](https://github.com/Kyubyong/numpy_exercises) - by Kyubyong
 
 [NumPy 기본 소개](https://towardsdatascience.com/intermediate-python-numpy-cec1c192b8e6) - by Towards Data Science
 
