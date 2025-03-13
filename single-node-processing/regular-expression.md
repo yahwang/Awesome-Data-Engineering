@@ -16,9 +16,7 @@ description: 데이터를 다루는 여러 방법들
 &#x20; \-  _proxy & user-agent rotation에 대한 설명_\
 &#x20; _-_  참고 : [What is a Proxy Server and How Does it Work?](https://www.varonis.com/blog/what-is-a-proxy-server/) - by Varonis
 
-## JSON 관련&#x20;
 
-[JMESPath](https://github.com/jmespath/jmespath.py) - a query language for JSON
 
 ## Regular Expression
 
@@ -35,3 +33,8 @@ description: 데이터를 다루는 여러 방법들
 [RegExr](https://regexr.com)
 
 [regular expresssions 101](https://regex101.com)
+
+***
+
+[Sharing your Jupyter notebook](https://book.the-turing-way.org/project-design/sdpw/pd-sdp-sensitive-code.html) - in book.the-turing-way.org\
+&#x20; \- notebook git 업로드 시 실행결과를 지워줌 ( 용량 감소 )
