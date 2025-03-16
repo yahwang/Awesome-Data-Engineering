@@ -1,16 +1,16 @@
 # Data Engineering 용어 및 개념
 
-[A Beginner’s Guide to Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+2025 [Idempotency in Data Engineering: Why It Matters and How to Embrace It](https://blog.det.life/idempotency-in-data-engineering-why-it-matters-and-how-to-embrace-it-ec3fb0aec118) - in Medium
 
-[How to learn data engineering](https://www.blef.fr/learn-data-engineering/) \
+2024 [How to learn data engineering](https://www.blef.fr/learn-data-engineering/) \
 &#xNAN;_- A collection of links to discover and learn data engineering_
+
+2023 [An Introduction To Analytics Engineering](https://towardsdatascience.com/analytics-engineering-8b0ed0883379) - in Medium
 
 [Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)\
 &#xNAN;_- overview of data pipeline_
 
 [Data Lake vs. Data Warehouse vs. Data Hub – What’s the Difference?](https://miktysh.com.au/data-lake-vs-data-warehouse-vs-data-hub-whats-the-difference/)
-
-[What Is Log Analytics?](https://blogs.tensult.com/2018/04/10/what-is-log-analytics/) - by Tensult
 
 [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 
