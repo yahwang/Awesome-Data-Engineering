@@ -2,6 +2,8 @@
 
 2025 [Idempotency in Data Engineering: Why It Matters and How to Embrace It](https://blog.det.life/idempotency-in-data-engineering-why-it-matters-and-how-to-embrace-it-ec3fb0aec118) - in Medium
 
+2024 [What is a Data Lakehouse & How does it Work?](https://hudi.apache.org/blog/2024/07/11/what-is-a-data-lakehouse/) - by Apache Hudi
+
 2024 [How to learn data engineering](https://www.blef.fr/learn-data-engineering/) \
 &#xNAN;_- A collection of links to discover and learn data engineering_
 

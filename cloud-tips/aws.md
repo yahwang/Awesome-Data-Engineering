@@ -7,6 +7,9 @@
 
 ### Network
 
+2024 [You have Misunderstood AWS Availability Zones](https://aws.plainenglish.io/you-have-misunderstood-aws-availability-zones-47cdea0a168a) - in Medium\
+&#x20; \- 계정마다 a,b,c AZ가 물리적으로 다른 AZ(ID)에 할당될 수 있다는 설명
+
 2024 [AWS VPC를 사용한다면 알아야 할 네트워크 기초 지식](https://dkswnkk.tistory.com/750)
 
 2023 [AWS Session Manager를 통한 Bastion Server 대체 및 보안 강화](https://www.lgcns.com/blog/cns-tech/aws-ambassador/40899/) - by LG CNS
@@ -17,10 +20,10 @@
 
 ### EC2
 
-[Which is better, gp2 or gp3 EBS volume types?](https://ahmedahamid.com/which-is-better/?fbclid=IwAR3TSSM436Dn1RmQfTCVRSyeXgt\_Sfjw6TgmPsN7KEwVKTeZNcuuMhnnIFc)\
+[Which is better, gp2 or gp3 EBS volume types?](https://ahmedahamid.com/which-is-better/?fbclid=IwAR3TSSM436Dn1RmQfTCVRSyeXgt_Sfjw6TgmPsN7KEwVKTeZNcuuMhnnIFc)\
 &#x20; _- 비용 효율적인 EBS Volume 설정 방법_
 
-[Extend a Linux file system after resizing a volume](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html?icmpid=docs\_ec2\_console) _-_ in AWS\
+[Extend a Linux file system after resizing a volume](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html?icmpid=docs_ec2_console) _-_ in AWS\
 &#x20; _- EBS 볼륨 증가후 EC2에서 볼륨 인식하는 법_
 
 ###

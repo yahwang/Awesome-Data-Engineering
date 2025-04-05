@@ -4,7 +4,7 @@
 
 ## Setting
 
-[도커 공식 포스트그레스큐엘 이미지를 쓸 때](https://postgresql.kr/blog/when\_useing\_docker\_official\_postgres\_image.html) - by POSTGRESQL.KR
+[도커 공식 포스트그레스큐엘 이미지를 쓸 때](https://postgresql.kr/blog/when_useing_docker_official_postgres_image.html) - by POSTGRESQL.KR
 
 [Connect From Your Local Machine to a PostgreSQL in Docker](https://medium.com/better-programming/connect-from-local-machine-to-postgresql-docker-container-f785f00461a7)
 
@@ -31,11 +31,17 @@
 
 [12 Common Mistakes and Missed Optimization Opportunities in SQL](https://hakibenita.com/sql-dos-and-donts)
 
+2024 [Boosting Postgres INSERT Performance by 2x With UNNEST](https://www.timescale.com/blog/boosting-postgres-insert-performance) - by Timescale\
+&#x20; ARRAY 형태 데이터 삽입 시 성능 향상 방법
+
 2023 [You Don't Need a Dedicated Cache Service - PostgreSQL as a Cache](https://martinheinz.dev/blog/105)
 
 
 
 ## Tuning
+
+2025 [9 Database Optimization Tricks SQL Experts Are Hiding From You](https://medium.com/hack-the-stack/9-database-optimization-tricks-sql-experts-are-hiding-from-you-40834c93be86) - in Medium\
+&#x20; 테이블 INDEX 최적화 세팅 관련
 
 [Tuning PostgreSQL Database Parameters to Optimize Performance](https://www.percona.com/blog/2018/08/31/tuning-postgresql-database-parameters-to-optimize-performance/)
 
@@ -49,6 +55,8 @@
 &#x20; \- Partitioning
 
 ***
+
+[RTABench - a Benchmark For Real Time Analytics](https://rtabench.com/) (TimescaleDB)
 
 [postgrest - REST API for any Postgres database](https://github.com/PostgREST/postgrest)
 
