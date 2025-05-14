@@ -48,7 +48,7 @@
 
 ## Relational DB
 
-* [SQL Query](relational-db/sql.md)
+* [Common](relational-db/sql.md)
 * [MySQL](relational-db/mysql.md)
 * [PostgreSQL](relational-db/postgresql.md)
 * [AWS Aurora](relational-db/aws-aurora.md)
@@ -70,8 +70,7 @@
 ## Workflow Management
 
 * [Airflow](workflow-management/airflow.md)
-* [dbt (for DW)](workflow-management/dbt-for-dw.md)
-* [Others](workflow-management/others.md)
+* [dbt](workflow-management/dbt-for-dw.md)
 
 ## Data Visualization <a href="#visualization" id="visualization"></a>
 
@@ -81,6 +80,10 @@
 
 * [Docker](devops/docker.md)
 * [Kubernetes](devops/kubernetes.md)
+
+***
+
+* [Terraform](terraform.md)
 
 ## Cloud Tips
 

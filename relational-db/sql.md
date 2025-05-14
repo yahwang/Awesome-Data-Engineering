@@ -1,4 +1,8 @@
-# SQL Query
+# Common
+
+2025 [ACID in Databases: A Comprehensive Guide for Developers](https://levelup.gitconnected.com/acid-in-databases-a-comprehensive-guide-for-developers-89a75888fb47) - in Medium
+
+***
 
 [데이터분석, 먹고 들어가기 위한 SQL 공부법](https://brunch.co.kr/@minu-log/5) - by 김민우님
 
@@ -9,13 +13,13 @@
 [표준 SQL Tutorial](https://mode.com/sql-tutorial/) - by Mode
 
 [SQLZOO Tutorial\
-](https://sqlzoo.net/wiki/SQL\_Tutorial)  - mariadb 온라인 실행환경 및 Quiz 제공&#x20;
+](https://sqlzoo.net/wiki/SQL_Tutorial)  - mariadb 온라인 실행환경 및 Quiz 제공&#x20;
 
 [https://sqlformat.org/](https://sqlformat.org/) - Online SQL formatting service
 
 ## Quiz
 
-❓ [SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql\_practice\_kit) - by 프로그래머스
+❓ [SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit) - by 프로그래머스
 
 ❓ _MySQL_ [Query Quiz ](https://codesignal.com/) - by CODESIGNAL\
 &#x20; \-  _Arcade 내 database 풀기_\

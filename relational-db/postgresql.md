@@ -40,8 +40,14 @@
 
 ## Tuning
 
+2025 [Random UUIDs Are Killing Your PostgreSQL Performance: How to Fix It](https://medium.com/@shaileshkumarmishra/random-uuids-are-killing-your-postgresql-performance-how-to-fix-it-d8f7aaa0b2c5) - in Medium\
+&#x20; UUIdv7과 UUIdv4 성능 비교
+
 2025 [9 Database Optimization Tricks SQL Experts Are Hiding From You](https://medium.com/hack-the-stack/9-database-optimization-tricks-sql-experts-are-hiding-from-you-40834c93be86) - in Medium\
 &#x20; 테이블 INDEX 최적화 세팅 관련
+
+2025 [Unstructured Data in PostgreSQL](https://medium.com/@tihomir.manushev/unstructured-data-in-postgresql-9af788b40b94) - in Medium\
+&#x20; JSONB, HSTORE 타입 설명 ( NoSQL 대체 )
 
 [Tuning PostgreSQL Database Parameters to Optimize Performance](https://www.percona.com/blog/2018/08/31/tuning-postgresql-database-parameters-to-optimize-performance/)
 

@@ -4,6 +4,8 @@
 
 [데이터 엔지니어를 준비하거나 이제 막 시작 하는 분들에게](https://burning-dba.tistory.com/m/186) - by 데이터엔지니어 주형권
 
+_2025_ [What Senior Data Engineers Actually Do All Day (It’s Not What You Think)](https://blog.det.life/what-senior-data-engineers-actually-do-all-day-its-not-what-you-think-e5dbabc0ad11) - in Medium
+
 _2024_ [에이블리 데이터 엔지니어 6문 6답](https://ably.team/news/Zw8uwhAAACEAtp5Y)  by ABLY TEAM
 
 _2024_ ![](<.gitbook/assets/image (8).png>) [5년만에 연봉 3배 올린 Data Engineer 커리어 비결 30분만에 알려드립니다](https://www.youtube.com/watch?v=0BXrLQOLvXQ) - in 메타코드M
