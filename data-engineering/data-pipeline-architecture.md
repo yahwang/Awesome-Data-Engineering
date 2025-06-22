@@ -2,6 +2,8 @@
 
 ### 전반적인 시스템 소개
 
+2024 ![](<../.gitbook/assets/image (8).png>) [당근페이 데이터플랫폼 구축기](https://www.youtube.com/watch?v=abdIqj9dxww) | 2024 당근 테크 밋업 - in 당근테크
+
 2024 ![](<../.gitbook/assets/image (8).png>) [우아한 데이터 허브. 일 200억 건 데이터 안전하게 처리하는 대용량 시스템 구축하기](https://www.youtube.com/watch?v=AtmI56DGhi4) - in 우아한테크
 
 2024 ![](<../.gitbook/assets/image (8).png>) [IMWEB의 "데이터 민주화를 실현하는 데이터플랫폼 운영하기"](https://www.youtube.com/watch?v=hBfi_qaCsRY) - in Databricks

@@ -57,7 +57,6 @@
 
 * [MongoDB](nosql-db/mongodb.md)
 * [DynamoDB](nosql-db/dynamodb.md)
-* [Cassandra](nosql-db/cassandra.md)
 
 ## In-Memory DB
 
