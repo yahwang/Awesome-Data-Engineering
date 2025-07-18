@@ -20,3 +20,7 @@
 
 [What does In-Sync Replicas in Apache Kafka Really Mean?](https://www.cloudkarafka.com/blog/what-does-in-sync-in-apache-kafka-really-mean.html) _- in_ cloudkarafka blog
 
+***
+
+2025 [Stream Kafka Topic to the Iceberg Tables with Zero-ETL](https://medium.com/data-engineer-things/stream-kafka-topic-to-the-iceberg-tables-with-zero-etl-7ccf0e586ebc) - in Medium\
+&#x20; AutoMQ에 대한 기초 설명

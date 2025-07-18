@@ -1,13 +1,10 @@
 # Iceberg
 
-2025 [Beyond Cost Savings: The True Power of Apache Iceberg in Modern Data Architectures](https://towardsdev.com/the-true-power-of-apache-iceberg-revolutionizing-modern-data-architectures-044146d463c6) - in Medium
+2025 [입수는 Datalake로! (feat. Iceberg)](https://toss.tech/article/datalake-iceberg) - in toss tech
 
-2023 [Demystifying a Table Format : Apache Iceberg](https://medium.com/@udayaw/demystifying-a-table-format-apache-iceberg-2e1bdceb84ab) - in Medium\
-&#x20; 개념에 대한 이해
+2025 [How Apache Iceberg Actually Works](https://medium.com/@tfmv/how-apache-iceberg-actually-works-64f97fb13c45) - in Medium
 
-2023 ![](<../.gitbook/assets/image (8).png>) [Modern Transactional Data Lake](https://www.youtube.com/watch?v=OUZpQ2KZggQ) - in AWS Korea\
-&#x20; CDC -> glue -> Iceberg 테이블 기본 예제
+***
 
-2023 ![](<../.gitbook/assets/image (8).png>) [대용량의 상품을 빠르게 검색/색인 할 수 있다고?(feat. Apache Iceberg)](https://www.youtube.com/watch?v=xUpi8pXyiyk\&t=740s) - 11번가
-
-\
+2025 [How Amazon S3 Tables Solves Apache Iceberg’s Most Critical Disadvantages: A Comprehensive End-to-End Analysis](https://medium.com/aws-tip/how-amazon-s3-tables-solves-apache-icebergs-most-critical-disadvantages-a-comprehensive-12c29a892d3a) - in Medium\
+&#x20; S3 Table에 대한 소개
