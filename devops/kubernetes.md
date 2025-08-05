@@ -1,5 +1,7 @@
 # Kubernetes
 
+2025 ![](<../.gitbook/assets/image (8).png>) [감테크](https://www.youtube.com/@feeltechedu/videos)
+
 2024 ![](<../.gitbook/assets/image (8).png>) [Amazon EKS 알아보기 - EKS Overview](https://www.youtube.com/watch?v=E49Q3y9wsUo) - in AWS Korea
 
 2024 ![](<../.gitbook/assets/image (8).png>) [\[따배EKS\] 시리즈](https://www.youtube.com/watch?v=r44-FRjgf9M\&list=PLApuRlvrZKogRzF98XVC6_5KS40MBKU7M) - in TTABAE-LEARN
@@ -26,5 +28,13 @@
 
 ***
 
+2025 ![](<../.gitbook/assets/image (8).png>) [Karpenter와 EKS Auto Mode로 쿠버네티스 운영 자동화하기](https://www.youtube.com/watch?v=_Fc8CfvEAUQ) - in AWS Korea
+
 2024 ![](<../.gitbook/assets/image (8).png>) [Karpenter로 쿠버네티스 클러스터 최적화: 비용 절감과 효율성 향상](https://www.youtube.com/watch?v=bowYzxbfKzc) - in AWS Korea\
-&#x20; Cluster Autoscaler 대안
+&#x20; 동작방식 심층 소개 + 위대한상상 활용 사례
+
+2024 [NTH(NodeTerminationHandler)](https://techblog.gccompany.co.kr/nth-nodeterminationhandler-9bc5b2af4ad7) - by 여기어때\
+&#x20; SPOT Instance 15분 전 Rebalance Recommendation 이벤트 대응 가능
+
+[\
+](https://medium.com/@jensen_65502?source=post_page---byline--9bc5b2af4ad7---------------------------------------)

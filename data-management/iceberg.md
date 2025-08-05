@@ -8,3 +8,6 @@
 
 2025 [How Amazon S3 Tables Solves Apache Iceberg’s Most Critical Disadvantages: A Comprehensive End-to-End Analysis](https://medium.com/aws-tip/how-amazon-s3-tables-solves-apache-icebergs-most-critical-disadvantages-a-comprehensive-12c29a892d3a) - in Medium\
 &#x20; S3 Table에 대한 소개
+
+[https://github.com/datazip-inc/olake](https://github.com/datazip-inc/olake)\
+&#x20; PostgreSQL, MySQL, MongoDB 데이터를 Iceberg로 마이그레이션하는 오픈소스

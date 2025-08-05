@@ -1,10 +1,8 @@
 # Spark
 
-[Performance of Apache Spark on Kubernetes has caught up with YARN](https://towardsdatascience.com/performance-of-apache-spark-on-kubernetes-has-caught-up-with-yarn-73730878a792)\
-&#x20; \-  Kubernetes가 YARN의 역할을 어느 정도 따라잡았다는 글&#x20;
+2025 ![](<../.gitbook/assets/image (8).png>) [Apache Spark - The Ultimate Guide \[From ZERO To PRO\]](https://www.youtube.com/watch?v=FNJze2Ea780)
 
-[Big Data file formats](https://luminousmen.com/post/big-data-file-formats) using Spark\
-&#x20; \-  spark에서 파일 포맷 장 단점 설명&#x20;
+2025 ![](<../.gitbook/assets/image (8).png>) [PySpark Streaming Full Course | Big Data With Apache Spark](https://www.youtube.com/watch?v=r7FTCuTl84g)
 
 ## Tutorial
 
@@ -17,7 +15,7 @@
 [A Neanderthal’s Guide to Apache Spark in Python](https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427)\
 &#x20; \-  _Spark 기초 용어에 대한 친절한 설명 + SparkSQL 간단한 예제_
 
-[Apache Spark(PySpark) in Google Collaboratory](https://medium.com/@sushantgautam\_930/apache-spark-in-google-collaboratory-in-3-steps-e0acbba654e6)\
+[Apache Spark(PySpark) in Google Collaboratory](https://medium.com/@sushantgautam_930/apache-spark-in-google-collaboratory-in-3-steps-e0acbba654e6)\
 &#x20; \-  _Google Colaboratory에 spark를 설치 후 사용하는 방법 ( 디스크 용량을 위해 GPU RUNTIME에서 실행 권장 )_
 
 [Learning Apache Spark with Python](https://runawayhorse001.github.io/LearningApacheSpark/index.html)\
@@ -40,9 +38,3 @@
 
 [How to Debug Queries by Just Using Spark UI](https://medium.com/swlh/spark-ui-to-debug-queries-3ba43279efee)
 
-## ETC
-
-[Benchmarking Apache Spark on a Single Node Machine](https://databricks.com/blog/2018/05/03/benchmarking-apache-spark-on-a-single-node-machine.html) - by Databricks\
-&#x20; \-  _Single Node로도 데이터 처리(대용량)가 pandas보다  뛰어나다는 설명_
-
-[Spark로 알아보는 빅데이터 처리 SlideShare](https://www.slideshare.net/JoenggyuLenKim/spark-152302106?fbclid=IwAR0FWY83VgVU2rpJKB1BswmAbjL\_Z1tXqjoJIbKIdQ9A2FA-p6BN7w5xQec) - by 다우기술

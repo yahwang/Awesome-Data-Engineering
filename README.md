@@ -26,12 +26,6 @@ _2024_ [데이터 엔지니어의 온보딩 이야기(feat. 29CM은 처음이라
 
 2022 ![](<.gitbook/assets/image (8).png>) [5년차 데이터 엔지니어 현업 직무 인터뷰](https://www.youtube.com/watch?v=nXWKuk7OHks) - in 어허라 (Around Hub Radio)
 
-2021 [쏘카 데이터 그룹 - 데이터 엔지니어링 팀이 하는 일](https://tech.socarcorp.kr/data/2021/03/24/what-socar-data-engineering-team-does.html?fbclid=IwAR3W2h7UU7Z_4a1Kz_N4IWkT38gfcSA00g0MCqLWC8mGMG0YpGPXD-KH6b0) - by SOCAR
-
-2021 [쏘카 신입 데이터 엔지니어 디니의 4개월 회고](https://tech.socarcorp.kr/data/2021/12/28/data-engineering-team-onboarding.html) - by SOCAR
-
-2021 ![](<.gitbook/assets/image (8).png>) [데이터 엔지니어는 무슨 일을 하는 사람일까? | 데이터엔지니어 직무 소개](https://www.youtube.com/watch?v=SK1DmgQcYF4) - in 메이크센스
-
 ***
 
 [Practical Data Engineering](https://practicaldataengineering.substack.com/)
