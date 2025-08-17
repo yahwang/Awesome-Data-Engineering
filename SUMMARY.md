@@ -8,11 +8,15 @@
 * [Data Pipeline (Architecture)](data-engineering/data-pipeline-architecture.md)
 * [Data Engineering 용어 및 개념](data-engineering/data-engineering.md)
 
-## DATA MANAGEMENT
+## OPEN TABLE FORMAT
 
-* [Delta Lake](delta-lake.md)
-* [Iceberg](data-management/iceberg.md)
-* [Meta Data](data-management/tools.md)
+* [Iceberg](open-table-format/iceberg.md)
+* [Delta Lake](open-table-format/delta-lake.md)
+* [Metadata](open-table-format/tools.md)
+
+## DATA VALIDATION
+
+* [Great Expectations](data-validation/great-expectations.md)
 
 ## Serverless
 
@@ -28,23 +32,36 @@
 ## Distrubuted Processing
 
 * [Spark](distrubuted-processing/spark.md)
-* [▹ AWS EMR & Glue](distrubuted-processing/aws-emr-and-glue.md)
 * [Hadoop](distrubuted-processing/hadoop.md)
-
-## DATA VALIDATION
-
-* [Great Expectations](data-validation/great-expectations.md)
 
 ## Streaming
 
 * [Kafka](streaming/kafka.md)
-* [Druid](streaming/druid.md)
+* [Flink](streaming/flink.md)
+
+## Real-time OLAP
+
+* [Summary](real-time-olap/summary.md)
+* [Druid](real-time-olap/druid.md)
 
 ## Data Warehouse <a href="#sql-query-engine" id="sql-query-engine"></a>
 
 * [Amazon Athena](sql-query-engine/amazon-athena.md)
 * [Google BigQuery](sql-query-engine/google-bigquery.md)
 * [Redshift](sql-query-engine/redshift.md)
+
+## Workflow Management
+
+* [Airflow](workflow-management/airflow.md)
+* [dbt](workflow-management/dbt-for-dw.md)
+
+## Object Storage
+
+* [Summary](object-storage/summary.md)
+
+## Data Visualization <a href="#visualization" id="visualization"></a>
+
+* [Redash](visualization/redash.md)
 
 ## Relational DB
 
@@ -65,15 +82,6 @@
 ## SEARCH ENGINE
 
 * [Elastic Search](search-engine/elastic-search.md)
-
-## Workflow Management
-
-* [Airflow](workflow-management/airflow.md)
-* [dbt](workflow-management/dbt-for-dw.md)
-
-## Data Visualization <a href="#visualization" id="visualization"></a>
-
-* [Redash](visualization/redash.md)
 
 ## DevOps
 
