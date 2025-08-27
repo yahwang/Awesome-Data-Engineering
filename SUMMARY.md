@@ -10,9 +10,10 @@
 
 ## OPEN TABLE FORMAT
 
+* [Summary](open-table-format/summary.md)
 * [Iceberg](open-table-format/iceberg.md)
 * [Delta Lake](open-table-format/delta-lake.md)
-* [Metadata](open-table-format/tools.md)
+* [Catalog](open-table-format/tools.md)
 
 ## DATA VALIDATION
 
@@ -38,6 +39,7 @@
 
 * [Kafka](streaming/kafka.md)
 * [Flink](streaming/flink.md)
+* [CDC](streaming/cdc.md)
 
 ## Real-time OLAP
 

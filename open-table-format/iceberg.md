@@ -1,5 +1,7 @@
 # Iceberg
 
+2025 ![](<../.gitbook/assets/image (8).png>) [오픈 테이블 포맷: 데이터 레이크의 새로운 패러다임](https://www.youtube.com/watch?v=d93ZjeLxtpM) - in AWS Korea
+
 2025 [입수는 Datalake로! (feat. Iceberg)](https://toss.tech/article/datalake-iceberg) - in toss tech
 
 2025 [How Apache Iceberg Actually Works](https://medium.com/@tfmv/how-apache-iceberg-actually-works-64f97fb13c45) - in Medium
